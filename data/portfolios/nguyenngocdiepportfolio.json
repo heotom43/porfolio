@@ -226,7 +226,26 @@
             "Chuẩn hóa toàn bộ danh mục tài liệu tham khảo theo đúng quy chuẩn trích dẫn Harvard."
           ],
           "metrics": [],
-          "media": [],
+          "media": [
+            {
+              "id": "project-2-source-types",
+              "url": "/uploads/docx-media/assignment-2-source-types.svg",
+              "caption": "Tong hop cac loai nguon tai lieu",
+              "sourceType": "user-uploaded"
+            },
+            {
+              "id": "project-2-references-1",
+              "url": "/uploads/docx-media/assignment-2-references-1.svg",
+              "caption": "Danh muc tai lieu tham khao - trang 1",
+              "sourceType": "user-uploaded"
+            },
+            {
+              "id": "project-2-references-2",
+              "url": "/uploads/docx-media/assignment-2-references-2.svg",
+              "caption": "Danh muc tai lieu tham khao - trang 2",
+              "sourceType": "user-uploaded"
+            }
+          ],
           "suggestedAiImagePrompt": "BÁO CÁO HỌC THUẬT\nNGHIÊN CỨU VÀ ỨNG DỤNG TRÍ TUỆ NHÂN TẠO CÓ TRÁCH NHIỆM TRONG HỌC THUẬT VÀ NGHIÊN CỨU\n",
           "preferredImageStyle": "minimal-photo",
           "links": [],

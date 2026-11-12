@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="700" height="650" viewBox="0 0 700 650">
+  <rect width="700" height="650" fill="#fff"/>
+  <g stroke="#a8c1df" stroke-width="1">
+    <rect x="20" y="18" width="660" height="614" fill="#fff"/>
+    <rect x="20" y="18" width="660" height="38" fill="#1e3a5f" stroke="#1e3a5f"/>
+    <rect x="20" y="56" width="660" height="206" fill="#f1f5f9" stroke="none"/>
+    <rect x="20" y="314" width="660" height="90" fill="#f1f5f9" stroke="none"/>
+    <rect x="20" y="456" width="660" height="120" fill="#f1f5f9" stroke="none"/>
+    <path d="M20 18H680M20 56H680M20 262H680M20 314H680M20 366H680M20 404H680M20 456H680M20 576H680M20 632H680M20 18V632M220 18V632M590 18V632M680 18V632" fill="none"/>
+  </g>
+  <g font-family="Georgia, 'Times New Roman', serif" font-size="13" fill="#111">
+    <g fill="#fff" font-weight="bold" text-anchor="middle"><text x="120" y="42">Loại nguồn</text><text x="405" y="42">Nơi khai thác</text><text x="635" y="42">Số tài liệu</text></g>
+    <g>
+      <text x="30" y="93"><tspan x="30">Bài báo khoa học</tspan><tspan x="30" dy="20">bình duyệt (cơ sở dữ</tspan><tspan x="30" dy="20">liệu học thuật &amp; tạp</tspan><tspan x="30" dy="20">chí chuyên ngành)</tspan></text>
+      <text x="230" y="77"><tspan x="230">Google Scholar, ScienceDirect, SAGE Journals,</tspan><tspan x="230" dy="19">Taylor &amp; Francis; trang tạp chí gốc: Computers</tspan><tspan x="230" dy="19">&amp; Education, Music Education Research, Journal</tspan><tspan x="230" dy="19">of Music Teacher Education, Open Learning,</tspan><tspan x="230" dy="19">Journal of Interdisciplinary Music Studies,</tspan><tspan x="230" dy="19">Tạp chí Giáo dục Nghệ thuật.</tspan></text>
+      <text x="635" y="166" text-anchor="middle">6</text>
+      <text x="30" y="293"><tspan x="30">Sách chuyên khảo</tspan></text><text x="230" y="293">Nhà xuất bản Oxford University Press, Springer</text><text x="635" y="293" text-anchor="middle">2</text>
+      <text x="30" y="339"><tspan x="30">Các nguồn mở trên</tspan><tspan x="30" dy="18">Internet (kho ngữ liệu</tspan><tspan x="30" dy="18">âm nhạc truyền thống)</tspan></text><text x="230" y="343"><tspan x="230">CompMusic Open Research Repository – Music</tspan><tspan x="230" dy="19">Technology Group (Universitat Pompeu Fabra)</tspan></text><text x="635" y="364" text-anchor="middle">1</text>
+      <text x="30" y="427"><tspan x="30">Kỷ yếu hội thảo khoa</tspan><tspan x="30" dy="18">học quốc tế (Proceedings)</tspan></text><text x="230" y="427"><tspan x="230">IEEE Virtual Reality Workshop Proceedings</tspan><tspan x="230" dy="18">(KELVAR)</tspan></text><text x="635" y="427" text-anchor="middle">1</text>
+      <text x="30" y="486"><tspan x="30">Báo cáo tổ chức quốc tế</tspan><tspan x="30" dy="18">&amp; văn bản chính sách</tspan><tspan x="30" dy="18">giáo dục (nguồn mở rộng)</tspan></text><text x="230" y="486"><tspan x="230">UNESCO (Re|Shaping Policies for Creativity);</tspan><tspan x="230" dy="19">Bộ Giáo dục và Đào tạo Việt Nam (Chương trình</tspan><tspan x="230" dy="19">GDPT 2018 môn Âm nhạc)</tspan></text><text x="635" y="522" text-anchor="middle">2</text>
+    </g>
+  </g>
+</svg>
