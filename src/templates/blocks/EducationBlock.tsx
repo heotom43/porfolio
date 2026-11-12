@@ -82,23 +82,13 @@ export function EducationBlock({
                     }}
                   />
                 )}
-                <div className="flex flex-wrap items-center justify-between gap-2">
+                <div className="flex flex-wrap items-center gap-2">
                   <h3
                     className="text-lg font-bold"
                     style={{ color: 'var(--text, #3E2723)' }}
                   >
                     {item.school}
                   </h3>
-                  <span
-                    className="rounded-full border px-3 py-0.5 text-xs font-semibold"
-                    style={{
-                      borderColor: 'var(--primary, #735340)',
-                      color: 'var(--secondary, #5D4037)',
-                      backgroundColor: 'var(--surface, #FFF8F0)',
-                    }}
-                  >
-                    {item.period}
-                  </span>
                 </div>
                 <p
                   className="text-sm font-semibold"
@@ -181,32 +171,22 @@ export function EducationBlock({
                 }}
               />
             )}
-            <div className="flex items-start justify-between gap-3">
-              <div className="flex items-center gap-3">
-                <div
-                  className="flex h-10 w-10 items-center justify-center rounded-2xl text-white"
-                  style={{ backgroundColor: theme.primaryColor }}
-                >
-                  <GraduationCap className="h-5 w-5" />
-                </div>
-                <div>
-                  <h3 className="text-base font-bold">{item.school}</h3>
-                  <p className="text-sm font-medium opacity-80">{item.degree}</p>
-                </div>
-              </div>
-              <span
-                className={`rounded-full border px-3 py-1 text-xs font-semibold opacity-80 ${
-                  isTerminal ? 'font-mono' : ''
-                }`}
-                style={{ borderColor: tokens.borderSubtle }}
+            <div className="flex items-start gap-4">
+              <div
+                className="flex h-10 w-10 shrink-0 items-center justify-center rounded-2xl text-white"
+                style={{ backgroundColor: theme.primaryColor }}
               >
-                {item.period}
-              </span>
+                <GraduationCap className="h-5 w-5" />
+              </div>
+              <div className="min-w-0 flex-1 space-y-1">
+                <h3 className="text-base font-bold leading-snug sm:text-lg">{item.school}</h3>
+                <p className="text-sm font-medium leading-relaxed opacity-80">{item.degree}</p>
+              </div>
             </div>
 
             {item.gpaOrHonors && (
               <div
-                className="mt-3 inline-block rounded-full px-3 py-1 text-xs font-semibold"
+                className="mt-4 inline-flex max-w-full rounded-full px-3 py-1.5 text-xs font-semibold leading-relaxed"
                 style={{
                   backgroundColor: `${theme.secondaryColor}1C`,
                   color: tokens.isDarkSurface ? theme.primaryColor : theme.secondaryColor,
@@ -217,7 +197,7 @@ export function EducationBlock({
             )}
 
             {item.details && (
-              <p className="mt-3 text-sm leading-relaxed opacity-80">{item.details}</p>
+              <p className="mt-4 max-w-4xl text-sm leading-7 opacity-80">{item.details}</p>
             )}
           </div>
         ))}

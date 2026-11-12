@@ -823,7 +823,10 @@ export function ProjectsShowcaseBlock({
             const chapterNum = String(index + 1).padStart(2, "0");
             const mediaPosition = getProjectMediaPosition(project, "right");
             const mediaOrder = getProjectMediaOrder(mediaPosition);
-            const mediaSpan = mediaOrder.vertical
+            const hasMedia = (project.media?.length ?? 0) > 0;
+            const mediaSpan = !hasMedia
+              ? "lg:col-span-12"
+              : mediaOrder.vertical
               ? "lg:col-span-12"
               : "lg:col-span-6";
             return (
@@ -1032,21 +1035,23 @@ export function ProjectsShowcaseBlock({
                   </div>
 
                   {/* Right (col-span-6): Canva Framed Media + peeking vinyl disc accent */}
-                  <div
-                    className={`group relative ${mediaSpan} ${mediaOrder.media}`}
-                    data-project-content="media"
-                  >
-                    <div className="transition-all duration-300 ease-out hover:-translate-y-1.5 hover:shadow-xl">
-                      {renderAdaptiveMedia(project, index)}
+                  {hasMedia && (
+                    <div
+                      className={`group relative ${mediaSpan} ${mediaOrder.media}`}
+                      data-project-content="media"
+                    >
+                      <div className="transition-all duration-300 ease-out hover:-translate-y-1.5 hover:shadow-xl">
+                        {renderAdaptiveMedia(project, index)}
+                      </div>
+                      {index === 0 && (
+                        <CanvaVinylSketchSvg
+                          className="pointer-events-none -bottom-10 -right-4 hidden h-28 w-28 opacity-60 lg:absolute lg:block"
+                          stroke="var(--text, #3E2723)"
+                          strokeSecondary="var(--primary, #5D4037)"
+                        />
+                      )}
                     </div>
-                    {index === 0 && (
-                      <CanvaVinylSketchSvg
-                        className="pointer-events-none -bottom-10 -right-4 hidden h-28 w-28 opacity-60 lg:absolute lg:block"
-                        stroke="var(--text, #3E2723)"
-                        strokeSecondary="var(--primary, #5D4037)"
-                      />
-                    )}
-                  </div>
+                  )}
                 </div>
               </article>
             );
