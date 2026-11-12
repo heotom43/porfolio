@@ -137,6 +137,9 @@ export function ProjectDetailClientView({
   const exerciseText =
     project.exerciseNumber ||
     `Bài tập ${currentNum}${currentNum <= 6 ? ` (mục ${currentNum}.4)` : ""}`;
+  const detailExerciseNumber =
+    exerciseText.match(/(?:mục\s*)?(\d+(?:\.\d+)?)/i)?.[1] ??
+    String(currentNum);
 
   return (
     <div

@@ -126,16 +126,16 @@
           "name": "Công cụ & Nền tảng",
           "skills": [
             {
-              "name": "Tổng hợp & Trình bày Báo cáo Số",
+              "name": "Google Gemini",
               "level": 90
             },
             {
-              "name": "Ứng dụng AI hỗ trợ Sáng tạo",
-              "level": 88
+              "name": "ChatGPT",
+              "level": 90
             },
             {
-              "name": "Nghiên cứu & Giải quyết vấn đề",
-              "level": 86
+              "name": "Canva AI",
+              "level": 90
             }
           ]
         }

@@ -144,7 +144,7 @@ export function EducationBlock({
           }`}
           style={{ color: theme.primaryColor }}
         >
-          {formatSectionEyebrow(archetypeId, '04', 'Academic Background')}
+          {formatSectionEyebrow(archetypeId, '03', 'Academic Background')}
         </span>
         <h2 className="mt-1 font-editorial text-3xl font-bold">{section.title}</h2>
       </div>

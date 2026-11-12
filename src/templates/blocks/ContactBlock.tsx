@@ -218,14 +218,32 @@ export function ContactBlock({
 
             {/* Reflection body narrative */}
             <div className="mt-8 max-w-3xl text-center">
-              <p
-                className="text-base leading-relaxed sm:text-[17px]"
+              <div
+                className="space-y-4 text-left text-sm leading-relaxed sm:text-base"
                 style={{ color: "var(--text, #3E2723)", opacity: 0.9 }}
               >
-                Hành trình thực hiện các dự án đã trang bị cho tôi nền tảng vững
-                chắc về tư duy giải pháp, năng lực ứng dụng AI sáng tạo và khả
-                năng hoàn thiện sản phẩm theo chuẩn mực chất lượng cao.
-              </p>
+                <p>
+                  Quá trình học tập và tham gia chuỗi dự án giúp tôi củng cố
+                  kiến thức Sư phạm Âm nhạc, đồng thời mở rộng hiểu biết về công
+                  nghệ số. Tôi dần nhìn âm nhạc không chỉ như hoạt động biểu
+                  diễn mà còn là phương tiện khơi gợi sáng tạo và nâng cao hiệu
+                  quả giảng dạy.
+                </p>
+                <p>
+                  Qua các bài tập, tôi rèn kỹ năng tìm kiếm và đánh giá thông
+                  tin, thiết kế prompt, sử dụng công cụ cộng tác và tạo học liệu
+                  số. Khi dùng AI, tôi học cách kiểm chứng kết quả, chọn lọc nội
+                  dung và giữ vai trò chủ động trong từng quyết định.
+                </p>
+                <p>
+                  Thách thức lớn nhất là kết hợp kiến thức âm nhạc với phương
+                  pháp sư phạm phù hợp. Tôi tiếp tục củng cố nhạc lý, rèn kỹ
+                  năng biểu diễn, tìm cách truyền đạt trực quan và cải thiện
+                  việc quản lý thời gian, làm việc nhóm. Portfolio này là dấu
+                  mốc cho hành trình trở thành một giáo viên âm nhạc sáng tạo,
+                  linh hoạt và biết dùng công nghệ có trách nhiệm.
+                </p>
+              </div>
             </div>
           </div>
 
