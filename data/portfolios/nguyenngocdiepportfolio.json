@@ -207,8 +207,8 @@
             "Thực hành"
           ],
           "mediaPosition": "left",
-          "chapterTitle": "Chương 1",
-          "exerciseNumber": "Bài tập 1"
+          "chapterTitle": "Chương 1: Máy tính và các thiết bị ngoại vi",
+          "exerciseNumber": "Mục 1.4"
         },
         {
           "id": "proj-1794499540397",
@@ -241,8 +241,8 @@
           "tags": [],
           "layoutInverted": false,
           "mediaPosition": "right",
-          "chapterTitle": "Chương 2",
-          "exerciseNumber": "Bài tập 2"
+          "chapterTitle": "Chương 2: Khai thác dữ liệu và thông tin",
+          "exerciseNumber": "Mục 2.4"
         },
         {
           "id": "proj-1794499541489",
@@ -287,8 +287,8 @@
           "preferredImageStyle": "canva-pastel-graphic",
           "links": [],
           "tags": [],
-          "chapterTitle": "Chương 3",
-          "exerciseNumber": "Bài tập 3"
+          "chapterTitle": "Chương 3: Tổng quan về trí tuệ nhân tạo",
+          "exerciseNumber": "Mục 3.4"
         },
         {
           "id": "proj-1794499542054",
@@ -341,8 +341,8 @@
           "tags": [],
           "layoutInverted": false,
           "mediaPosition": "right",
-          "chapterTitle": "Chương 4",
-          "exerciseNumber": "Bài tập 4"
+          "chapterTitle": "Chương 4: Giao tiếp và hợp tác trong môi trường số",
+          "exerciseNumber": "Mục 4.4"
         },
         {
           "id": "proj-1794499542513",
@@ -385,8 +385,8 @@
           "preferredImageStyle": "canva-pastel-graphic",
           "links": [],
           "tags": [],
-          "chapterTitle": "Chương 5",
-          "exerciseNumber": "Bài tập 5"
+          "chapterTitle": "Chương 5: Sáng tạo nội dung số",
+          "exerciseNumber": "Mục 5.4"
         },
         {
           "id": "proj-1794499543056",
@@ -417,8 +417,8 @@
           "preferredImageStyle": "minimal-photo",
           "links": [],
           "tags": [],
-          "chapterTitle": "Chương 6",
-          "exerciseNumber": "Bài tập 6"
+          "chapterTitle": "Chương 6: An toàn và liêm chính học thuật trong môi trường số",
+          "exerciseNumber": "Mục 6.4"
         }
       ]
     },
@@ -428,7 +428,11 @@
       "title": "Conclusion & Contact",
       "subtitle": "Công nghệ và AI có thể mở rộng khả năng sáng tạo, nhưng tư duy sư phạm của con người mới định hướng giá trị của sản phẩm giáo dục. Rất vui được kết nối và trao đổi cùng bạn!",
       "thankYouMessage": "THANK YOU FOR WATCHING!",
-      "showContactForm": true
+      "showContactForm": true,
+      "courseInfo": {
+        "studentId": "2552210283",
+        "studentClass": "04"
+      }
     }
   ],
   "profileOwner": {
