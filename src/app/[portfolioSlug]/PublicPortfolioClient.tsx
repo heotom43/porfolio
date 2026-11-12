@@ -80,7 +80,7 @@ export function PublicPortfolioClient({
 
   const navItems = useMemo(() => {
     const seen = new Set<PortfolioSection['type']>();
-    return portfolioDoc.sections
+    const items: Array<{ id: string; label: string }> = portfolioDoc.sections
       .filter((sec) => {
         if (seen.has(sec.type)) return false;
         seen.add(sec.type);
@@ -90,6 +90,11 @@ export function PublicPortfolioClient({
         id: sec.type,
         label: FLOATING_NAV_LABELS[sec.type],
       }));
+    const contactIndex = items.findIndex((item) => item.id === 'contact');
+    if (contactIndex >= 0) {
+      items.splice(contactIndex, 0, { id: 'conclusion', label: 'Lời kết' });
+    }
+    return items;
   }, [portfolioDoc.sections]);
 
   useEffect(() => {
@@ -113,7 +118,7 @@ export function PublicPortfolioClient({
     };
   }, [portfolioDoc.theme.backgroundColor, portfolioDoc.theme.primaryColor]);
 
-  const [activeSection, setActiveSection] = useState<PortfolioSection['type']>(
+  const [activeSection, setActiveSection] = useState<string>(
     navItems[0]?.id ?? 'hero'
   );
 
@@ -128,7 +133,7 @@ export function PublicPortfolioClient({
           .filter((entry) => entry.isIntersecting)
           .sort((a, b) => b.intersectionRatio - a.intersectionRatio);
         if (visible[0]?.target.id) {
-          setActiveSection(visible[0].target.id as PortfolioSection['type']);
+          setActiveSection(visible[0].target.id);
         }
       },
       { rootMargin: '-25% 0px -55% 0px', threshold: [0.1, 0.4] }
@@ -144,7 +149,7 @@ export function PublicPortfolioClient({
 
   const handleJumpToSection = (
     e: React.MouseEvent<HTMLAnchorElement>,
-    sectionId: PortfolioSection['type']
+    sectionId: string
   ) => {
     e.preventDefault();
     setActiveSection(sectionId);

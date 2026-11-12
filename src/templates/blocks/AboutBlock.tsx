@@ -1074,9 +1074,9 @@ export function AboutBlock({
       }
       if (layout === "bento-facts") {
         return index === 0
-          ? "md:col-span-4"
+          ? "md:col-span-2"
           : index === 1
-            ? "md:col-span-2"
+            ? "md:col-span-4"
             : "md:col-span-6";
       }
       if (layout === "grid") {

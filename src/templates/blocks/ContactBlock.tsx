@@ -29,7 +29,7 @@ export interface ContactBlockProps {
   ownerEmail?: string;
   ownerName?: string;
   ownerRole?: string;
-  projects?: Array<{ id: string; title: string; category?: string }>;
+  projects?: Array<{ id: string; title: string; category?: string; docxUrl?: string }>;
   profileOwner?: ProfileOwner;
 }
 
@@ -162,11 +162,10 @@ export function ContactBlock({
   if (isCanvaEditorial && contactVariant === "full-banner") {
     return (
       <section
-        id="contact"
         className="reveal-on-scroll relative overflow-hidden pt-10"
       >
-        {/* Slide 8: Conclusion with spiral music staff & 3 mocha pills */}
-        <div className="reveal-on-scroll relative mx-auto max-w-6xl px-4 py-10 sm:px-6 lg:px-8">
+        {/* Conclusion reflection, separated from the contact card below. */}
+        <section id="conclusion" className="reveal-on-scroll relative mx-auto max-w-6xl px-4 py-10 sm:px-6 lg:px-8">
           <CanvaSpiralMusicStaff
             className="pointer-events-none -left-16 -top-8 hidden h-64 w-72 opacity-85 md:absolute md:block"
             stroke="var(--text, #2E1D18)"
@@ -190,65 +189,39 @@ export function ContactBlock({
                 color="var(--primary, #735340)"
               />
             </div>
+            <p className="mt-3 text-xs font-bold uppercase tracking-[0.18em] opacity-65" style={{ color: "var(--primary, #735340)" }}>
+              05 // Reflect &amp; Grow
+            </p>
 
-            <div className="mt-10 grid w-full max-w-4xl grid-cols-1 gap-6 sm:grid-cols-3">
-              {CONCLUSION_PILLS.map((pill) => (
-                <div
-                  key={pill.num}
-                  className="flex flex-col items-center gap-2.5"
-                >
-                  <span
-                    className="text-lg font-extrabold"
-                    style={{ color: "var(--text, #3E2723)" }}
-                  >
-                    {pill.num}
-                  </span>
-                  <div
-                    className="flex min-h-[68px] w-full items-center justify-center rounded-full px-5 py-3 text-center text-xs font-semibold uppercase leading-snug tracking-wide shadow-sm transition-all duration-300 hover:-translate-y-1 hover:shadow-md"
-                    style={{
-                      backgroundColor: "var(--primary, #735340)",
-                      color: "var(--bg, #FFF3E6)",
-                    }}
-                  >
-                    {pill.label}
-                  </div>
-                </div>
-              ))}
-            </div>
-
-            {/* Reflection body narrative */}
-            <div className="mt-8 max-w-3xl text-center">
-              <div
-                className="space-y-4 text-left text-sm leading-relaxed sm:text-base"
-                style={{ color: "var(--text, #3E2723)", opacity: 0.9 }}
-              >
-                <p>
-                  Quá trình học tập và tham gia chuỗi dự án giúp tôi củng cố
-                  kiến thức Sư phạm Âm nhạc, đồng thời mở rộng hiểu biết về công
-                  nghệ số. Tôi dần nhìn âm nhạc không chỉ như hoạt động biểu
-                  diễn mà còn là phương tiện khơi gợi sáng tạo và nâng cao hiệu
-                  quả giảng dạy.
-                </p>
-                <p>
-                  Qua các bài tập, tôi rèn kỹ năng tìm kiếm và đánh giá thông
-                  tin, thiết kế prompt, sử dụng công cụ cộng tác và tạo học liệu
-                  số. Khi dùng AI, tôi học cách kiểm chứng kết quả, chọn lọc nội
-                  dung và giữ vai trò chủ động trong từng quyết định.
-                </p>
-                <p>
-                  Thách thức lớn nhất là kết hợp kiến thức âm nhạc với phương
-                  pháp sư phạm phù hợp. Tôi tiếp tục củng cố nhạc lý, rèn kỹ
-                  năng biểu diễn, tìm cách truyền đạt trực quan và cải thiện
-                  việc quản lý thời gian, làm việc nhóm. Portfolio này là dấu
-                  mốc cho hành trình trở thành một giáo viên âm nhạc sáng tạo,
-                  linh hoạt và biết dùng công nghệ có trách nhiệm.
-                </p>
-              </div>
+            <div className="mt-10 grid w-full grid-cols-1 gap-5 lg:grid-cols-3">
+              <article className="rounded-3xl border bg-white/75 p-5 shadow-sm sm:p-6" style={{ borderColor: "var(--primary, #735340)35" }}>
+                <p className="font-editorial text-3xl font-extrabold" style={{ color: "var(--primary, #735340)" }}>[01]</p>
+                <h3 className="mt-2 text-base font-bold sm:text-lg">Trải nghiệm &amp; cảm nhận về chuỗi dự án</h3>
+                <p className="mt-3 text-sm leading-relaxed opacity-85">Quá trình học tập giúp tôi củng cố kiến thức Sư phạm Âm nhạc, từ nhạc lý, thanh nhạc, hòa tấu đến phương pháp tổ chức hoạt động âm nhạc. Tôi nhận ra âm nhạc không chỉ là biểu diễn mà còn khơi gợi cảm xúc, tư duy và sự sáng tạo của người học.</p>
+              </article>
+              <article className="rounded-3xl border bg-white/75 p-5 shadow-sm sm:p-6" style={{ borderColor: "var(--primary, #735340)35" }}>
+                <p className="font-editorial text-3xl font-extrabold" style={{ color: "var(--primary, #735340)" }}>[02]</p>
+                <h3 className="mt-2 text-base font-bold sm:text-lg">Kiến thức &amp; kỹ năng cốt lõi đạt được</h3>
+                <ul className="mt-3 list-disc space-y-2 pl-5 text-sm leading-relaxed opacity-85">
+                  <li>Vận dụng công nghệ số và AI vào học tập, sáng tạo học liệu âm nhạc.</li>
+                  <li>Tìm kiếm, đánh giá và kiểm chứng thông tin; thiết kế prompt rõ mục tiêu.</li>
+                  <li>Cộng tác trực tuyến, trình bày sản phẩm và phản tư về quá trình thực hiện.</li>
+                </ul>
+              </article>
+              <article className="rounded-3xl border bg-white/75 p-5 shadow-sm sm:p-6" style={{ borderColor: "var(--primary, #735340)35" }}>
+                <p className="font-editorial text-3xl font-extrabold" style={{ color: "var(--primary, #735340)" }}>[03]</p>
+                <h3 className="mt-2 text-base font-bold sm:text-lg">Tâm đắc, thử thách &amp; định hướng</h3>
+                <p className="mt-3 text-sm leading-relaxed opacity-85">Thử thách lớn nhất là kết hợp chuyên môn âm nhạc với phương pháp truyền đạt phù hợp. Tôi tiếp tục rèn kỹ năng biểu diễn, thiết kế học liệu trực quan, quản lý thời gian và làm việc nhóm. Đây là nền tảng để tôi hướng tới hình ảnh một giáo viên âm nhạc sáng tạo, linh hoạt và biết dùng công nghệ có trách nhiệm.</p>
+              </article>
             </div>
           </div>
+        </section>
 
           {/* Slide 9: Large rounded Mocha block with floating Rota sheet music & exercise links */}
-          <div className="reveal-on-scroll relative mx-auto mt-14 max-w-5xl">
+          <p className="mx-auto mt-8 max-w-5xl px-4 text-xs font-bold uppercase tracking-[0.18em] opacity-65 sm:px-6 lg:px-8" style={{ color: "var(--primary, #735340)" }}>
+            06 // Contact
+          </p>
+          <section id="contact" className="reveal-on-scroll relative mx-auto mt-14 max-w-5xl px-4 sm:px-6 lg:px-8">
             <CanvaRotaSheetSticker
               className="pointer-events-none -left-14 -top-12 z-20 hidden h-56 w-56 sm:absolute sm:block"
               paperBg="var(--surface, #FFFDF8)"
@@ -323,7 +296,7 @@ export function ContactBlock({
                 </p>
               )}
             </div>
-          </div>
+          </section>
 
           {/* Clean paper Contact Form */}
           {section.showContactForm && (
@@ -426,10 +399,9 @@ export function ContactBlock({
               )}
             </div>
           )}
-        </div>
 
         {/* Slide 10: Thank You ! + Halftone Vinyls + Yellow Starburst */}
-        <div className="reveal-on-scroll relative mt-12 overflow-hidden py-16 sm:py-24">
+        <section className="reveal-on-scroll relative mt-12 overflow-hidden py-16 sm:py-24">
           <CanvaHalftoneVinylLeft
             className="pointer-events-none absolute -left-2 bottom-2 top-2 h-full w-28 opacity-90 sm:w-44 md:w-52"
             ringColor="var(--bg, #FFF3E6)"
@@ -458,7 +430,7 @@ export function ContactBlock({
               {section.thankYouMessage}
             </p>
           </div>
-        </div>
+        </section>
 
         {/* Mandatory INF2501 Course Footer Strip */}
         {renderCourseFooter()}
@@ -565,10 +537,57 @@ export function ContactBlock({
   );
 
   return (
-    <section
-      id="contact"
-      className="mx-auto max-w-6xl px-4 pb-20 pt-12 sm:px-6 lg:px-8"
-    >
+    <>
+    <section id="conclusion" className="mx-auto max-w-6xl px-4 py-14 sm:px-6 lg:px-8">
+      <div className="mb-8 flex items-end justify-between gap-4">
+        <div>
+          <p className="text-xs font-bold uppercase tracking-[0.2em]" style={{ color: theme.primaryColor }}>05 // Reflect &amp; Grow</p>
+          <h2 className="mt-2 font-editorial text-4xl font-bold sm:text-5xl" style={{ color: theme.textColor }}>Conclusion</h2>
+        </div>
+        <ContactStar className="mb-2 h-8 w-8 shrink-0 text-amber-500" />
+      </div>
+      <div className="grid grid-cols-1 gap-5 lg:grid-cols-3">
+        <article className="rounded-3xl border bg-white p-6 shadow-sm" style={{ borderColor: `${theme.primaryColor}35` }}>
+          <p className="font-editorial text-3xl font-extrabold" style={{ color: theme.primaryColor }}>[01]</p>
+          <h3 className="mt-2 text-lg font-bold">Trải nghiệm &amp; cảm nhận về chuỗi dự án</h3>
+          <p className="mt-3 text-sm leading-relaxed opacity-80">Quá trình học tập giúp tôi củng cố nền tảng Sư phạm Âm nhạc, từ nhạc lý, thanh nhạc, hòa tấu đến phương pháp tổ chức hoạt động âm nhạc. Tôi nhận ra âm nhạc không chỉ là biểu diễn mà còn khơi gợi cảm xúc, tư duy và sáng tạo của người học.</p>
+        </article>
+        <article className="rounded-3xl border bg-white p-6 shadow-sm" style={{ borderColor: `${theme.primaryColor}35` }}>
+          <p className="font-editorial text-3xl font-extrabold" style={{ color: theme.primaryColor }}>[02]</p>
+          <h3 className="mt-2 text-lg font-bold">Kiến thức &amp; kỹ năng cốt lõi</h3>
+          <ul className="mt-3 list-disc space-y-2 pl-5 text-sm leading-relaxed opacity-80"><li>Tìm kiếm, đánh giá và kiểm chứng thông tin.</li><li>Thiết kế prompt, sử dụng AI có trách nhiệm và sáng tạo học liệu số.</li><li>Cộng tác trực tuyến, trình bày sản phẩm và phản tư quá trình thực hiện.</li></ul>
+        </article>
+        <article className="rounded-3xl border bg-white p-6 shadow-sm" style={{ borderColor: `${theme.primaryColor}35` }}>
+          <p className="font-editorial text-3xl font-extrabold" style={{ color: theme.primaryColor }}>[03]</p>
+          <h3 className="mt-2 text-lg font-bold">Thử thách &amp; định hướng</h3>
+          <p className="mt-3 text-sm leading-relaxed opacity-80">Thử thách lớn nhất là kết hợp chuyên môn với phương pháp truyền đạt phù hợp. Tôi tiếp tục rèn kỹ năng biểu diễn, thiết kế học liệu trực quan, quản lý thời gian và làm việc nhóm để trở thành giáo viên âm nhạc sáng tạo, linh hoạt và biết truyền cảm hứng.</p>
+        </article>
+      </div>
+      <div className="mt-12 grid gap-8 lg:grid-cols-[1.2fr_0.8fr]">
+        <div className="rounded-3xl border bg-white p-6 shadow-sm sm:p-8" style={{ borderColor: `${theme.primaryColor}35` }}>
+          <h3 className="font-editorial text-xl font-bold sm:text-2xl">Tổng hợp đường dẫn bài tập</h3>
+          <ol className="mt-5 space-y-3">
+            {projects.map((project, idx) => (
+              <li key={project.id || idx} className="flex items-start gap-3 text-sm leading-relaxed">
+                <span className="font-bold" style={{ color: theme.primaryColor }}>{String(idx + 1).padStart(2, "0")}.</span>
+                <a href={project.docxUrl || `#project-item-${idx}`} target={project.docxUrl ? "_blank" : undefined} rel={project.docxUrl ? "noreferrer" : undefined} className="underline decoration-current/30 underline-offset-4 hover:decoration-current">{project.title}</a>
+              </li>
+            ))}
+          </ol>
+        </div>
+        <div className="rounded-3xl border bg-white p-6 shadow-sm sm:p-8" style={{ borderColor: `${theme.primaryColor}35` }}>
+          <h3 className="font-editorial text-xl font-bold sm:text-2xl">Công cụ AI &amp; cách sử dụng</h3>
+          <ol className="mt-5 space-y-4 text-sm leading-relaxed">
+            <li><strong>Gemini:</strong> gợi ý ý tưởng, lập dàn ý và mở rộng hướng tìm hiểu; thông tin được đối chiếu trước khi đưa vào bài.</li>
+            <li><strong>ChatGPT:</strong> hỗ trợ làm rõ câu hỏi, trao đổi và rà soát cấu trúc; nội dung được chọn lọc, chỉnh sửa theo mục tiêu học tập.</li>
+            <li><strong>Canva AI:</strong> hỗ trợ phát triển hình ảnh, bố cục và học liệu trực quan; sản phẩm được kiểm tra về tính phù hợp.</li>
+          </ol>
+          <p className="mt-5 border-t pt-4 text-xs leading-relaxed opacity-70" style={{ borderColor: `${theme.primaryColor}25` }}>AI hỗ trợ quá trình tìm ý và sáng tạo. Việc kiểm chứng thông tin, lựa chọn nội dung và quyết định sư phạm vẫn do tôi đảm nhiệm.</p>
+        </div>
+      </div>
+    </section>
+    <section id="contact" className="mx-auto max-w-6xl px-4 pb-20 pt-8 sm:px-6 lg:px-8">
+      <p className="mb-3 text-xs font-bold uppercase tracking-[0.2em]" style={{ color: theme.primaryColor }}>06 // Contact</p>
       {contactVariant === "minimal-card" ? (
         <div
           className="relative mx-auto max-w-3xl overflow-hidden rounded-[2rem] border p-8 text-center shadow-sm sm:p-14"
@@ -823,5 +842,6 @@ export function ContactBlock({
       {/* Mandatory INF2501 Course Footer Strip */}
       {renderCourseFooter()}
     </section>
+    </>
   );
 }
