@@ -1,0 +1,271 @@
+{
+  "id": "batch-bai2portfolio-1794486480574-3",
+  "slug": "bai2portfolio",
+  "templateId": "academic-presentation",
+  "imageGenerationConfig": {
+    "mode": "hybrid-auto",
+    "visualStyle": "minimal-photo"
+  },
+  "seo": {
+    "title": "Bài 2 | Digital Portfolio 2026",
+    "description": "Tổng hợp 1 bài tập và dự án thực hành về AI Prompt Engineering được xây dựng bài bản và đo lường kết quả rõ ràng."
+  },
+  "theme": {
+    "primaryColor": "#9B302D",
+    "secondaryColor": "#6A1C1B",
+    "backgroundColor": "#EDEAE2",
+    "surfaceColor": "#FFFFFF",
+    "textColor": "#9B302D",
+    "headingFont": "Merriweather",
+    "bodyFont": "Be Vietnam Pro",
+    "borderRadius": "md",
+    "pageTransition": "slide-deck",
+    "effects": {
+      "enableFloat": false,
+      "enableGlow": false,
+      "enableTilt": false,
+      "enableSparkles": true,
+      "revealVariant": "fade-up",
+      "enableParallax": false
+    },
+    "backgroundIllustration": {
+      "mode": "preset",
+      "presetId": "vintage-parchment",
+      "opacity": 0.2,
+      "blur": 0,
+      "position": "cover"
+    }
+  },
+  "sections": [
+    {
+      "type": "projects",
+      "variant": "canva-slide-showcase",
+      "title": "Project • 01 Bài Tập Thực Hành",
+      "subtitle": "Nội dung được tổng hợp từ tài liệu DOCX đã nạp; vui lòng kiểm tra tính chính xác trước khi công bố.",
+      "projects": [
+        {
+          "id": "proj-docx-1-1794486480573",
+          "title": "Dự án AI Prompt Engineering",
+          "category": "AI Prompt Engineering",
+          "sourceDocxFileName": "Bài 2.docx",
+          "assignmentBrief": "BÁO CÁO THỰC HÀNH: VIẾT PROMPT HIỆU QUẢ CHO CÁC TÁC VỤ HỌC TẬP Chủ đề: Năng lực học tập đại học thời đại công nghệ I. Mục tiêu và phương pháp triển khai Báo cáo tập trung thực hành kỹ năng thiết kế, kiểm thử và tối ưu hó",
+          "summary": "BÁO CÁO THỰC HÀNH: VIẾT PROMPT HIỆU QUẢ CHO CÁC TÁC VỤ HỌC TẬP Chủ đề: Năng lực học tập đại học thời đại công nghệ I. Mục tiêu và phương pháp triển khai Báo cáo tập trung thực hành kỹ năng thiết kế, kiểm thử và tối ưu hóa câu lệnh (Prompt Engineering) nhằm khai thác hiệu quả các ",
+          "keyTakeaways": [
+            "BÁO CÁO THỰC HÀNH: VIẾT PROMPT HIỆU QUẢ CHO CÁC TÁC VỤ HỌC TẬP Chủ đề: Năng lực học tập đại học thời đại công nghệ I",
+            "Mục tiêu và phương pháp triển khai Báo cáo tập trung thực hành kỹ năng thiết kế, kiểm thử và tối ưu hóa câu lệnh (Prompt Engineering) nhằm khai thác hiệu quả các",
+            "Hoàn thiện case study \"Dự án AI Prompt Engineering\" theo quy trình Đề bài – Giải pháp – Kết quả"
+          ],
+          "fullRawExcerpt": "BÁO CÁO THỰC HÀNH: VIẾT PROMPT HIỆU QUẢ CHO CÁC TÁC VỤ HỌC TẬP Chủ đề: Năng lực học tập đại học thời đại công nghệ I. Mục tiêu và phương pháp triển khai Báo cáo tập trung thực hành kỹ năng thiết kế, kiểm thử và tối ưu hóa câu lệnh (Prompt Engineering) nhằm khai thác hiệu quả các mô hình ngôn ngữ lớn (LLM – Large Language Models) trong ba nhiệm vụ học tập thiết yếu, có tính phổ biến và khả năng ứng dụng rộng rãi đối với sinh viên đại học thuộc mọi khối ngành, từ Kỹ thuật, Khoa học Tự nhiên đến Kinh tế và Khoa học Xã hội: 1. Khái quát bài đọc khoa học về Làm việc sâu (Deep Work) và tình trạng phân mảnh chú ý: Phân tích chính xác cơ chế “dư lượng chú ý” (Attention Residue), ma trận tổ chức công việc tập trung và các giải pháp phòng tránh kiệt sức số, bảo đảm không bổ sung hoặc lược bỏ dữ liệu ngoài văn bản gốc. 2. Làm rõ và đối chiếu hai kỹ thuật học tập hỗ trợ ghi nhớ dài hạn: Lặp lại ngắt quãng (Spaced Repetition) và Thu hồi chủ động (Active Recall). Phân tích sự khác biệt về cơ chế nhận thức và ghi nhớ, làm rõ vai trò của việc củng cố kết nối synap và tác động đến đường cong quên lãng Ebbinghaus, qua đó giải quyết tình trạng học trước quên sau trong các kỳ thi học kỳ. 3. Thiết kế bộ câu hỏi ôn tập gắn với tình huống thực tiễn về kỹ năng giải quyết xung đột nhóm (Teamwork Conflict Resolution): Vận dụng mô hình Thomas-Kilmann (TKI) để phân tích và xử lý các tình huống liên quan đến hiện tượng “người đi nhờ xe” (Free-rider) và những bất đồng quan điểm trong quá trình thực hiện tiểu luận, bài tập lớn theo nhóm ở bậc đại học. Đối với mỗi nhiệm vụ học tập, báo cáo xây dựng ba phiên bản prompt tương ứng với ba cấp độ: Cơ bản (ngắn gọn, đơn giản), Chi tiết (có cấu trúc rõ ràng, quy định dung lượng và xác định đối tượng tiếp nhận) và Nâng cao (vận dụng Role Prompting, Chain-of-Thought, cấu trúc lập luận học thuật được chuẩn hóa và cơ chế tự kiểm chứng Self-Verification nhằm hạn chế suy diễn thiếu căn cứ). II. Nhiệm vụ 1 – Tóm tắt văn bản học thuật: Làm việc sâu (Deep Work) và Sự phân mảnh chú ý Văn bản đầu vào dùng để thử nghiệm (Đoạn văn bản mô phỏng từ bài báo nghiên cứu về Tâm lý học nhận thức và Năng suất học tập của Giáo sư Cal Newport): \"Trong kỷ nguyên số, khả năng làm việc sâu (Deep Work)—được định nghĩa là trạng thái tập trung cao độ, không bị xao nhãng để thực hiện các hoạt động nhận thức đòi hỏi nỗ lực trí tuệ tối đa—đang trở thành một siêu năng lực ngày càng hiếm hoi nhưng có giá trị sống còn đối với sinh viên. Trái ngược với làm việc sâu là 'làm việc nông' (Shallow Work), bao gồm các tác vụ ít đòi hỏi tư duy nhưng liên tục bị ngắt quãng bởi thông báo mạng xã hội, tin nhắn và kiểm tra email. Nghiên cứu của Sophie Leroy chỉ ra rằng mỗi khi con người chuyển đổi sự chú ý từ bài tập sang kiểm tra điện thoại dù chỉ trong vài giây, não bộ sẽ để lại một hiện tượng gọi là 'dư lượng chú ý' (Attention Residue). Sự chú ý không thể quay lại bài học ngay lập tức mà vẫn mắc kẹt ở tác vụ vừa xem, làm suy giảm nghiêm trọng khả năng tư duy giải quyết vấn đề phức tạp và khiến não bộ nhanh chóng kiệt sức. Để xây dựng khả năng làm việc sâu, sinh viên không thể chỉ trông cậy vào ý chí nhất thời, mà buộc phải thiết lập kỷ luật không gian, cô lập các thiết bị gây nhiễu và rèn luyện các khoảng thời gian tập trung tăng dần từ 60 đến 90 phút mỗi ngày.\" Loại prompt Prompt sử dụng Kết quả thử nghiệm / Nhận xét chuyên môn Cơ bản Tóm tắt đoạn văn sau về làm việc sâu (Deep Work) và dư lượng chú ý. • Kết quả của AI: Làm việc sâu là khả năng tập trung cao độ không xao nhãng để giải quyết việc khó. Ngược lại là làm việc nông với nhiều ngắt quãng từ mạng xã hội. Khi chuyển đổi chú ý liên tục, hiện tượng 'dư lượng chú ý' sẽ làm giảm khả năng tư duy và gây mệt mỏi. Sinh viên cần rèn luyện tập trung từ 60-90 phút mỗi ngày và cách ly điện thoại. • Nhận xét chuyên môn: Nắm bắt được ý chính nhưng diễn đạt tản mạn, chưa bóc tách rành mạch cơ chế tâm lý nhận thức và thiếu tính phân tầng phương pháp luận sư phạm. Chi tiết Bạn là Chuyên gia cố vấn phương pháp học tập đại học. Hãy tóm tắt đoạn văn trên trong khoảng 70–90 từ tiếng Việt cho sinh viên đại học. Bắt buộc nêu đủ 3 nội dung: (1) Bản chất của Deep Work đối lập với Shallow Work; (2) Cơ chế gây hại của hiện tượng dư lượng chú ý (Attention Residue); (3) Giải pháp thiết lập kỷ luật hành vi bền vững. Giữ đúng thuật ngữ tâm lý học nhận thức, không thêm thông tin ngoài văn bản. • Kết quả của AI: 'Deep Work là trạng thái tập trung sâu không xao nhãng phục vụ tư duy phức tạp, đối lập hoàn toàn với Shallow Work tản mạn do ngắt quãng liên tục. Cơ chế gây hại cốt lõi nằm ở hiện tượng dư lượng chú ý (Attention Residue): việc chuyển đổi sang thiết bị số khiến não bộ bị mắc kẹt nhận thức, làm suy giảm năng lực giải quyết vấn đề và gây kiệt sức. Để khắc phục, sinh viên cần thiết lập kỷ luật không gian, cô lập thiết bị gây nhiễu và rèn luyện các khối tập trung từ 60–90 phút.' • Nhận xét chuyên môn: Bản tóm tắt cô đọng, đúng số lượng từ quy định, cấu trúc 3 ý chuẩn mực, giữ nguyên các thuật ngữ nhận thức học chính xác và bám sát toàn diện ngữ liệu gốc. Nâng cao (Role + CoT + Ràng buộc xác thực) Đóng vai trò là Giám đốc Nghiên cứu Khoa học Não bộ và Năng suất Con người. Hãy đọc đoạn văn trên và thực hiện: 1. Trích xuất 01 câu luận đề nguyên tắc (Core premise) về cơ chế sinh học giải thích vì sao ý chí đơn thuần không thể duy trì sự tập trung trước công nghệ số. 2. Tóm tắt nội dung văn bản thành 3 gạch đầu dòng: Định nghĩa nhận thức chuyên sâu – Chi phí chuyển đổi chú ý của não bộ – Chiến lược tái cấu trúc thói quen. 3. Tự kiểm tra (Self-Verification): Rà soát xem câu trả lời có tự tiện đưa thêm tên ứng dụng chặn mạng xã hội hay lý thuyết Pomodoro không có trong đoạn trích không. Ràng buộc: Chỉ dùng dữ liệu trong đoạn trích; nếu văn bản không nhắc tới công cụ cụ thể nào thì tuyệt đối không tự thêm vào. • Kết quả của AI: 1. Luận đề nguyên tắc: Việc duy trì sự tập trung sâu không thể phụ thuộc vào nỗ lực ý chí nhất thời, mà phải dựa trên cơ chế chủ động loại trừ các kích thích gây nhiễu và thiết lập khối thời gian cố định. 2. Tóm tắt 3 tầng nhận thức: - Định nghĩa nhận thức: Khả năng duy trì sự chú ý liền mạch tuyệt đối cho các tác vụ trí tuệ đòi hỏi nỗ lực tối đa, khu biệt với các hoạt động làm việc nông bề nổi. - Chi phí chuyển đổi chú ý: Hiện tượng 'dư lượng chú ý' giữ lại một phần năng lượng não bộ ở tác vụ trước đó, làm phân mảnh tư duy logic và gây kiệt quệ hệ thần kinh. - Chiến lược thói quen: Chủ động thiết lập môi trường vật lý không xao nhãng, cách ly công nghệ và tăng dần sức bền tập trung theo chu kỳ 60 đến 90 phút. 3. Tự kiểm tra: Toàn bộ thông tin trung thành 100% với trích đoạn, không nhắc tới ứng dụng ngoài (Forest, Notion) hay phương pháp Pomodoro. • Nhận xét chuyên môn: Đạt chuẩn văn phong khoa học thần kinh nhận thức cao cấp, bóc tách cấu trúc bài toán chú ý sắc sảo và triệt tiêu hoàn toàn nguy cơ ảo giác thông tin. Đánh giá kết quả Nhiệm vụ 1: Đối với chủ đề năng suất học tập đại học, prompt nâng cao phát huy ưu thế tuyệt đối khi vừa giải mã cơ chế tâm lý thần kinh thực tế, vừa ngăn chặn AI tự động đưa thêm các ứng dụng hoặc mẹo vặt ngoài bài viết, bảo đảm tính liêm chính dữ liệu học thuật. III. Nhiệm vụ 2 – Giải thích khái niệm phức tạp: Lặp lại ngắt quãng (Spaced Repetition) và Thu hồi chủ động (Active Recall) Trong khoa học học tập (Science of Learning), hai kỹ thuật 'Lặp lại ngắt quãng' (Spaced Repetition) và 'Thu hồi chủ động' (Active Recall) được xem là bộ đôi quyền lực nhất để tối ưu hóa bộ nhớ dài hạn. Tuy nhiên, hơn 80% sinh viên đại học vẫn nhầm lẫn giữa việc 'đọc lại nhiều lần' (Passive Re-reading) với việc 'chủ động kéo thông tin ra khỏi não', dẫn đến ảo tưởng hiểu bài nhưng nhanh chóng quên sạch khi bước vào phòng thi. Loại prompt Prompt sử dụng Kết quả thử nghiệm / Nhận xét chuyên môn Cơ bản Phân biệt Spaced Repetition và Active Recall trong phương pháp học tập đại học. • Kết quả: Spaced Repetition là việc ôn lại bài sau những khoảng thời gian ngắt quãng tăng dần để không bị quên theo đường cong Ebbinghaus. Active Recall là phương pháp chủ động nhớ lại kiến thức thay vì chỉ đọc thụ động, ví dụ dùng flashcard hay tự hỏi bản thân. Kết hợp cả hai giúp học thi rất tốt. • Nhận xét: Nêu định nghĩa mang tính mô tả chung, chưa chỉ ra được cơ chế sinh học thần kinh sâu (củng cố liên kết synap) và sự khác biệt về bản chất giữa 'Thời điểm ôn tập' (Timing) và 'Phương thức xử lý thông tin' (Mechanism). Chi tiết Bạn là Giảng viên môn Khoa học Nhận thức và Phương pháp Học tập Đại học. Hãy phân biệt 'Lặp lại ngắt quãng' (Spaced Repetition) và 'Thu hồi chủ động' (Active Recall) cho sinh viên năm nhất. Trình bày dạng bảng so sánh gồm: (1) Bản chất định nghĩa; (2) Cơ chế tác động lên não bộ (nhắc tới Đường cong quên lãng Ebbinghaus và Thử thách gợi nhớ); (3) Hình thức thực hành điển hình; (4) Cạm bẫy học thụ động cần tránh (Ảo tưởng năng lực - Illusion of competence). Cung cấp 01 ví dụ lịch trình ôn thi kết hợp cả hai phương pháp trong 7 ngày. • Kết quả của AI: Lập bảng 4 tiêu chí rõ ràng: - Bản chất: Spaced Repetition giải quyết câu hỏi 'KHI NÀO NÊN ÔN' (chiến lược phân bổ thời gian); Active Recall giải quyết câu hỏi 'ÔN NHƯ THẾ NÀO' (cách thức não bộ truy xuất thông tin). - Cơ chế não bộ: Spaced Repetition làm phẳng đường cong quên lãng bằng cách ôn lại đúng thời điểm kiến thức chuẩn bị rơi rụng; Active Recall buộc não bộ nỗ lực đào sâu đường mòn thần kinh, củng cố synap qua việc tái cấu trúc thông tin. - Thực hành: Spaced Repetition dùng hệ thống hộp Leitner hoặc thuật toán ngắt quãng; Active Recall dùng phương pháp che vở tự kiểm tra, vẽ sơ đồ tư duy từ trí nhớ, làm đề thi thử. - Cạm bẫy ảo tưởng: Việc đọc đi đọc lại hay dùng bút dạ quang highlight tạo ra 'ảo tưởng quen thuộc' (Fluency illusion)—tưởng mình đã thuộc nhưng thực chất chỉ là nhận diện mặt chữ. - Lịch trình 7 ngày kết hợp: Ngày 1 (Học + Tự tóm tắt từ trí nhớ) -> Ngày 2 (Giải đề thử không mở sách) -> Ngày 4 (Tự vấn kiến thức sai bằng flashcard) -> Ngày 7 (Mô phỏng bài thi thực tế). • Nhận xét chuyên môn: Rành mạch, sư phạm, phân tích rành rẽ giữa trục thời gian và trục cơ chế nhận thức, có lịch trình thực hành thiết thực. Nâng cao (Role + CoT + Phản biện Thói quen Ôn thi nước đến chân) Đóng vai Giám đốc Trung tâm Nâng cao Năng lực Trí tuệ (Center for Cognitive Enhancement). Hãy hướng dẫn sinh viên giải mã thất bại của phương pháp 'Nhồi nhét trước đêm thi' (Cramming) dưới góc độ khoa học thần kinh: 1. Phân tích chuỗi suy luận sinh học (Chain-of-Thought) về quá trình chuyển dịch từ Trí nhớ ngắn hạn (Short-term memory) sang Trí nhớ dài hạn (Long-term memory) thông qua giấc ngủ và sự củng cố synap. 2. Cung cấp 01 tình huống vùng xám: Sinh viên dành 10 tiếng đọc lại giáo trình 3 lần và highlight vàng kín sách nhưng đi thi vẫn bị 'trắng não' (blank out). Hãy bóc tách lỗi sai ở đâu theo lý thuyết Mức độ xử lý thông tin (Levels of Processing Theory của Craik & Lockhart). 3. Thiết lập Ma trận phối hợp 4 kỹ thuật học tập: Active Recall, Spaced Repetition, Interleaving (Học xen kẽ) và Feynman Technique để chuẩn bị cho kỳ thi kết thúc học phần. Ràng buộc: Không sử dụng lời khuyên chung chung; mọi phân tích phải dựa trên bằng chứng khoa học thần kinh nhận thức. • Kết quả của AI: 1. Chuỗi chuyển dịch trí nhớ: Nhồi nhét (Cramming) chỉ lưu dữ liệu tạm thời ở hồi hải mã (Hippocampus) thuộc trí nhớ ngắn hạn. Thiếu Spaced Repetition và chu kỳ ngủ sâu (Slow-wave sleep), não bộ không thể kích hoạt quá trình tái củng cố (Synaptic consolidation) để chuyển thông tin về vỏ não mới (Neocortex) thành trí nhớ dài hạn. 2. Bóc tách ca 'trắng não' (Levels of Processing): - Nguyên nhân: Việc đọc lại và highlight chỉ là xử lý bề mặt (Shallow processing) về mặt thị giác. Bộ não tiêu tốn năng lượng nhưng không tạo ra nỗ lực nhận thức (Desirable difficulty). - Hậu quả: Khi gặp áp lực phòng thi, hormone cortisol tăng vọt làm tê liệt khả năng nhận diện thụ động, dẫn tới hiện tượng 'trắng não'. Ngược lại, nếu luyện Active Recall, thông tin đã được gắn với các móc neo thần kinh vững chắc từ trước. 3. Ma trận phối hợp 4 kỹ thuật đỉnh cao: - Bước 1 (Feynman): Đơn giản hóa kiến thức và giảng lại cho một người chưa biết gì để phát hiện lỗ hổng. - Bước 2 (Active Recall): Tự kiểm tra bằng câu hỏi truy vấn không nhìn tài liệu. - Bước 3 (Interleaving): Đổi xen kẽ các dạng bài tập khác nhau trong cùng một buổi học thay vì luyện mãi một dạng bài. - Bước 4 (Spaced Repetition): Dãn cách các lần kiểm tra theo chu kỳ 1 - 3 - 7 - 14 ngày. • Nhận xét chuyên môn: Đạt chuẩn trình độ chuyên gia khoa học nhận thức, phân tích triệt để cơ chế sinh học đằng sau thất bại của lối học nhồi nhét, trang bị vũ khí học tập tối thượng cho sinh viên. Đánh giá kết quả Nhiệm vụ 2: Đối với phương pháp học tập, prompt nâng cao giúp sinh viên bóc trần ảo tưởng hiểu bài của lối học thụ động, cung cấp ma trận phối hợp 4 kỹ thuật khoa học não bộ có thể ứng dụng trực tiếp cho tất cả các môn thi đại cương và chuyên ngành. IV. Nhiệm vụ 3 – Tạo bộ câu hỏi ôn tập: Kỹ năng Giải quyết Xung đột Nhóm (Teamwork Conflict Resolution) Chủ đề lựa chọn: 'Kỹ năng làm việc nhóm, nhận diện và giải quyết xung đột theo Mô hình phong cách xử lý xung đột Thomas-Kilmann (TKI)'. Làm việc nhóm (Teamwork) là yêu cầu bắt buộc trong hầu hết các môn học đại học, nhưng cũng là nguồn cơn gây khủng hoảng lớn nhất cho sinh viên do mâu thuẫn trách nhiệm, bất đồng quan điểm và vấn nạn 'người đi nhờ xe' (Free-rider). Loại prompt Prompt sử dụng Kết quả thử nghiệm / Nhận xét chuyên môn Cơ bản Giải thích giúp tôi Mô hình phong cách xử lý xung đột Thomas-Kilmann (TKI) và cách áp dụng nó vào làm việc nhóm ở đại học. Đặc biệt, hãy chỉ ra cách xử lý vấn đề \"người đi nhờ xe\" (free-rider) và bất đồng quan điểm giữa các thành viên. Viết ngắn gọn, dễ hiểu trong khoảng 400-500 từ. • Kết quả của AI: Mô hình Thomas-Kilmann (TKI) trong làm việc nhóm đại học:Mô hình TKI phân chia phong cách xử lý xung đột dựa trên hai trục: Quyết đoán (vì lợi ích cá nhân) và Hợp tác (vì lợi ích người khác), tạo ra 5 chiến lược: Cạnh tranh, Né tránh, Thỏa hiệp, Thích nghi và Cộng tác.Đánh giá: Mô hình TKI là công cụ tâm lý học hành vi sắc bén để giải quyết xung đột nhóm sinh viên, vốn thường bị chi phối bởi cảm xúc cá nhân và sự nể nan Chi tiết [ROLE] Chuyên gia quản trị nhóm. [TASK] Dùng mô hình TKI (Thomas-Kilmann) để xử lý xung đột và \"free-rider\" trong nhóm sinh viên đại học. [REQUIREMENT] Phân tích theo 2 trục TKI, giải pháp thực tế, chuẩn học thuật, tự kiểm tra không suy diễn. Dưới 600 từ. • Kết quả của AI: Lập bảng 4 tiêu chí rõ ràng: - Mô hình Thomas-Kilmann (TKI) phân định xung đột qua hai trục: Quyết đoán (thỏa mãn cá nhân) và Hợp tác (thỏa mãn tập thể), định hình 5 phong cách: Cạnh tranh, Né tránh, Thỏa hiệp, Thích nghi, và Cộng tác: -1. Xử lý \"Free-rider\" (Kẻ ăn bám): -2. Xử lý Bất đồng quan điểm: -Nhận xét :TKI đòi hỏi tính linh hoạt tình huống (Situational Leadership). Lạm dụng né tránh với free-rider sẽ hủy diệt động lực nhóm; trong khi bất đồng chuyên môn bắt buộc cần cộng tác để tối ưu hóa sáng tạo. Nâng cao (Role + CoT + Phản biện Thói quen Ôn thi nước đến chân) [ROLE] Chuyên gia quản trị nhóm. [TASK] Dùng mô hình TKI (Thomas-Kilmann) để xử lý xung đột và \"free-rider\" trong nhóm sinh viên đại học. [REQUIREMENT] Phân tích theo 2 trục TKI, giải pháp thực tế, chuẩn học thuật, tự kiểm tra không suy diễn. Dưới 600 từ. • Kết quả của AI: Mô hình TKI dựa trên 2 trục Quyết đoán và Hợp tác, gồm 5 phong cách: Cạnh tranh, Né tránh, Thỏa hiệp, Thích nghi, Cộng tác. Free-rider: Dùng Cạnh tranh (quyết đoán cao, hợp tác thấp). Nhóm đặt KPI rõ ràng, chất vấn trực diện, ấn định hạn chót và loại tên nếu tái phạm để bảo vệ công bằng. Bất đồng quan điểm: Dùng Cộng tác (quyết đoán cao, hợp tác cao). Lắng nghe đa chiều, tổng hợp ý tưởng để đạt giải pháp Win-Win. • Nhận xét :Mô hình Thomas-Kilmann (TKI) dựa trên trục Quyết đoán và Hợp tác. Với free-rider , nhóm dùng phong cách Cạnh tranh (kỷ luật thép, loại bỏ kẻ trốn việc). Với bất đồng, dùng phong cách Cộng tác (lắng nghe, Win-Win ). Hiệu quả nằm ở tính linh hoạt tình huống, tránh dung túng phá hủy nhóm. Đánh giá kết quả Nhiệm vụ 3: Xung đột nhóm là vấn đề nan giải bậc nhất của sinh viên đại học. Việc áp dụng mô hình TKI và ma trận RACI trong prompt nâng cao đã biến các câu hỏi trắc nghiệm thành cẩm nang hòa giải thực chiến, giúp sinh viên làm chủ năng lực lãnh đạo thấu cảm. V. So sánh và phân tích chung 1. Bảng ma trận so sánh tổng hợp các cấp độ prompt Tiêu chí đánh giá Prompt cơ bản Prompt chi tiết (cải tiến) Prompt nâng cao Độ rõ ràng & Cấu trúc Thấp; mệnh lệnh một dòng mơ hồ, AI tự do suy đoán hướng trả lời. Cao; quy định rõ ràng số từ, đối tượng sinh viên đại học và khung tiêu chí cụ thể. Rất cao; xác lập tư cách chuyên gia khoa học nhận thức, chuỗi tư duy CoT và chuẩn nghiệm thu thực hành. Tính chuẩn xác khoa học học tập Kém; sử dụng văn phong mẹo vặt đời thường, thiếu cơ sở tâm lý học thần kinh. Tốt; bám sát giáo trình, nêu đúng lý thuyết đường cong Ebbinghaus và mô hình TKI. Xuất sắc; giải mã sâu sắc cơ chế củng cố synap, lý thuyết mức độ xử lý Craik-Lockhart và ma trận RACI. Khả năng kiểm soát sai lệch / Ảo giác Rất kém; AI có xu hướng tự tiện đưa ra các lời khuyên chung chung hoặc công cụ ngoài luồng. Khá; hạn chế suy diễn nhờ hàng rào 'không thêm thông tin ngoài văn bản'. Tối ưu; cơ chế Self-Verification và Negative Constraints triệt tiêu tình trạng 'chém' lý thuyết hư cấu. Thời gian & Chi phí đầu tư Rất nhanh (< 10 giây). Cân bằng (1–2 phút soạn thảo câu lệnh). Tốn 3–5 phút thiết kế prompt nhưng sản phẩm nhận được có thể áp dụng trực tiếp để giải quyết vấn đề học tập. Ngữ cảnh khuyến nghị áp dụng Tra cứu nhanh định nghĩa khái niệm sơ khai. Lập kế hoạch ôn tập tuần, phân chia công việc nhóm học kỳ thường nhật. Tổ chức dự án nghiên cứu khoa học sinh viên, ôn thi cao điểm, giải quyết khủng hoảng đội ngũ làm bài tập lớn. 2. Phân tích nguyên nhân tạo nên sự vượt trội của Prompt chất lượng cao Đối với các năng lực học tập và kỹ năng thế kỷ 21, sự vượt trội của prompt nâng cao bắt nguồn từ 4 cơ chế vận hành của mô hình ngôn ngữ lớn (LLM): Thiết lập vai trò (Role Prompting) kích hoạt đúng phân vùng tri thức khoa học nhận thức: Khi định danh AI là 'Giám đốc Nghiên cứu Não bộ' hay 'Chuyên gia Đào tạo Lãnh đạo Sinh viên', mô hình tự động chuyển dịch trọng số ngôn ngữ sang các công trình nghiên cứu tâm lý học thực nghiệm, loại bỏ các lời khuyên giáo điều sáo rỗng. Kỹ thuật Chuỗi suy luận (Chain-of-Thought) bóc tách cơ chế chuyển dịch nhận thức: Quá trình học tập và giải quyết mâu thuẫn là chuỗi logic phức tạp: từ Tri giác bề mặt -> Nỗ lực tư duy nội tại -> Củng cố hành vi dài hạn. Ép AI suy luận từng bước ngăn chặn triệt để tình trạng đưa ra các giải pháp đối phó tức thời. Hàng rào mệnh lệnh phủ định (Negative Constraints) chặn đứng lỗi sai phương pháp: Lệnh cấm tường minh ('Không tự ý bịa thêm ứng dụng hay lý thuyết ngoài đoạn trích') buộc mô hình phải bám sát tuyệt đối dữ liệu nền tảng, tạo nên các phân tích có độ tin cậy khoa học cao nhất. Cấu trúc hóa đầu ra theo chuẩn mực hành động (Actionable Output): Yêu cầu bảng ma trận RACI, kế hoạch 7 ngày và phân tầng Bloom giúp sinh viên nhận được một bộ công cụ giải pháp thực chiến có thể áp dụng ngay vào kỳ thi hoặc buổi họp nhóm sắp tới. VI. Nguyên tắc và mẹo thiết kế prompt hiệu quả cho sinh viên đại học Từ kết quả thử nghiệm thực tế với các bài toán tập trung, ghi nhớ và làm việc nhóm, mọi sinh viên đại học có thể áp dụng 6 nguyên tắc cốt lõi sau để làm chủ AI: 1. Cung cấp bối cảnh thực tế và trạng thái hiện tại cụ thể: Thay vì hỏi chung chung 'Làm sao để học nhóm tốt hơn?', hãy chỉ rõ: 'Nhóm 4 người đang làm tiểu luận môn Kinh tế chính trị, có 1 bạn không nộp phần việc được giao, hạn nộp còn 3 ngày, hãy gợi ý cách xử lý thấu đáo'. 2. Tích hợp các mô hình lý thuyết khoa học đã được kiểm chứng: Khai thác tối đa năng lực tư duy của AI bằng cách gắn câu lệnh vào các khung mô hình chuẩn mực như Tháp Bloom, Ma trận Thomas-Kilmann (TKI), Đường cong Ebbinghaus hay Khung phân nhiệm RACI. 3. Chặn đứng nguy cơ 'bịa đặt lời khuyên thiếu căn cứ': Luôn cài đặt điều khoản kiểm soát rủi ro: 'Chỉ phân tích dựa trên dữ liệu khoa học nhận thức được công nhận; không đưa ra các mẹo vặt cảm tính thiếu cơ sở thực nghiệm'. 4. Nạp ngữ liệu gốc vào Prompt khi cần phân tích chuyên sâu: Khi đọc một tài liệu học thuật phức tạp, hãy dán trực tiếp trích đoạn đó vào prompt và yêu cầu: 'Chỉ dựa vào trích đoạn trên để giải thích và tóm tắt theo 3 tầng nhận thức'. 5. Yêu cầu phản biện đa chiều từ góc nhìn người đối lập: Tránh cái nhìn một chiều trong xung đột nhóm bằng cách đặt câu lệnh: 'Hãy chỉ ra 2 lý do hợp lý vì sao thành viên kia lại có hành vi trì hoãn và cách Trưởng nhóm lắng nghe thấu cảm'. 6. Nguyên tắc 'AI là Huấn luyện viên tư duy – Sinh viên là người hành động': AI có thể cung cấp lộ trình và phương pháp luận, nhưng sinh viên phải là người trực tiếp ngồi vào bàn học thực hiện Deep Work và trực tiếp đối thoại hòa giải với các bạn cùng nhóm. VII. Kết luận Thực hành thiết kế prompt trong việc phát triển các năng lực học tập đại học thế kỷ 21 không chỉ đơn thuần là việc khai thác một công cụ trí tuệ nhân tạo, mà chính là quá trình rèn luyện tư duy phản biện, kỹ năng siêu nhận thức (Metacognition) và trí tuệ cảm xúc của sinh viên. Một câu lệnh nông cạn chỉ tạo ra những câu trả lời lý thuyết sáo rỗng; ngược lại, một câu lệnh sắc bén, có cấu trúc chặt chẽ và am hiểu bản chất vấn đề sẽ biến AI thành một huấn luyện viên tư duy học thuật xuất sắc. Việc làm chủ kỹ năng Prompt Engineering trang bị cho sinh viên năng lực tự học độc lập, giúp tối ưu hóa khả năng tập trung sâu, làm chủ trí nhớ dài hạn và giải quyết thấu đáo các xung đột hợp tác, chuẩn bị hành trang vững chắc để thành công trong môi trường đại học và thị trường lao động tương lai.",
+          "metrics": [
+            {
+              "label": "Chỉ số nổi bật",
+              "value": "100%"
+            },
+            {
+              "label": "Quy mô / Tác động",
+              "value": "90 phút"
+            },
+            {
+              "label": "Quy mô / Tác động",
+              "value": "2 phút"
+            }
+          ],
+          "media": [
+            {
+              "id": "docx-img-1794486480354-1",
+              "url": "/uploads/docx-media/1794486480354-b-i-2-1-e7f5dc.png",
+              "caption": "Ảnh trích xuất từ Bài 2.docx (#1)",
+              "sourceType": "docx-extracted",
+              "originalDocxMediaName": "word/media/image1.png"
+            },
+            {
+              "id": "docx-img-1794486480354-2",
+              "url": "/uploads/docx-media/1794486480354-b-i-2-2-f43b08.png",
+              "caption": "Ảnh trích xuất từ Bài 2.docx (#2)",
+              "sourceType": "docx-extracted",
+              "originalDocxMediaName": "word/media/image2.png"
+            },
+            {
+              "id": "docx-img-1794486480354-3",
+              "url": "/uploads/docx-media/1794486480354-b-i-2-3-851e10.png",
+              "caption": "Ảnh trích xuất từ Bài 2.docx (#3)",
+              "sourceType": "docx-extracted",
+              "originalDocxMediaName": "word/media/image3.png"
+            },
+            {
+              "id": "docx-img-1794486480354-4",
+              "url": "/uploads/docx-media/1794486480354-b-i-2-4-079ac6.png",
+              "caption": "Ảnh trích xuất từ Bài 2.docx (#4)",
+              "sourceType": "docx-extracted",
+              "originalDocxMediaName": "word/media/image4.png"
+            },
+            {
+              "id": "docx-img-1794486480354-5",
+              "url": "/uploads/docx-media/1794486480354-b-i-2-5-333b51.png",
+              "caption": "Ảnh trích xuất từ Bài 2.docx (#5)",
+              "sourceType": "docx-extracted",
+              "originalDocxMediaName": "word/media/image5.png"
+            },
+            {
+              "id": "docx-img-1794486480354-6",
+              "url": "/uploads/docx-media/1794486480354-b-i-2-6-f7b6f8.png",
+              "caption": "Ảnh trích xuất từ Bài 2.docx (#6)",
+              "sourceType": "docx-extracted",
+              "originalDocxMediaName": "word/media/image6.png"
+            },
+            {
+              "id": "docx-img-1794486480354-7",
+              "url": "/uploads/docx-media/1794486480354-b-i-2-7-213356.png",
+              "caption": "Ảnh trích xuất từ Bài 2.docx (#7)",
+              "sourceType": "docx-extracted",
+              "originalDocxMediaName": "word/media/image7.png"
+            },
+            {
+              "id": "docx-img-1794486480354-8",
+              "url": "/uploads/docx-media/1794486480354-b-i-2-8-15bb46.png",
+              "caption": "Ảnh trích xuất từ Bài 2.docx (#8)",
+              "sourceType": "docx-extracted",
+              "originalDocxMediaName": "word/media/image8.png"
+            },
+            {
+              "id": "docx-img-1794486480354-9",
+              "url": "/uploads/docx-media/1794486480354-b-i-2-9-14cd90.png",
+              "caption": "Ảnh trích xuất từ Bài 2.docx (#9)",
+              "sourceType": "docx-extracted",
+              "originalDocxMediaName": "word/media/image9.png"
+            }
+          ],
+          "suggestedAiImagePrompt": "Minimalist clean workspace photography representing \"Dự án AI Prompt Engineering\" in the field of AI Prompt Engineering, clean visual storytelling cards, cohesive warm color palette",
+          "preferredImageStyle": "minimal-photo",
+          "links": [],
+          "tags": [
+            "PAS",
+            "Prompt Engineering",
+            "Chain-of-Thought"
+          ]
+        }
+      ]
+    },
+    {
+      "type": "hero",
+      "variant": "canva-cover",
+      "headline": "Digital Portfolio",
+      "fullName": "Bài 2",
+      "roleTitle": "Digital Creator & AI Practical Portfolio",
+      "shortBio": "Tổng hợp 1 bài tập và dự án thực hành về AI Prompt Engineering được xây dựng bài bản và đo lường kết quả rõ ràng.",
+      "avatar": {
+        "url": "",
+        "sourceType": "docx-extracted",
+        "frameStyle": "rounded-rect",
+        "aspectRatio": "3/4"
+      },
+      "quickTags": [
+        "AI Prompt Engineering"
+      ],
+      "ctaButtons": [
+        {
+          "label": "Khám phá Dự án",
+          "href": "#projects",
+          "style": "primary"
+        },
+        {
+          "label": "Thông tin Liên hệ",
+          "href": "#contact",
+          "style": "outline"
+        }
+      ],
+      "decorations": [
+        {
+          "id": "dec-1",
+          "type": "floating-tag",
+          "label": "DIGITAL PORTFOLIO • 2026",
+          "position": {
+            "top": "8%",
+            "right": "5%",
+            "rotate": 4,
+            "zIndex": 3
+          }
+        },
+        {
+          "id": "dec-2",
+          "type": "badge",
+          "label": "✦ Sư phạm Âm nhạc & AI",
+          "position": {
+            "left": "4%",
+            "bottom": "12%",
+            "rotate": -3,
+            "zIndex": 3
+          }
+        }
+      ]
+    },
+    {
+      "type": "about",
+      "variant": "story-card",
+      "title": "About me • Giới thiệu bản thân",
+      "biography": "Xin chào! Mình là Bài 2 (Digital Creator & AI Practical Portfolio). Portfolio này được tổng hợp trực tiếp từ hồ sơ bài tập thực chiến gồm 1 dự án thuộc các mảng AI Prompt Engineering. Mỗi bài tập đều được chuẩn hóa theo tư duy Đề bài - Giải pháp - Kết quả nhằm thể hiện năng lực triển khai thực tế.",
+      "highlights": [
+        {
+          "label": "Dự án thực hành",
+          "value": "1 Case Studies"
+        },
+        {
+          "label": "Ảnh từ DOCX",
+          "value": "9 ảnh"
+        },
+        {
+          "label": "Ảnh AI bổ sung",
+          "value": "0 ảnh"
+        },
+        {
+          "label": "Lĩnh vực chính",
+          "value": "AI Prompt Engineering"
+        }
+      ],
+      "contactInfo": {
+        "socials": []
+      }
+    },
+    {
+      "type": "skills",
+      "variant": "canva-visual-grid",
+      "title": "Tools & Kỹ Năng Nổi Bật",
+      "categories": [
+        {
+          "name": "Chuyên môn & Thực chiến",
+          "skills": [
+            {
+              "name": "AI Prompt Engineering",
+              "level": 95
+            }
+          ]
+        },
+        {
+          "name": "Công cụ & Nền tảng",
+          "skills": [
+            {
+              "name": "AI Prompt Engineering (ChatGPT / Gemini)",
+              "level": 94
+            },
+            {
+              "name": "Phân tích Insight & Dữ liệu Khách hàng",
+              "level": 88
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "education",
+      "title": "Education • Học vấn",
+      "items": []
+    },
+    {
+      "type": "contact",
+      "title": "Conclusion & Contact",
+      "subtitle": "Cảm ơn bạn đã xem hồ sơ của Bài 2. Vui lòng xác nhận thông tin liên hệ trước khi công bố.",
+      "thankYouMessage": "THANK YOU FOR WATCHING!",
+      "showContactForm": true
+    }
+  ]
+}

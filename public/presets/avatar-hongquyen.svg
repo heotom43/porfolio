@@ -1,0 +1,65 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 800" fill="none">
+  <!-- Warm Canva cream paper base -->
+  <rect width="600" height="800" fill="#FFF3E6"/>
+
+  <!-- Subtle editorial portrait backdrop & crisp frame inspired by Canva About me slide -->
+  <rect x="28" y="28" width="544" height="744" rx="18" fill="#FFF8F0" stroke="#735340" stroke-width="3"/>
+  <rect x="46" y="46" width="508" height="708" rx="12" fill="#F7E8D8"/>
+
+  <!-- Soft warm sunset / terrace horizon bands -->
+  <rect x="46" y="46" width="508" height="390" rx="12" fill="#F2DEC9"/>
+  <path d="M46 310C140 278 250 290 340 264C425 240 492 252 554 274V440H46V310Z" fill="#EAD0B8"/>
+  <rect x="46" y="425" width="508" height="329" fill="#E6C9B0"/>
+
+  <!-- Subtle railing / terrace line from About Me photo composition -->
+  <line x1="46" y1="446" x2="554" y2="446" stroke="#927869" stroke-width="4"/>
+  <line x1="46" y1="504" x2="554" y2="504" stroke="#927869" stroke-width="2.5" opacity="0.6"/>
+
+  <!-- Delicate musical staff ribbon top-left -->
+  <g stroke="#927869" stroke-width="1.6" opacity="0.55">
+    <path d="M46 112C115 92 172 110 228 84"/>
+    <path d="M46 124C115 104 172 122 228 96"/>
+    <path d="M46 136C115 116 172 134 228 108"/>
+    <path d="M46 148C115 128 172 146 228 120"/>
+  </g>
+  <circle cx="116" cy="112" r="6" fill="#735340" opacity="0.75"/>
+  <line x1="121" y1="112" x2="121" y2="78" stroke="#735340" stroke-width="2.5" opacity="0.75"/>
+  <circle cx="176" cy="128" r="6" fill="#735340" opacity="0.75"/>
+  <line x1="181" y1="128" x2="181" y2="94" stroke="#735340" stroke-width="2.5" opacity="0.75"/>
+
+  <!-- Golden 4-point Canva sparkle -->
+  <path d="M472 116L481 142L507 151L481 160L472 186L463 160L437 151L463 142L472 116Z" fill="#D4AF37"/>
+  <path d="M116 206L121 220L135 225L121 230L116 244L111 230L97 225L111 220L116 206Z" fill="#735340" opacity="0.7"/>
+
+  <!-- Portrait silhouette: long espresso hair, cozy cream cardigan, mocha trousers -->
+  <!-- Back hair -->
+  <path d="M188 286C188 184 240 138 308 138C376 138 424 184 424 286V452C424 472 388 486 306 486C224 486 188 472 188 452V286Z" fill="#3E2723"/>
+
+  <!-- Shoulders & knit sweater (#FFF8F0 with warm sand texture lines) -->
+  <path d="M126 754C132 574 202 478 304 478C406 478 476 574 482 754H126Z" fill="#FFF8F0" stroke="#735340" stroke-width="2.5"/>
+  <path d="M226 488C242 544 268 580 304 580C340 580 366 544 382 488" fill="#5D4037"/>
+  <path d="M214 754L236 606H372L394 754H214Z" fill="#735340"/>
+
+  <!-- Neck & warm face -->
+  <rect x="272" y="408" width="64" height="86" rx="28" fill="#E9C3AA"/>
+  <ellipse cx="304" cy="322" rx="84" ry="104" fill="#F6DEC9"/>
+
+  <!-- Soft facial features in warm espresso ink -->
+  <path d="M222 296C230 228 268 196 320 196C366 196 394 228 390 294C370 250 338 238 298 242C258 246 234 266 222 296Z" fill="#3E2723"/>
+  <path d="M254 304C263 298 276 298 284 304" stroke="#3E2723" stroke-width="3.5" stroke-linecap="round"/>
+  <path d="M326 304C335 298 348 298 356 304" stroke="#3E2723" stroke-width="3.5" stroke-linecap="round"/>
+  <circle cx="270" cy="322" r="7.5" fill="#3E2723"/>
+  <circle cx="340" cy="322" r="7.5" fill="#3E2723"/>
+  <ellipse cx="246" cy="348" rx="14" ry="8" fill="#D9A890" opacity="0.45"/>
+  <ellipse cx="364" cy="348" rx="14" ry="8" fill="#D9A890" opacity="0.45"/>
+  <path d="M280 374C295 388 317 388 332 374" stroke="#735340" stroke-width="5" stroke-linecap="round"/>
+
+  <!-- Subtle hand resting near chin matching Canva About me pose -->
+  <ellipse cx="268" cy="442" rx="26" ry="20" fill="#F6DEC9" stroke="#D9B49C" stroke-width="2"/>
+
+  <!-- Editorial caption strip at bottom -->
+  <rect x="78" y="678" width="444" height="48" rx="24" fill="#FFF3E6" stroke="#735340" stroke-width="2"/>
+  <path d="M114 692L118 700L126 704L118 708L114 716L110 708L102 704L110 700L114 692Z" fill="#D4AF37"/>
+  <rect x="148" y="698" width="240" height="12" rx="6" fill="#5D4037"/>
+  <circle cx="482" cy="704" r="9" fill="#735340"/>
+</svg>

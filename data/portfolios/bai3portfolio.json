@@ -1,0 +1,209 @@
+{
+  "id": "batch-bai3portfolio-1794486481040-4",
+  "slug": "bai3portfolio",
+  "templateId": "academic-presentation",
+  "imageGenerationConfig": {
+    "mode": "hybrid-auto",
+    "visualStyle": "minimal-photo"
+  },
+  "seo": {
+    "title": "bài 3 | Digital Portfolio 2026",
+    "description": "Tổng hợp 1 bài tập và dự án thực hành về Giáo dục & Sáng tạo được xây dựng bài bản và đo lường kết quả rõ ràng."
+  },
+  "theme": {
+    "primaryColor": "#9B302D",
+    "secondaryColor": "#6A1C1B",
+    "backgroundColor": "#EDEAE2",
+    "surfaceColor": "#FFFFFF",
+    "textColor": "#9B302D",
+    "headingFont": "Merriweather",
+    "bodyFont": "Be Vietnam Pro",
+    "borderRadius": "md",
+    "pageTransition": "slide-deck",
+    "effects": {
+      "enableFloat": false,
+      "enableGlow": false,
+      "enableTilt": false,
+      "enableSparkles": true,
+      "revealVariant": "fade-up",
+      "enableParallax": false
+    },
+    "backgroundIllustration": {
+      "mode": "preset",
+      "presetId": "vintage-parchment",
+      "opacity": 0.2,
+      "blur": 0,
+      "position": "cover"
+    }
+  },
+  "sections": [
+    {
+      "type": "projects",
+      "variant": "canva-slide-showcase",
+      "title": "Project • 01 Bài Tập Thực Hành",
+      "subtitle": "Nội dung được tổng hợp từ tài liệu DOCX đã nạp; vui lòng kiểm tra tính chính xác trước khi công bố.",
+      "projects": [
+        {
+          "id": "proj-docx-1-1794486481039",
+          "title": "Dự án Giáo dục & Sáng tạo",
+          "category": "Giáo dục & Sáng tạo",
+          "sourceDocxFileName": "bài 3.docx",
+          "assignmentBrief": "BÁO CÁO: TÌM KIẾM VÀ ĐÁNH GIÁ THÔNG TIN HỌC THUẬT Chủ đề: Ứng dụng trí tuệ nhân tạo tạo sinh, phần mềm âm nhạc kỹ thuật số và phương pháp giáo dục âm nhạc hiện đại (Orff-Schulwerk & Kodály tích hợp số): phát triển năng l",
+          "summary": "BÁO CÁO: TÌM KIẾM VÀ ĐÁNH GIÁ THÔNG TIN HỌC THUẬT Chủ đề: Ứng dụng trí tuệ nhân tạo tạo sinh, phần mềm âm nhạc kỹ thuật số và phương pháp giáo dục âm nhạc hiện đại (Orff-Schulwerk & Kodály tích hợp số): phát triển năng lực thẩm mỹ, tư duy sáng tác và hàm ý cho đào tạo giáo viên S",
+          "keyTakeaways": [
+            "BÁO CÁO: TÌM KIẾM VÀ ĐÁNH GIÁ THÔNG TIN HỌC THUẬT Chủ đề: Ứng dụng trí tuệ nhân tạo tạo sinh, phần mềm âm nhạc kỹ thuật số và phương pháp giáo dục âm nhạc hiện đại (Orff-Schulwerk & Kodály tích hợp số): phát triển năng lực thẩm mỹ, tư duy sáng tác và hàm ý cho đào tạo giáo viên S",
+            "Hoàn thiện case study \"Dự án Giáo dục & Sáng tạo\" theo quy trình Đề bài – Giải pháp – Kết quả",
+            "Ứng dụng kỹ năng Giáo dục & Sáng tạo (Google Scholar)"
+          ],
+          "fullRawExcerpt": "BÁO CÁO: TÌM KIẾM VÀ ĐÁNH GIÁ THÔNG TIN HỌC THUẬT Chủ đề: Ứng dụng trí tuệ nhân tạo tạo sinh, phần mềm âm nhạc kỹ thuật số và phương pháp giáo dục âm nhạc hiện đại (Orff-Schulwerk & Kodály tích hợp số): phát triển năng lực thẩm mỹ, tư duy sáng tác và hàm ý cho đào tạo giáo viên Sư phạm Âm nhạc tại Việt Nam I. Lựa chọn chủ đề và xác định phạm vi 1. Sự phù hợp và tính thách thức Chủ đề nằm tại giao điểm cốt lõi của ngành Sư phạm Âm nhạc (Music Education / Pedagogy) và học phần Nhập môn công nghệ số và ứng dụng trí tuệ nhân tạo: nghiên cứu sự dịch chuyển mang tính bước ngoặt từ phương pháp dạy học âm nhạc truyền thống (thủ công, ký xướng âm cơ học) sang mô hình giáo dục âm nhạc tích hợp công nghệ, ứng dụng Trí tuệ nhân tạo tạo sinh (Generative AI), Trạm âm nhạc kỹ thuật số (Digital Audio Workstations - DAW) và các phương pháp tiếp cận kinh điển (Orff-Schulwerk, Kodály) được số hóa nhằm phát triển năng lực cảm thụ thẩm mỹ, tư duy sáng tác giai điệu, và kỹ năng tổ chức hoạt động âm nhạc cho học sinh phổ thông. Câu hỏi học thuật cốt lõi: Việc tích hợp AI tạo sinh và các phần mềm âm nhạc kỹ thuật số vào phương pháp giảng dạy thực sự nâng cao tư duy sáng tạo nghệ thuật và cá nhân hóa năng lực cảm thụ âm nhạc của người học, hay làm xói mòn giá trị biểu cảm cảm xúc tự nhiên, sự chân thực của âm thanh mộc (acoustic) và biến giáo viên âm nhạc thành những người vận hành công nghệ thuần túy? Chủ đề có tính thách thức cao vì: (1) đòi hỏi sự kết hợp liên ngành nhuần nhuyễn giữa Lý luận và phương pháp dạy học âm nhạc (Music Pedagogy), Tâm lý học nghệ thuật và Công nghệ âm thanh số; (2) âm nhạc là lĩnh vực biểu đạt cảm xúc và nghệ thuật tinh tế, khiến các thuật toán AI thường thiếu vắng chiều sâu tâm hồn và sự rung cảm thẩm mỹ đích thực; (3) cần đối chiếu các công bố thực nghiệm quốc tế đỉnh cao từ các tạp chí giáo dục âm nhạc hàng đầu (Journal of Research in Music Education, International Journal of Music Education) với yêu cầu đổi mới phương pháp giảng dạy nghệ thuật theo Chương trình Giáo dục phổ thông 2018 tại Việt Nam; (4) sự bùng nổ của các mô hình AI sinh nhạc (Suno, Udio, Magenta) từ năm 2023 đến nay đặt ra yêu cầu cấp thiết phải tái định hình năng lực nghề nghiệp của sinh viên Sư phạm Âm nhạc. 2. Câu hỏi nghiên cứu RQ1: Trí tuệ nhân tạo tạo sinh và các trạm âm nhạc kỹ thuật số (DAW) hỗ trợ như thế nào cho giáo viên âm nhạc trong việc sáng tác học liệu, thiết kế bài tập phân tích tác phẩm và cá nhân hóa trải nghiệm thẩm mỹ cho học sinh? RQ2: Việc tích hợp công nghệ số vào các phương pháp giáo dục âm nhạc active (như Orff-Schulwerk và Kodály tích hợp số) tác động ra sao đến tư duy sáng tạo, động lực học tập và năng lực biểu diễn của người học? RQ3: Những thành tố năng lực số sư phạm âm nhạc nào cần được trang bị cho sinh viên ngành Sư phạm Âm nhạc, và đâu là khoảng trống nghiên cứu thực nghiệm tại Việt Nam? 3. Phạm vi tìm kiếm Ngành học: Sư phạm Âm nhạc / Lý luận và phương pháp dạy học âm nhạc (Music Education), liên ngành với Công nghệ âm nhạc (Music Technology) và Tâm lý học nghệ thuật. Từ khóa: \"music education pedagogy\", \"generative AI in music teaching\", \"digital audio workstations in education\", \"Orff Schulwerk technology integration\", \"musical creativity\", \"music teacher digital literacy\". Tiếng Việt: \"phương pháp dạy học âm nhạc\", \"sư phạm âm nhạc\", \"công nghệ âm nhạc trong giáo dục\", \"sáng tạo âm nhạc học đường\", \"giáo dục âm nhạc hiện đại\". Chuỗi tìm kiếm mẫu: (\"music education\" OR \"music pedagogy\") AND (\"artificial intelligence\" OR \"Generative AI\" OR \"digital audio workstations\" OR \"technology\") AND (\"musical creativity\" OR \"Orff Schulwerk\" OR \"teacher training\") Giới hạn thời gian: Ưu tiên giai đoạn từ năm 2018 đến nay (gắn với làn sóng chuyển đổi số giáo dục nghệ thuật và bùng nổ AI âm nhạc). Ngoại lệ có chủ đích: Swanwick (1992) làm nền tảng kinh điển về lý thuyết phát triển thẩm mỹ âm nhạc và Campbell (2009) về âm nhạc học giáo dục. II. Phương pháp và nguồn tìm kiếm thông tin Tổng cộng thu thập 12 tài liệu từ 5 loại nguồn khác nhau, trong đó có 6 bài báo khoa học bình duyệt (peer-reviewed) chất lượng cao thuộc danh mục Q1 Scopus/SSCI (Journal of Research in Music Education, International Journal of Music Education, Music Education Research, Computers & Education). Le loại nguồn thứ năm (Báo cáo chiến lược từ Hiệp hội Giáo dục Âm nhạc Quốc tế - ISME và Tài liệu hướng dẫn chuyên môn của Bộ Giáo dục và Đào tạo Việt Nam) được khai thác mở rộng nhằm đạt mức đánh giá tối đa theo Rubric. Loại nguồn Nơi khai thác Số tài liệu Bài báo khoa học bình duyệt (Cơ sở dữ liệu học thuật & Tạp chí chuyên ngành) Google Scholar, ScienceDirect, SpringerLink; trang tạp chí gốc (Journal of Research in Music Education, International Journal of Music Education, Music Education Research, Computers & Education, Tạp chí Khoa học Giáo dục) 6 Sách chuyên khảo Nhà xuất bản Oxford University Press, SAGE Publications 2 Các nguồn mở trên Internet (Kho học liệu âm nhạc số & Dự án nghệ thuật mở) ISME Open Repository & Music Educators Journal Open Access Collection 1 Bài thảo luận / Kỷ yếu hội thảo khoa học quốc tế (Proceedings) ISME World Conference Proceedings & ICME / SEMPRE Conference Papers 1 Báo cáo tổ chức quốc tế & Văn bản chính sách giáo dục (Nguồn mở rộng) ISME (International Society for Music Education); Bộ Giáo dục và Đào tạo Việt Nam (Chương trình GDPT 2018 môn Âm nhạc) 2 III. Khung đánh giá độ tin cậy của tài liệu Mỗi tài liệu được đánh giá một cách hệ thống theo 5 tiêu chí: Tác giả: Chuyên môn học thuật hàng đầu về Giáo dục Âm nhạc (Music Education), thẩm mỹ nghệ thuật và công nghệ âm thanh, học hàm/học vị, đơn vị công tác (các giáo sư tại University of Cambridge, Northwestern University, University of London, ĐH Sư phạm Nghệ thuật Trung ương). Cơ quan xuất bản: Uy tín của nhà xuất bản/tạp chí đầu ngành (Q1 Scopus/SSCI như Oxford University Press, SAGE, Springer) hoặc tổ chức âm nhạc quốc tế chính thống (ISME). Phương pháp nghiên cứu: Thiết kế thực nghiệm sư phạm nghệ thuật (action research, qualitative case studies, empirical aesthetics), phân tích diễn ngôn âm nhạc và tính minh bạch của phương pháp. Trích dẫn: Số lượng trích dẫn trên Google Scholar/Scopus và tầm ảnh hưởng đối với cộng đồng nghiên cứu sư phạm âm nhạc toàn cầu. Tính cập nhật: Độ mới của dữ liệu và lập luận lý thuyết trong bối cảnh ứng dụng AI tạo sinh trong âm nhạc và chuyển đổi số giáo dục nghệ thuật giai đoạn 2018–2026. Thang xếp hạng độ tin cậy: RẤT CAO – CAO – KHÁ – TRUNG BÌNH. IV. Bảng tổng hợp xếp hạng nguồn thông tin # Tài liệu Locai nguồn Đánh giá tóm tắt (Tác giả, Xuất bản, PP, Trích dẫn, Cập nhật) Xếp hạng 1 Wiggins (2015) Bài báo bình duyệt (Q1) GS Jackie Wiggins (Oakland Univ.); Oxford Univ. Press; khung lý thuyết tư duy sáng tạo trong giáo dục âm nhạc; >900 trích dẫn. RẤT CAO 2 Ruthmann & Hebert (2012) Sách chuyên khảo (Q1) GS S. Alex Ruthmann & David Hebert; Oxford Univ. Press; cẩm nang công nghệ và giáo dục âm nhạc số; >800 trích dẫn. RẤT CAO 3 Wise, Greenwood & Ross (2019) Bài báo bình duyệt (Q1) Học giả âm nhạc học; Music Education Research; ứng dụng công nghệ DAW trong sáng tác học đường; >400 trích dẫn. RẤT CAO 4 Partti (2017) Bài báo bình duyệt (Q1) Dr. Heidi Partti; International Journal of Music Education; nghệ sĩ nhạc sĩ trong thời đại kỹ thuật số và dạy học; >450 trích dẫn. RẤT CAO 5 Webster (2016) Bài báo bình duyệt (Q1) GS Peter R. Webster (Univ. of Southern California); JRME; đo lường và phát triển tư duy sáng tạo âm nhạc; >1.200 trích dẫn. RẤT CAO 6 Swanwick (1992) - Lý thuyết nền Sách chuyên khảo (Kinh điển) GS Keith Swanwick (Univ. of London); Routledge; Musical Knowledge: Intuition, Music Education and Society; lý thuyết nền; >3.800 trích dẫn. RẤT CAO 7 ISME Policy Brief (2023) Báo cáo tổ chức quốc tế Hiệp hội Giáo dục Âm nhạc Quốc tế (ISME); báo cáo chiến lược về tương lai giáo dục âm nhạc dưới tác động của AI tạo sinh; rất mới. RẤT CAO 8 Campbell (2009) Sách chuyên khảo / Lý thuyết nền GS Patricia Shehan Campbell (Univ. of Washington); Oxford Univ. Press; Songs in Their Heads: Music and Its Meaning in Children's Lives; >2.500 trích dẫn. CAO 9 Sørensen (2020) Bài báo bình duyệt (Q1) Học giả giáo dục nghệ thuật Bắc Âu; British Journal of Music Education; tích hợp phương pháp Orff và công cụ số; >300 trích dẫn. CAO 10 Bộ Giáo dục và Đào tạo (2018) Văn bản chương trình quốc gia Bộ GD&ĐT Việt Nam; Chương trình Giáo dục phổ thông 2018 môn Âm nhạc; định hướng phát triển năng lực thẩm mỹ và ứng dụng thiết bị số. CAO 11 Nguyễn & Trần (2023) Bài báo tạp chí chuyên ngành trong nước Giảng viên ĐH Sư phạm Nghệ thuật Trung ương; Tạp chí Khoa học Giáo dục; đổi mới phương pháp dạy học âm nhạc tại VN; sát thực tế. CAO 12 ISME Open Repository (2024) Nguồn mở trên Internet Hiệp hội Giáo dục Âm nhạc Quốc tế; kho tài nguyên nghiên cứu phương pháp giảng dạy âm nhạc toàn cầu mở trực tuyến; rất giá trị. KHÁ V. Đánh giá chi tiết từng nguồn 1. Wiggins, J. (2015) – RẤT CAO. Teaching for Musical Understanding (Oxford University Press), tác phẩm kinh điển có hơn 900 trích dẫn của GS Jackie Wiggins (Oakland University) thiết lập khung triết lý giáo dục âm nhạc kiến tạo, coi học sinh là nhà sáng tạo nghệ thuật đích thực thay vì người tiếp thu thụ động. Ưu điểm: cung cấp cẩm nang sư phạm hoàn hảo giúp giáo viên thiết kế các nhiệm vụ sáng tác giai điệu và ứng dụng công cụ số mở. Hạn chế: thiên về định hướng triết lý nghệ thuật, đòi hỏi sự linh hoạt cao của giáo viên khi áp dụng thực tế. 2. Ruthmann and Hebert (2012) – RẤT CAO. The Oxford Handbook of Music Education: Technology (Oxford University Press), cẩm nang chuyên khảo đồ sộ với hơn 800 trích dẫn tổng hợp toàn diện các xu hướng tích hợp công nghệ số, phần mềm DAW và thiết bị điện tử vào chương trình đào tạo âm nhạc học đường. Ưu điểm: tính hệ thống cực cao, kết hợp chặt chẽ giữa lý luận thẩm mỹ và kỹ thuật âm thanh số. Hạn chế: xuất bản từ 2012 nên chưa cập nhật các mô hình AI tạo sinh âm thanh thế hệ mới (Suno, Udio). 3. Wise, Greenwood and Ross (2019) – RẤT CAO. Music Education Research (Taylor & Francis, Q1), bài báo nghiên cứu thực nghiệm có hơn 400 trích dẫn khảo sát việc ứng dụng các Trạm âm nhạc kỹ thuật số (DAW) trong việc trao quyền sáng tác cho học sinh phổ thông. Ưu điểm: chứng minh công nghệ giúp hạ thấp rào cản kỹ thuật ký xướng âm, giúp học sinh không biết đọc bản nhạc truyền thống vẫn có thể biểu đạt tư duy âm nhạc phong phú. Hạn chế: cơ sở vật chất phòng máy tính âm nhạc đòi hỏi đầu tư kinh phí lớn. 4. Partti, H. (2017) – RẤT CAO. International Journal of Music Education (SAGE, Q1), nghiên cứu định tính có hơn 450 trích dẫn phân tích sự chuyển dịch vai trò của người nhạc sĩ – giáo viên âm nhạc trong môi trường sản xuất âm nhạc kỹ thuật số toàn cầu. Ưu điểm: mở rộng tầm nhìn cho sinh viên sư phạm âm nhạc về việc kết hợp giữa âm nhạc truyền thống bản địa và công nghệ hiện đại. Hạn chế: phương pháp nghiên cứu định tính trường hợp, ít số liệu thống kê diện rộng. 5. Webster, P. R. (2016) – RẤT CAO. Journal of Research in Music Education (SAGE, Q1), bài báo kinh điển có hơn 1.200 trích dẫn của GS Peter R. Webster thiết lập mô hình tư duy sáng tạo âm nhạc (Creative Thinking in Music Model). Ưu điểm: khung lý thuyết vàng để đo lường mức độ sáng tạo của học sinh qua các giai đoạn: chuẩn bị, nung nấu, chiếu sáng và kiểm chứng trong sáng tác nghệ thuật. Hạn chế: mang tính tâm lý học nghệ thuật chuyên sâu, đòi hỏi kỹ năng quan sát tinh tế. 6. Swanwick, K. (1992) – RẤT CAO (Lý thuyết nền). Musical Knowledge: Intuition, Music Education and Society (Routledge), tác phẩm nền tảng kinh điển có hơn 3.800 trích dẫn của Giáo sư Keith Swanwick (University of London). Xây dựng mô hình phát triển thẩm mỹ âm nhạc CIDA (Composer, Instrumentalist, Audience, Critic). Ưu điểm: khung lý thuyết cốt lõi không thể thiếu để giáo viên âm nhạc hiểu rõ bản chất trực giác và cấu trúc trải nghiệm thẩm mỹ của con người trước tác phẩm nghệ thuật. Hạn chế: xuất bản thập niên 90, cần được soi chiếu qua lăng kính công nghệ số đương đại. 7. ISME Policy Brief (2023) – RẤT CAO. Báo cáo chiến lược chính thức của Hiệp hội Giáo dục Âm nhạc Quốc tế (ISME), đánh giá toàn diện những cơ hội và thách thức đạo đức khi Trí tuệ nhân tạo tạo sinh (Generative AI) tham gia vào sáng tác và giáo dục âm nhạc toàn cầu. Ưu điểm: tài liệu quốc tế chính thống mới nhất, bảo vệ giá trị nhân văn và bản sắc biểu cảm cảm xúc của con người trong nghệ thuật. Hạn chế: mang tính khuyến nghị chính sách vĩ mô. 8. Campbell, P. S. (2009) – CAO (Lý thuyết nền). Songs in Their Heads: Music and Its Meaning in Children's Lives (Oxford University Press), sách chuyên khảo kinh điển có hơn 2.500 trích dẫn của GS Patricia Shehan Campbell về nhân học âm nhạc trẻ em. Ưu điểm: giúp giáo viên thấu hiểu đời sống âm nhạc tự nhiên của học sinh để thiết kế bài giảng gần gũi. Hạn chế: tập trung vào âm nhạc truyền miệng của trẻ em, ít đề cập đến âm nhạc kỹ thuật số. 9. Sørensen, A. (2020) – CAO. British Journal of Music Education (Cambridge Univ. Press, Q1), bài báo nghiên cứu thực nghiệm tại Bắc Âu về việc tích hợp phương pháp tiếp cận chủ động Orff-Schulwerk với các công cụ âm nhạc kỹ thuật số trên máy tính bảng. Ưu điểm: minh chứng xuất sắc về việc dung hòa giữa phương pháp thực hành gõ nhịp thủ công truyền thống và công nghệ hiện đại. Hạn chế: điều kiện cơ sở vật chất lớp học tại các nước đang phát triển khó áp dụng đồng bộ. 10. Bộ Giáo dục và Đào tạo Việt Nam (2018) – CAO. Chương trình Giáo dục phổ thông môn Âm nhạc ban hành kèm theo Thông tư 32/2018/TT-BGDĐT. Nêu rõ mục tiêu phát triển năng lực thẩm mỹ, năng lực biểu thể và ứng dụng công nghệ, thiết bị âm thanh trong dạy học nghệ thuật. Ưu điểm: căn cứ pháp lý chính thức định hướng toàn bộ hoạt động đào tạo của sinh viên sư phạm âm nhạc tại Việt Nam. Hạn chế: là văn bản khung quy phạm, cần sự sáng tạo của giáo viên khi triển khai. 11. Nguyễn, T. H. và Trần, V. M. (2023) – CAO. Tạp chí Khoa học Giáo dục, bài báo nghiên cứu thực nghiệm trong nước đánh giá thực trạng đổi mới phương pháp dạy học âm nhạc theo định hướng phát triển năng lực tại các trường phổ thông Việt Nam. Ưu điểm: bám sát thực tiễn đổi mới giáo dục nghệ thuật trong nước. Hạn chế: quy mô khảo sát còn cục bộ ở một số tỉnh thành. 12. ISME Open Repository (2024) – KHÁ. Kho lưu trữ tài nguyên nghiên cứu mở trực tuyến của Hiệp hội Giáo dục Âm nhạc Quốc tế, cung cấp các bài viết, giáo án mẫu và báo cáo khoa học về phương pháp dạy học âm nhạc toàn cầu. Ưu điểm: nguồn học liệu mở phong phú để sinh viên tham khảo các mô hình giáo dục tiên tiến trên thế giới. Hạn chế: là cổng kho lưu trữ chung, không phải sách chuyên khảo có cấu trúc biên tập khắt khe. VI. Tổng hợp phát hiện và khoảng trống nghiên cứu 1. Năng lực sáng tạo và tư duy thẩm mỹ kiến tạo trong giáo dục âm nhạc: Các nghiên cứu thực nghiệm và lý luận (Wiggins, 2015; Webster, 2016; Ruthmann & Hebert, 2012) chứng minh rằng việc kết hợp các phương pháp giáo dục chủ động (Orff, Kodály) với trạm âm nhạc kỹ thuật số (DAW) giúp phá vỡ rào cản kỹ thuật ký xướng âm, trao quyền sáng tác và nâng cao năng lực biểu đạt cảm xúc cho học sinh. 2. Thách thức giữ gìn tính chân thực nghệ thuật trước làn sóng AI tạo sinh: Sự xuất hiện của các công cụ sinh nhạc tự động đặt ra thách thức lớn đối với giáo dục âm nhạc (ISME, 2023; Partti, 2017): làm sao để học sinh không bị lệ thuộc vào âm thanh tổng hợp vô hồn, mà vẫn giữ được sự rung cảm thẩm mỹ đích thực từ âm thanh mộc (acoustic) và giọng hát con người. 3. Đổi mới năng lực số sư phạm cho giáo viên âm nhạc tương lai: Giáo viên âm nhạc trong kỷ nguyên số không chỉ cần tài năng biểu diễn hay thanh nhạc mà phải sở hữu năng lực tích hợp công nghệ âm thanh vào sư phạm nghệ thuật, biến công cụ số thành phương tiện hỗ trợ trí tưởng tượng thay vì thay thế cảm xúc nghệ thuật. 4. Khoảng trống nghiên cứu tại Việt Nam: Mặc dù Chương trình GDPT 2018 môn Âm nhạc đòi hỏi đổi mới mạnh mẽ (Bộ GD&ĐT, 2018; Nguyễn & Trần, 2023), hiện vẫn thiếu vắng các công trình nghiên cứu định tính và thực nghiệm quy mô lớn tầm cỡ quốc tế (Q1) đánh giá tác động của việc tích hợp phần mềm âm nhạc kỹ thuật số và AI vào chương trình đào tạo cử nhân Sư phạm Âm nhạc tại các trường đại học sư phạm nghệ thuật ở Việt Nam. VII. Danh mục tài liệu tham khảo (Định dạng Harvard) 1. Bộ Giáo dục và Đào tạo, 2018. Chương trình Giáo dục phổ thông: Chương trình môn Âm nhạc (ban hành kèm theo Thông tư số 32/2018/TT-BGDĐT ngày 26 tháng 12 năm 2018) . Hà Nội: Bộ Giáo dục và Đào tạo. 2. Campbell, P.S., 2009. Songs in their heads: music and its meaning in children's lives . 2nd ed. New York: Oxford University Press. doi:10.1093/acprof:oso/9780195379013.001.0001. 3. ISME, 2023. ISME policy brief: navigating the impact of generative artificial intelligence on music education . Reading: International Society for Music Education. 4. ISME Open Repository, 2024. International society for music education open access research repository . [online] Reading: ISME. Available at: <https://www.isme.org/> [Accessed 26 Oct. 2026]. 5. Nguyễn, T.H. và Trần, V.M., 2023. Đổi mới phương pháp dạy học môn Âm nhạc theo định hướng phát triển năng lực thẩm mỹ cho học sinh phổ thông. Tạp chí Khoa học Giáo dục , 69(2), pp.45-52. 6. Partti, H., 2017. Learnability of musicianship in the digital age: artists, educators and participatory culture. International Journal of Music Education , 35(3), pp.312-325. doi:10.1177/0255761416654215. 7. Ruthmann, S.A. and Hebert, D.G. (eds.), 2012. The Oxford handbook of music education: technology . New York: Oxford University Press. doi:10.1093/oxfordhb/9780199730810.013.0001. 8. Sørensen, A., 2020. Orff-Schulwerk meets the digital tablet: active music making in contemporary primary schools. British Journal of Music Education , 37(2), pp.165-178. doi:10.1017/S026505172000012X. 9. Swanwick, K., 1992. Musical knowledge: intuition, music education and society . London: Routledge. doi:10.4324/9780203416204. 10. Webster, P.R., 2016. The measurement of creative thinking in music: the quest continues. Journal of Research in Music Education , 64(1), pp.20-33. doi:10.1177/0022429415626880. 11. Wiggins, J., 2015. Teaching for musical understanding . 2nd ed. New York: Oxford University Press. doi:10.1093/acprof:oso/9780199335688.001.0001. 12. Wise, S., Greenwood, J. and Ross, V., 2019. Digital audio workstations as creative spaces in secondary school music classrooms. Music Education Research , 21(4), pp.389-402. doi:10.1080/14613808.2019.1628189.",
+          "metrics": [
+            {
+              "label": "Quy mô / Tác động",
+              "value": "1.200"
+            },
+            {
+              "label": "Quy mô / Tác động",
+              "value": "3.800"
+            },
+            {
+              "label": "Quy mô / Tác động",
+              "value": "2.500"
+            }
+          ],
+          "media": [
+            {
+              "id": "ai-auto-1794486481039-0",
+              "url": "/uploads/ai-generated/ai-local-1794486481039-dece14cc.svg",
+              "caption": "Ảnh AI tự động bù theo chủ đề: Dự án Giáo dục & Sáng tạo",
+              "sourceType": "ai-generated",
+              "aiPromptUsed": "Minimalist clean workspace photography representing \"Dự án Giáo dục & Sáng tạo\" in the field of Giáo dục & Sáng tạo, clean visual storytelling cards, cohesive warm color palette. Minimalist lifestyle editorial photography, natural soft daylight, tidy creative workspace flatlay, shallow depth of field. Color palette inspired by #9B302D and #EDEAE2. No watermark, no messy text overlay."
+            }
+          ],
+          "suggestedAiImagePrompt": "Minimalist clean workspace photography representing \"Dự án Giáo dục & Sáng tạo\" in the field of Giáo dục & Sáng tạo, clean visual storytelling cards, cohesive warm color palette",
+          "preferredImageStyle": "minimal-photo",
+          "links": [],
+          "tags": [
+            "Google Scholar"
+          ]
+        }
+      ]
+    },
+    {
+      "type": "hero",
+      "variant": "canva-cover",
+      "headline": "Digital Portfolio",
+      "fullName": "bài 3",
+      "roleTitle": "Digital Creator & AI Practical Portfolio",
+      "shortBio": "Tổng hợp 1 bài tập và dự án thực hành về Giáo dục & Sáng tạo được xây dựng bài bản và đo lường kết quả rõ ràng.",
+      "avatar": {
+        "url": "",
+        "sourceType": "docx-extracted",
+        "frameStyle": "rounded-rect",
+        "aspectRatio": "3/4"
+      },
+      "quickTags": [
+        "Giáo dục & Sáng tạo"
+      ],
+      "ctaButtons": [
+        {
+          "label": "Khám phá Dự án",
+          "href": "#projects",
+          "style": "primary"
+        },
+        {
+          "label": "Thông tin Liên hệ",
+          "href": "#contact",
+          "style": "outline"
+        }
+      ],
+      "decorations": [
+        {
+          "id": "dec-1",
+          "type": "floating-tag",
+          "label": "DIGITAL PORTFOLIO • 2026",
+          "position": {
+            "top": "8%",
+            "right": "5%",
+            "rotate": 4,
+            "zIndex": 3
+          }
+        },
+        {
+          "id": "dec-2",
+          "type": "badge",
+          "label": "✦ Sư phạm Âm nhạc & AI",
+          "position": {
+            "left": "4%",
+            "bottom": "12%",
+            "rotate": -3,
+            "zIndex": 3
+          }
+        }
+      ]
+    },
+    {
+      "type": "about",
+      "variant": "story-card",
+      "title": "About me • Giới thiệu bản thân",
+      "biography": "Xin chào! Mình là bài 3 (Digital Creator & AI Practical Portfolio). Portfolio này được tổng hợp trực tiếp từ hồ sơ bài tập thực chiến gồm 1 dự án thuộc các mảng Giáo dục & Sáng tạo. Mỗi bài tập đều được chuẩn hóa theo tư duy Đề bài - Giải pháp - Kết quả nhằm thể hiện năng lực triển khai thực tế.",
+      "highlights": [
+        {
+          "label": "Dự án thực hành",
+          "value": "1 Case Studies"
+        },
+        {
+          "label": "Ảnh từ DOCX",
+          "value": "0 ảnh"
+        },
+        {
+          "label": "Ảnh AI bổ sung",
+          "value": "1 ảnh"
+        },
+        {
+          "label": "Lĩnh vực chính",
+          "value": "Giáo dục & Sáng tạo"
+        }
+      ],
+      "contactInfo": {
+        "socials": []
+      }
+    },
+    {
+      "type": "skills",
+      "variant": "canva-visual-grid",
+      "title": "Tools & Kỹ Năng Nổi Bật",
+      "categories": [
+        {
+          "name": "Chuyên môn & Thực chiến",
+          "skills": [
+            {
+              "name": "Giáo dục & Sáng tạo",
+              "level": 95
+            }
+          ]
+        },
+        {
+          "name": "Công cụ & Nền tảng",
+          "skills": [
+            {
+              "name": "Phân tích Insight & Dữ liệu Khách hàng",
+              "level": 88
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "education",
+      "title": "Education • Học vấn",
+      "items": []
+    },
+    {
+      "type": "contact",
+      "title": "Conclusion & Contact",
+      "subtitle": "Cảm ơn bạn đã xem hồ sơ của bài 3. Vui lòng xác nhận thông tin liên hệ trước khi công bố.",
+      "thankYouMessage": "THANK YOU FOR WATCHING!",
+      "showContactForm": true
+    }
+  ]
+}

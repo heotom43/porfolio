@@ -1,0 +1,69 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 960 720" fill="none">
+  <!-- Canva warm cream paper background -->
+  <rect width="960" height="720" fill="#FFF3E6"/>
+
+  <!-- Subtle vinyl disc line-art accent in bottom-right corner -->
+  <g opacity="0.28" stroke="#735340" stroke-width="1.8">
+    <circle cx="856" cy="616" r="142"/>
+    <circle cx="856" cy="616" r="118" stroke-dasharray="14 8"/>
+    <circle cx="856" cy="616" r="92"/>
+    <circle cx="856" cy="616" r="68" stroke-dasharray="10 6"/>
+    <circle cx="856" cy="616" r="36"/>
+  </g>
+
+  <!-- Offset editorial shadow + main rounded frame -->
+  <rect x="86" y="84" width="800" height="560" rx="34" fill="#EBD8C5"/>
+  <rect x="72" y="70" width="800" height="560" rx="34" fill="#FFF8F0" stroke="#735340" stroke-width="3"/>
+
+  <!-- Top browser / editorial workspace header -->
+  <rect x="72" y="70" width="800" height="68" rx="34" fill="#735340"/>
+  <rect x="72" y="108" width="800" height="30" fill="#735340"/>
+  <circle cx="122" cy="104" r="9" fill="#FFF3E6"/>
+  <circle cx="152" cy="104" r="9" fill="#FFF3E6" opacity="0.72"/>
+  <circle cx="182" cy="104" r="9" fill="#D4AF37"/>
+  <rect x="330" y="92" width="284" height="24" rx="12" fill="#5D4037"/>
+
+  <!-- Left column: Organized folder & document tree -->
+  <rect x="114" y="176" width="336" height="414" rx="22" fill="#FFF3E6" stroke="#DFCBB7" stroke-width="2"/>
+  <rect x="146" y="208" width="144" height="30" rx="15" fill="#735340"/>
+  <rect x="166" y="218" width="104" height="10" rx="5" fill="#FFF8F0"/>
+
+  <!-- Folder nodes -->
+  <rect x="146" y="264" width="272" height="68" rx="16" fill="#FFF8F0" stroke="#927869" stroke-width="2"/>
+  <path d="M168 282H192L198 289H224C227 289 230 292 230 295V314C230 317 227 320 224 320H168C165 320 162 317 162 314V288C162 285 165 282 168 282Z" fill="#735340"/>
+  <rect x="246" y="287" width="136" height="14" rx="6" fill="#3E2723"/>
+  <rect x="246" y="309" width="96" height="10" rx="5" fill="#927869"/>
+
+  <rect x="146" y="352" width="272" height="68" rx="16" fill="#FFF8F0" stroke="#927869" stroke-width="2"/>
+  <path d="M168 370H192L198 377H224C227 377 230 380 230 383V402C230 405 227 408 224 408H168C165 408 162 405 162 402V376C162 373 165 370 168 370Z" fill="#927869"/>
+  <rect x="246" y="375" width="144" height="14" rx="6" fill="#3E2723"/>
+  <rect x="246" y="397" width="112" height="10" rx="5" fill="#927869"/>
+
+  <!-- Progress / completion bar block -->
+  <rect x="146" y="444" width="272" height="114" rx="18" fill="#F4E4D4"/>
+  <rect x="174" y="476" width="38" height="58" rx="8" fill="#927869"/>
+  <rect x="228" y="462" width="38" height="72" rx="8" fill="#735340"/>
+  <rect x="282" y="448" width="38" height="86" rx="8" fill="#5D4037"/>
+  <rect x="336" y="468" width="38" height="66" rx="8" fill="#D4AF37"/>
+
+  <!-- Right top card: Collaborative team & workflow capsule -->
+  <rect x="484" y="176" width="346" height="196" rx="22" fill="#5D4037"/>
+  <circle cx="546" cy="242" r="32" fill="#FFF3E6"/>
+  <path d="M546 222L552 236L566 242L552 248L546 262L540 248L526 242L540 236L546 222Z" fill="#D4AF37"/>
+  <rect x="598" y="222" width="184" height="16" rx="7" fill="#FFF8F0"/>
+  <rect x="598" y="252" width="136" height="12" rx="6" fill="#DFCBB7"/>
+  <rect x="514" y="304" width="286" height="34" rx="17" fill="#735340" stroke="#D4AF37" stroke-width="1.5"/>
+  <rect x="554" y="316" width="196" height="10" rx="5" fill="#FFF3E6"/>
+
+  <!-- Right bottom card: Document summary & sparkle -->
+  <rect x="484" y="394" width="346" height="196" rx="22" fill="#FFF3E6" stroke="#735340" stroke-width="2"/>
+  <rect x="516" y="430" width="112" height="124" rx="18" fill="#735340"/>
+  <path d="M572 464L580 484L600 492L580 500L572 520L564 500L544 492L564 484L572 464Z" fill="#FFF3E6"/>
+  <rect x="652" y="442" width="144" height="20" rx="7" fill="#3E2723"/>
+  <rect x="652" y="478" width="122" height="13" rx="6" fill="#927869"/>
+  <rect x="652" y="504" width="136" height="13" rx="6" fill="#927869"/>
+  <rect x="652" y="534" width="88" height="20" rx="10" fill="#D4AF37"/>
+
+  <!-- Top-right editorial 4-point sparkle -->
+  <path d="M892 104L900 124L920 132L900 140L892 160L884 140L864 132L884 124L892 104Z" fill="#D4AF37"/>
+</svg>

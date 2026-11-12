@@ -1,0 +1,54 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 960 720" fill="none">
+  <!-- Warm Canva cream paper base -->
+  <rect width="960" height="720" fill="#FFF3E6"/>
+
+  <!-- Soft organic sand & cocoa corner accents -->
+  <circle cx="812" cy="138" r="128" fill="#F2DEC9"/>
+  <circle cx="148" cy="596" r="144" fill="#EAD4BE"/>
+
+  <!-- Subtle flowing music staff lines -->
+  <g stroke="#927869" stroke-width="1.6" opacity="0.35">
+    <path d="M40 168C220 96 420 198 630 128C770 82 866 116 928 148"/>
+    <path d="M40 184C220 112 420 214 630 144C770 98 866 132 928 164"/>
+    <path d="M40 200C220 128 420 230 630 160C770 114 866 148 928 180"/>
+  </g>
+
+  <!-- Offset editorial card shadow + main frame -->
+  <rect x="132" y="132" width="718" height="476" rx="34" fill="#E6D0BA"/>
+  <rect x="118" y="118" width="718" height="476" rx="34" fill="#FFF8F0" stroke="#735340" stroke-width="3"/>
+
+  <!-- Top pill tag (Role • Context • Task • Constraints) -->
+  <rect x="166" y="168" width="248" height="40" rx="20" fill="#735340"/>
+  <path d="M194 176L198 185L207 189L198 193L194 202L190 193L181 189L190 185L194 176Z" fill="#D4AF37"/>
+  <rect x="222" y="182" width="164" height="12" rx="6" fill="#FFF3E6"/>
+
+  <!-- Title bar -->
+  <rect x="166" y="236" width="424" height="26" rx="8" fill="#3E2723"/>
+
+  <!-- Prompt structure highlight panel -->
+  <rect x="166" y="290" width="622" height="124" rx="22" fill="#FFF3E6" stroke="#927869" stroke-width="2"/>
+  <circle cx="232" cy="352" r="36" fill="#5D4037"/>
+  <path d="M232 328L239 345L256 352L239 359L232 376L225 359L208 352L225 345L232 328Z" fill="#D4AF37"/>
+  <rect x="292" y="328" width="438" height="18" rx="6" fill="#3E2723"/>
+  <rect x="292" y="362" width="352" height="14" rx="6" fill="#927869"/>
+
+  <!-- Bottom 3 structured evaluation / HARMONY cards -->
+  <rect x="166" y="444" width="192" height="110" rx="20" fill="#735340"/>
+  <rect x="192" y="474" width="76" height="14" rx="6" fill="#D4AF37"/>
+  <rect x="192" y="502" width="136" height="12" rx="6" fill="#FFF8F0"/>
+  <rect x="192" y="524" width="108" height="10" rx="5" fill="#DFCBB7"/>
+
+  <rect x="382" y="444" width="192" height="110" rx="20" fill="#F4E4D4" stroke="#927869" stroke-width="2"/>
+  <rect x="408" y="474" width="76" height="14" rx="6" fill="#5D4037"/>
+  <rect x="408" y="502" width="136" height="12" rx="6" fill="#735340"/>
+  <rect x="408" y="524" width="108" height="10" rx="5" fill="#927869"/>
+
+  <rect x="598" y="444" width="190" height="110" rx="20" fill="#FFF3E6" stroke="#735340" stroke-width="2"/>
+  <rect x="624" y="474" width="76" height="14" rx="6" fill="#3E2723"/>
+  <rect x="624" y="502" width="134" height="12" rx="6" fill="#927869"/>
+  <rect x="624" y="524" width="104" height="10" rx="5" fill="#DFCBB7"/>
+
+  <!-- Outer Canva 4-point sparkles -->
+  <path d="M770 164L777 182L795 189L777 196L770 214L763 196L745 189L763 182L770 164Z" fill="#D4AF37"/>
+  <path d="M718 194L722 204L732 208L722 212L718 222L714 212L704 208L714 204L718 194Z" fill="#735340"/>
+</svg>

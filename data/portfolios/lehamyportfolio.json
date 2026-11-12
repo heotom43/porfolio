@@ -1,0 +1,322 @@
+{
+  "id": "batch-lehamyportfolio-1794480721705-2",
+  "slug": "lehamyportfolio",
+  "templateId": "canva-editorial",
+  "imageGenerationConfig": {
+    "mode": "hybrid-auto",
+    "visualStyle": "canva-pastel-graphic"
+  },
+  "seo": {
+    "title": "Lê Hà My | Digital Portfolio 2026",
+    "description": "Tổng hợp 3 bài tập và dự án thực hành về Content Marketing, Thiết kế Truyền thông, AI Prompt Engineering được xây dựng bài bản và đo lường kết quả rõ ràng.",
+    "ogImage": "/presets/avatar-vananh.svg"
+  },
+  "theme": {
+    "primaryColor": "#D95D39",
+    "secondaryColor": "#2563EB",
+    "backgroundColor": "#FFF9F5",
+    "surfaceColor": "#FFFFFF",
+    "textColor": "#1F1A17",
+    "headingFont": "Playfair Display",
+    "bodyFont": "Be Vietnam Pro",
+    "borderRadius": "md",
+    "pageTransition": "smooth-scroll"
+  },
+  "sections": [
+    {
+      "type": "hero",
+      "variant": "canva-cover",
+      "headline": "Digital Portfolio",
+      "fullName": "Lê Hà My",
+      "roleTitle": "Growth Marketer & Prompt Engineer",
+      "shortBio": "Tổng hợp 3 bài tập và dự án thực hành về Content Marketing, Thiết kế Truyền thông, AI Prompt Engineering được xây dựng bài bản và đo lường kết quả rõ ràng.",
+      "avatar": {
+        "url": "/presets/avatar-vananh.svg",
+        "sourceType": "user-uploaded",
+        "frameStyle": "rounded-rect",
+        "aspectRatio": "3/4"
+      },
+      "quickTags": [
+        "Content Marketing",
+        "Thiết kế Truyền thông",
+        "AI Prompt Engineering"
+      ],
+      "ctaButtons": [
+        {
+          "label": "Khám phá Dự án",
+          "href": "#projects",
+          "style": "primary"
+        },
+        {
+          "label": "Thông tin Liên hệ",
+          "href": "#contact",
+          "style": "outline"
+        }
+      ],
+      "decorations": [
+        {
+          "id": "dec-1",
+          "type": "floating-tag",
+          "label": "DIGITAL PORTFOLIO • 2026",
+          "position": {
+            "top": "8%",
+            "right": "5%",
+            "rotate": 4,
+            "zIndex": 3
+          }
+        },
+        {
+          "id": "dec-2",
+          "type": "badge",
+          "label": "✦ Sư phạm Âm nhạc & AI",
+          "position": {
+            "left": "4%",
+            "bottom": "12%",
+            "rotate": -3,
+            "zIndex": 3
+          }
+        }
+      ]
+    },
+    {
+      "type": "about",
+      "variant": "story-card",
+      "title": "About me • Giới thiệu bản thân",
+      "biography": "Xin chào! Mình là Lê Hà My (Growth Marketer & Prompt Engineer). Portfolio này được tổng hợp trực tiếp từ hồ sơ bài tập thực chiến gồm 3 dự án thuộc các mảng Content Marketing, Thiết kế Truyền thông, AI Prompt Engineering. Mỗi bài tập đều được chuẩn hóa theo tư duy Đề bài - Giải pháp - Kết quả nhằm thể hiện năng lực triển khai thực tế.",
+      "highlights": [
+        {
+          "label": "Dự án thực hành",
+          "value": "3 Case Studies"
+        },
+        {
+          "label": "Ảnh từ DOCX",
+          "value": "2 ảnh"
+        },
+        {
+          "label": "Ảnh AI bổ sung",
+          "value": "1 ảnh"
+        },
+        {
+          "label": "Lĩnh vực chính",
+          "value": "Content Marketing"
+        }
+      ],
+      "contactInfo": {
+        "email": "hamy.growth@tntlab.vn",
+        "location": "Hà Nội, Việt Nam",
+        "socials": []
+      }
+    },
+    {
+      "type": "skills",
+      "variant": "canva-visual-grid",
+      "title": "Tools & Kỹ Năng Nổi Bật",
+      "categories": [
+        {
+          "name": "Chuyên môn & Thực chiến",
+          "skills": [
+            {
+              "name": "Content Marketing",
+              "level": 95
+            },
+            {
+              "name": "Thiết kế Truyền thông",
+              "level": 92
+            },
+            {
+              "name": "AI Prompt Engineering",
+              "level": 89
+            }
+          ]
+        },
+        {
+          "name": "Công cụ & Nền tảng",
+          "skills": [
+            {
+              "name": "Canva Visual & Editorial Design",
+              "level": 92
+            },
+            {
+              "name": "Figma Layout & Prototyping",
+              "level": 86
+            },
+            {
+              "name": "AI Prompt Engineering (ChatGPT / Gemini)",
+              "level": 94
+            },
+            {
+              "name": "Content Strategy & Copywriting",
+              "level": 90
+            },
+            {
+              "name": "Phân tích Insight & Dữ liệu Khách hàng",
+              "level": 88
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "education",
+      "title": "Education • Học vấn",
+      "items": [
+        {
+          "school": "Trường Đại học Sư phạm Nghệ thuật Trung ương (NUAE)",
+          "degree": "Ngành Sư phạm Âm nhạc",
+          "period": "2023 - 2027",
+          "gpaOrHonors": "Mã SV: 2552210005 • Lớp Tín chỉ 03 (Nhập môn Công nghệ số & Ứng dụng AI)",
+          "details": "Tập trung nâng cao năng lực sư phạm, phương pháp giảng dạy âm nhạc hiện đại (Orff Schulwerk, Kodály, Gordon) và ứng dụng công nghệ AI trong soạn giảng."
+        }
+      ]
+    },
+    {
+      "type": "projects",
+      "variant": "canva-slide-showcase",
+      "title": "Project • 03 Bài Tập Thực Hành",
+      "subtitle": "Tổng hợp kết quả các bài thực hành kỹ năng số, hợp tác trực tuyến và ứng dụng AI trong học tập & sáng tạo nội dung.",
+      "projects": [
+        {
+          "id": "proj-docx-1-1794480721423",
+          "title": "Chiến dịch Content Marketing Ra mắt Sản phẩm Trà Thảo Mộc",
+          "category": "Content Marketing",
+          "sourceDocxFileName": "Le_Ha_My_BaiTap.docx",
+          "assignmentBrief": "Xây dựng kế hoạch nội dung đa kênh (Facebook, TikTok, Blog SEO) trong 30 ngày cho thương hiệu trà thảo mộc nhắm đến nhân viên văn phòng từ 22-35 tuổi.",
+          "summary": "Nghiên cứu 3 chân dung khách hàng mục tiêu, thiết kế Content Pillar gồm 40% giáo dục sức khỏe, 35% giải trí bắt trend và 25% chuyển đổi bán hàng. Ứng dụng công thức AIDA và PAS để viết 15 bài đăng và 8 kịch bản video ngắn.",
+          "keyTakeaways": [
+            "Đạt 185.000 lượt tiếp cận tự nhiên sau 4 tuần",
+            "tăng +142% tỷ lệ tương tác và mang về 320 đơn hàng dùng thử đầu tiên với chi phí trên mỗi đơn hàng giảm 28%",
+            "Điểm đánh giá: 9.5/10"
+          ],
+          "fullRawExcerpt": "Bài tập 1: Chiến dịch Content Marketing Ra mắt Sản phẩm Trà Thảo Mộc\nĐề bài: Xây dựng kế hoạch nội dung đa kênh (Facebook, TikTok, Blog SEO) trong 30 ngày cho thương hiệu trà thảo mộc nhắm đến nhân viên văn phòng từ 22-35 tuổi.\nCách làm: Nghiên cứu 3 chân dung khách hàng mục tiêu, thiết kế Content Pillar gồm 40% giáo dục sức khỏe, 35% giải trí bắt trend và 25% chuyển đổi bán hàng. Ứng dụng công thức AIDA và PAS để viết 15 bài đăng và 8 kịch bản video ngắn.\nKết quả: Đạt 185.000 lượt tiếp cận tự nhiên sau 4 tuần, tăng +142% tỷ lệ tương tác và mang về 320 đơn hàng dùng thử đầu tiên với chi phí trên mỗi đơn hàng giảm 28%. Điểm đánh giá: 9.5/10.",
+          "metrics": [
+            {
+              "label": "Điểm đánh giá",
+              "value": "9.5/10"
+            },
+            {
+              "label": "Chỉ số nổi bật",
+              "value": "+142%"
+            },
+            {
+              "label": "Quy mô / Tác động",
+              "value": "15 bài đăng"
+            }
+          ],
+          "media": [
+            {
+              "id": "docx-img-1794480721403-1",
+              "url": "/uploads/docx-media/1794480721403-le-ha-my-baitap-1-531171.png",
+              "caption": "Ảnh trích xuất từ Le_Ha_My_BaiTap.docx (#1)",
+              "sourceType": "docx-extracted",
+              "originalDocxMediaName": "word/media/image1.png"
+            }
+          ],
+          "suggestedAiImagePrompt": "Modern pastel editorial illustration representing \"Chiến dịch Content Marketing Ra mắt Sản phẩm Trà Thảo Mộc\" in the field of Content Marketing, clean visual storytelling cards, cohesive warm color palette",
+          "preferredImageStyle": "canva-pastel-graphic",
+          "links": [],
+          "tags": [
+            "TikTok",
+            "Facebook",
+            "SEO",
+            "AIDA"
+          ]
+        },
+        {
+          "id": "proj-docx-2-1794480721423",
+          "title": "Thiết kế Bộ Nhận diện Truyền thông & Landing Page Mùa Thu",
+          "category": "Thiết kế Truyền thông",
+          "sourceDocxFileName": "Le_Ha_My_BaiTap.docx",
+          "assignmentBrief": "Thiết kế hệ thống ấn phẩm truyền thông Social Media (Carousel Instagram, Banner Facebook) và bố cục Landing Page đồng bộ theo phong cách Editorial tối giản.",
+          "summary": "Chọn bảng màu kem ấm (#FAF5EE), cam san hô (#E06D53) và xanh matcha (#2B5B4E). Kết hợp font chữ Playfair Display và Be Vietnam Pro để đảm bảo đọc lướt nhanh trên di động. Thiết kế 12 template tái sử dụng trên Canva và Figma.",
+          "keyTakeaways": [
+            "Rút ngắn 60% thời gian sản xuất ấn phẩm hàng tuần cho đội ngũ",
+            "tỷ lệ nhấp chuột (CTR) quảng cáo đạt 4.8% vượt KPI 3.0%",
+            "Đạt giải Thiết kế ấn tượng nhất tuần"
+          ],
+          "fullRawExcerpt": "Bài tập 2: Thiết kế Bộ Nhận diện Truyền thông & Landing Page Mùa Thu\nĐề bài: Thiết kế hệ thống ấn phẩm truyền thông Social Media (Carousel Instagram, Banner Facebook) và bố cục Landing Page đồng bộ theo phong cách Editorial tối giản.\nCách làm: Chọn bảng màu kem ấm (#FAF5EE), cam san hô (#E06D53) và xanh matcha (#2B5B4E). Kết hợp font chữ Playfair Display và Be Vietnam Pro để đảm bảo đọc lướt nhanh trên di động. Thiết kế 12 template tái sử dụng trên Canva và Figma.\nKết quả: Rút ngắn 60% thời gian sản xuất ấn phẩm hàng tuần cho đội ngũ, tỷ lệ nhấp chuột (CTR) quảng cáo đạt 4.8% vượt KPI 3.0%. Đạt giải Thiết kế ấn tượng nhất tuần.",
+          "metrics": [
+            {
+              "label": "Chỉ số nổi bật",
+              "value": "60%"
+            },
+            {
+              "label": "Quy mô / Tác động",
+              "value": "12 template"
+            }
+          ],
+          "media": [
+            {
+              "id": "docx-img-1794480721403-2",
+              "url": "/uploads/docx-media/1794480721403-le-ha-my-baitap-2-d08009.png",
+              "caption": "Ảnh trích xuất từ Le_Ha_My_BaiTap.docx (#1)",
+              "sourceType": "docx-extracted",
+              "originalDocxMediaName": "word/media/image2.png"
+            }
+          ],
+          "suggestedAiImagePrompt": "Modern pastel editorial illustration representing \"Thiết kế Bộ Nhận diện Truyền thông & Landing Page Mùa Thu\" in the field of Thiết kế Truyền thông, clean visual storytelling cards, cohesive warm color palette",
+          "preferredImageStyle": "canva-pastel-graphic",
+          "links": [],
+          "tags": [
+            "Canva",
+            "Figma",
+            "Facebook",
+            "Landing Page"
+          ]
+        },
+        {
+          "id": "proj-docx-3-1794480721704",
+          "title": "Ứng dụng AI Prompt Engineering Tự động hóa Quy trình Nghiên cứu Thị trường",
+          "category": "AI Prompt Engineering",
+          "sourceDocxFileName": "Le_Ha_My_BaiTap.docx",
+          "assignmentBrief": "Xây dựng bộ khung Prompt AI hoàn chỉnh để tự động phân tích 500 phản hồi khách hàng, rút trích insight hành vi và đề xuất ý tưởng cải tiến sản phẩm trong thời gian dưới 15 phút.",
+          "summary": "Thiết kế chuỗi Chain-of-Thought Prompt kết hợp kỹ thuật Few-shot và xuất cấu trúc JSON. Phân nhóm cảm xúc khách hàng (Tích cực, Trung lập, Khiếu nại) và tự động tạo bảng ma trận Pain Point - Giải pháp bằng ChatGPT và Gemini.",
+          "keyTakeaways": [
+            "Xử lý 500 mẫu khảo sát chỉ trong 12 phút (nhanh hơn 10 lần so với phân tích thủ công)",
+            "độ chính xác phân loại đạt 94%",
+            "phát hiện 3 nhóm nhu cầu chưa được khai thác giúp tăng 24% điểm hài lòng CSAT"
+          ],
+          "fullRawExcerpt": "Bài tập 3: Ứng dụng AI Prompt Engineering Tự động hóa Quy trình Nghiên cứu Thị trường\nĐề bài: Xây dựng bộ khung Prompt AI hoàn chỉnh để tự động phân tích 500 phản hồi khách hàng, rút trích insight hành vi và đề xuất ý tưởng cải tiến sản phẩm trong thời gian dưới 15 phút.\nCách làm: Thiết kế chuỗi Chain-of-Thought Prompt kết hợp kỹ thuật Few-shot và xuất cấu trúc JSON. Phân nhóm cảm xúc khách hàng (Tích cực, Trung lập, Khiếu nại) và tự động tạo bảng ma trận Pain Point - Giải pháp bằng ChatGPT và Gemini.\nKết quả: Xử lý 500 mẫu khảo sát chỉ trong 12 phút (nhanh hơn 10 lần so với phân tích thủ công), độ chính xác phân loại đạt 94%, phát hiện 3 nhóm nhu cầu chưa được khai thác giúp tăng 24% điểm hài lòng CSAT.",
+          "metrics": [
+            {
+              "label": "Chỉ số nổi bật",
+              "value": "94%"
+            },
+            {
+              "label": "Quy mô / Tác động",
+              "value": "500 phản hồi"
+            },
+            {
+              "label": "Quy mô / Tác động",
+              "value": "15 phút"
+            }
+          ],
+          "media": [
+            {
+              "id": "ai-auto-1794480721704-2",
+              "url": "/uploads/ai-generated/ai-local-1794480721704-47a7b220.svg",
+              "caption": "Ảnh AI tự động bù theo chủ đề: Ứng dụng AI Prompt Engineering Tự động hóa Quy trình Nghiên cứu Thị trường",
+              "sourceType": "ai-generated",
+              "aiPromptUsed": "Modern pastel editorial illustration representing \"Ứng dụng AI Prompt Engineering Tự động hóa Quy trình Nghiên cứu Thị trường\" in the field of AI Prompt Engineering, clean visual storytelling cards, cohesive warm color palette. Canva pastel editorial graphic design, soft warm cream and terracotta accents, clean flat vector cards, harmonious shapes, high aesthetic presentation. Color palette inspired by #735340 and #FFF3E6. No watermark, no messy text overlay."
+            }
+          ],
+          "suggestedAiImagePrompt": "Modern pastel editorial illustration representing \"Ứng dụng AI Prompt Engineering Tự động hóa Quy trình Nghiên cứu Thị trường\" in the field of AI Prompt Engineering, clean visual storytelling cards, cohesive warm color palette",
+          "preferredImageStyle": "canva-pastel-graphic",
+          "links": [],
+          "tags": [
+            "ChatGPT",
+            "Gemini",
+            "Prompt Engineering",
+            "Chain-of-Thought"
+          ]
+        }
+      ]
+    },
+    {
+      "type": "contact",
+      "title": "Conclusion & Contact",
+      "subtitle": "Cảm ơn bạn đã theo dõi hành trình thực hành của Lê Hà My (Growth Marketer & Prompt Engineer). Rất vui được kết nối và trao đổi cùng bạn!",
+      "thankYouMessage": "THANK YOU FOR WATCHING!",
+      "showContactForm": true
+    }
+  ]
+}

@@ -1,0 +1,249 @@
+{
+  "id": "batch-bai5portfolio-1794486479388-1",
+  "slug": "bai5portfolio",
+  "templateId": "academic-presentation",
+  "imageGenerationConfig": {
+    "mode": "hybrid-auto",
+    "visualStyle": "minimal-photo"
+  },
+  "seo": {
+    "title": "bài 5 | Digital Portfolio 2026",
+    "description": "Tổng hợp 1 bài tập và dự án thực hành về AI Prompt Engineering được xây dựng bài bản và đo lường kết quả rõ ràng."
+  },
+  "theme": {
+    "primaryColor": "#9B302D",
+    "secondaryColor": "#6A1C1B",
+    "backgroundColor": "#EDEAE2",
+    "surfaceColor": "#FFFFFF",
+    "textColor": "#9B302D",
+    "headingFont": "Merriweather",
+    "bodyFont": "Be Vietnam Pro",
+    "borderRadius": "md",
+    "pageTransition": "slide-deck",
+    "effects": {
+      "enableFloat": false,
+      "enableGlow": false,
+      "enableTilt": false,
+      "enableSparkles": true,
+      "revealVariant": "fade-up",
+      "enableParallax": false
+    },
+    "backgroundIllustration": {
+      "mode": "preset",
+      "presetId": "vintage-parchment",
+      "opacity": 0.2,
+      "blur": 0,
+      "position": "cover"
+    }
+  },
+  "sections": [
+    {
+      "type": "projects",
+      "variant": "canva-slide-showcase",
+      "title": "Project • 01 Bài Tập Thực Hành",
+      "subtitle": "Nội dung được tổng hợp từ tài liệu DOCX đã nạp; vui lòng kiểm tra tính chính xác trước khi công bố.",
+      "projects": [
+        {
+          "id": "proj-docx-1-1794486479387",
+          "title": "Dự án AI Prompt Engineering",
+          "category": "AI Prompt Engineering",
+          "sourceDocxFileName": "bài 5.docx",
+          "assignmentBrief": "BÁO CÁO DỰ ÁN SÁNG TẠO NỘI DUNG SỐ CÙNG AI & HỒ SƠ THIẾT KẾ INFOGRAPHIC CHỦ ĐỀ: CÁ NHÂN HÓA LỘ TRÌNH HỌC TẬP THÍCH ỨNG BẰNG AI – TỐI ƯU HÓA HÀNH TRÌNH SỐ Sinh viên thực hiện: Từ Thị Vân Anh | Sáng tạo nội dung số PHẦN A:",
+          "summary": "BÁO CÁO DỰ ÁN SÁNG TẠO NỘI DUNG SỐ CÙNG AI & HỒ SƠ THIẾT KẾ INFOGRAPHIC CHỦ ĐỀ: CÁ NHÂN HÓA LỘ TRÌNH HỌC TẬP THÍCH ỨNG BẰNG AI – TỐI ƯU HÓA HÀNH TRÌNH SỐ Sinh viên thực hiện: Từ Thị Vân Anh | Sáng tạo nội dung số PHẦN A: BẢN THIẾT KẾ SẢN PHẨM INFOGRAPHIC CHUẨN MỰC Dưới đây là ấn ",
+          "keyTakeaways": [
+            "BÁO CÁO DỰ ÁN SÁNG TẠO NỘI DUNG SỐ CÙNG AI & HỒ SƠ THIẾT KẾ INFOGRAPHIC CHỦ ĐỀ: CÁ NHÂN HÓA LỘ TRÌNH HỌC TẬP THÍCH ỨNG BẰNG AI – TỐI ƯU HÓA HÀNH TRÌNH SỐ Sinh viên thực hiện: Từ Thị Vân Anh | Sáng tạo nội dung số PHẦN A: BẢN THIẾT KẾ SẢN PHẨM INFOGRAPHIC CHUẨN MỰC Dưới đây là ấn",
+            "Hoàn thiện case study \"Dự án AI Prompt Engineering\" theo quy trình Đề bài – Giải pháp – Kết quả",
+            "Ứng dụng kỹ năng AI Prompt Engineering (Canva, ChatGPT)"
+          ],
+          "fullRawExcerpt": "BÁO CÁO DỰ ÁN SÁNG TẠO NỘI DUNG SỐ CÙNG AI & HỒ SƠ THIẾT KẾ INFOGRAPHIC CHỦ ĐỀ: CÁ NHÂN HÓA LỘ TRÌNH HỌC TẬP THÍCH ỨNG BẰNG AI – TỐI ƯU HÓA HÀNH TRÌNH SỐ Sinh viên thực hiện: Từ Thị Vân Anh | Sáng tạo nội dung số PHẦN A: BẢN THIẾT KẾ SẢN PHẨM INFOGRAPHIC CHUẨN MỰC Dưới đây là ấn phẩm Infographic trực quan hoàn chỉnh được chuyển đổi và nâng cấp toàn diện từ định dạng slide thuyết trình ban đầu. Sản phẩm được thiết kế chuẩn mực theo tỷ lệ 25% văn bản – 75% đồ họa trực quan hóa dữ liệu, đáp ứng chính xác tiêu chí. Hình 1: Ấn phẩm Infographic hoàn chỉnh - Cá nhân hóa lộ trình học tập thích ứng bằng AI (Thiết kế đạt chuẩn Mức 4) Bảng thông số kỹ thuật và hệ thống thị giác của Infographic: Tỷ lệ phân bổ nội dung 25% Văn bản súc tích (Text) : 75% Hình ảnh, đồ họa và sơ đồ luồng dữ liệu (Visual Data). Kích thước & Độ phân giải Khung dọc tỷ lệ 10:24 (1500 x 3600 px), tối ưu cho quét đọc trên màn hình số và in ấn khổ đứng. Bảng màu chủ đạo (Color Palette) Deep Navy (#0B1325) nền sâu công nghệ; Cyan Neon (#00E5FF) điểm nhấn tương tác; Emerald (#10B981) tiến trình học tập; Amber (#F59E0B) cảnh báo phản biện. Cấu trúc thị giác (Eye-tracking) Z-pattern và luồng dọc (Vertical Flow): Đi từ Thực trạng -> Kiến trúc thuật toán -> Quy trình 3 bước -> Triết lý con người & Trích dẫn học thuật. Phông chữ chuẩn hóa (Typography) DejaVu Sans / Segoe UI: Phân cấp rõ 4 tầng bậc (Tiêu đề 18pt, Phân khu 13pt, Nhãn thuật toán 9.5pt, Dữ liệu mô tả 7.5pt). PHẦN B: BÁO CÁO TOÀN DIỆN TIẾN TRÌNH THỰC HIỆN DỰ ÁN 1. Nghiên cứu và Lập kế hoạch thiết kế 1.1. Bối cảnh đề tài và tính phức tạp của dữ liệu học thuật: Giáo dục truyền thống từ lâu vận hành theo phương thức 'one-size-fits-all' (đồng phục giáo dục), nơi mọi người học đều tiếp cận cùng một giáo trình, cùng một tiến độ giảng dạy bất kể sự khác biệt về nền tảng tri thức, tốc độ hấp thu và mục tiêu cá nhân. Hệ quả là có tới 40% người học rơi vào trạng thái chán nản hoặc quá tải. Sự trỗi dậy của Trí tuệ Nhân tạo tạo ra bước ngoặt với Hệ thống Học tập Thích ứng (Adaptive Learning Systems - ALS). Tuy nhiên, các mô hình toán học và thuật toán nền tảng của ALS (như Không gian Tri thức, Mô hình ẩn Markov, Lọc cộng tác) rất trừu tượng, đòi hỏi năng lực phân tích dữ liệu chuyên sâu để trực quan hóa một cách chuẩn xác. 1.2. Mục tiêu dự án và Thông điệp cốt lõi: Mục tiêu tổng quát: Chuyển hóa toàn bộ hệ thống lý thuyết và thuật toán học máy phức tạp thành một ấn phẩm Infographic trực quan, súc tích, mang tính ứng dụng thực tiễn cao. Thông điệp cốt lõi: 'Phá bỏ rào cản giáo dục đồng phục – Mỗi người học sở hữu một bản đồ số tri thức riêng biệt dưới sự điều phối của AI và tư duy định hướng của con người.' 1.3. Chân dung Đối tượng mục tiêu (Target Audience Persona): Để đảm bảo thông điệp truyền đạt chính xác, dự án phân định rõ 2 nhóm đối tượng tiếp nhận chính: Đối tượng chính (Primary Audience - 70%): Sinh viên đại học, học viên các ngành Công nghệ, Kinh doanh số (Digital Business) và những người tự học trực tuyến. Đặc điểm: Cần nắm bắt nhanh cách vận hành của các ứng dụng học tập quen thuộc (Duolingo, Coursera, Quizlet) và phương pháp tối ưu hóa hiệu suất học cá nhân. Đối tượng phụ (Secondary Audience - 30%): Giảng viên đại học, chuyên gia thiết kế chương trình đào tạo số (Instructional Designers). Đặc điểm: Quan tâm đến cơ sở khoa học thuật toán, tính khả thi sư phạm và các rào cản đạo đức khi triển khai AI vào trường học. 1.4. Phác thảo wireframe và luồng thông tin (Information Architecture): Luồng thông tin được phác thảo qua 4 tầng dữ liệu liên kết tuyến tính chặt chẽ: Tầng 1 (Vấn đề): Định lượng tổn thất của mô hình truyền thống và minh chứng sức mạnh tăng tốc của cá nhân hóa (+35% ghi nhớ, -45% thời gian lãng phí). Tầng 2 (Động cơ thuật toán): Trực quan hóa 4 trụ cột thuật toán lõi dưới dạng ma trận khối liên kết 4 góc (KST, BKT, CF, NLP). Tầng 3 (Quy trình tương tác): Sơ đồ dòng chảy dữ liệu thời gian thực qua 3 bước: Thu thập dữ liệu -> Phân tích thích ứng -> Phản hồi vi mô. Tầng 4 (Giá trị con người & Học thuật): Cán cân cân bằng công nghệ – tư duy phản biện và danh mục nguồn trích dẫn uy tín chuẩn mực. 2. Quá trình ứng dụng các công cụ AI và Minh chứng triển khai (Tiêu chí 2 & 4) Dự án kết hợp sức mạnh tổng hợp của ba công cụ AI chuyên biệt: ChatGPT (Xử lý văn bản học thuật), Midjourney (Sáng tạo thị giác ý niệm) và Canva AI (Tổ chức bố cục trực quan). 2.1. Công cụ tạo sinh văn bản: ChatGPT Mục đích: Xây dựng khung nội dung học thuật, trích xuất bản chất các thuật toán giáo dục và tinh gọn thành cấu trúc thẻ súc tích. Prompt phân tầng 1 (Xây dựng nội dung gốc): 'Là một nhà giáo dục, hãy viết cho tôi phần nội dung hoàn chỉnh của bài thuyết trình về cá nhân hóa lộ trình học tập thích ứng bằng AI - tối ưu hóa hành trình số.' Hình 2: Minh chứng Prompt 1 trên ChatGPT khởi tạo nội dung học thuật sơ bộ Prompt phân tầng 2 (Tinh gọn & Chuyển đổi định dạng trực quan): 'Phần bài thuyết trình trên hãy tinh lọc các thuật ngữ quá chuyên môn, chia nhỏ nội dung thành các thẻ (bullet points) để phù hợp với bố cục slide và bổ sung các ví dụ thực tế tại Việt Nam.' Hình 3: Minh chứng Prompt 2 trên ChatGPT tái cấu trúc thành bullet points và ví dụ thực tế Can thiệp và hiệu đính của cá nhân sinh viên: Văn bản do AI tạo ra ban đầu còn chứa nhiều thuật ngữ trừu tượng và câu văn dài dòng mang tính sách vở. Sinh viên đã trực tiếp can thiệp: (1) Cắt giảm hơn 70% số lượng từ ngữ dư thừa; (2) Chuyển đổi các định nghĩa phức tạp thành công thức ngắn gọn kèm ví dụ trực quan dễ hiểu (Duolingo, Quizlet, Coursera); (3) Bổ sung các chỉ số đo lường hiệu suất học tập định lượng để nâng cao tính thuyết phục học thuật. 2.2. Công cụ tạo sinh hình ảnh: Midjourney (qua giao diện Chatly AI) Mục đích: Tạo hình ảnh minh họa chủ đạo (Hero Asset) mang phong cách tương lai (Futuristic), trực quan hóa khái niệm lớp học cá nhân hóa với giao diện số đa chiều. Prompt kỹ thuật chuyên sâu: 'sinh viên học tập với hệ thống AI cá nhân hóa lộ trình học, mỗi người có một màn hình hiển thị nội dung khác nhau, lớp học tương lai với giao diện hologram, ánh sáng mềm, phong cách 3D chân thực, bố cục rộng, tỷ lệ 16:9 --v 6 --ar 16:9 --style raw' Hình 4: Minh chứng quy trình tạo ảnh Midjourney trên giao diện Chatly AI với tham số chuyên sâu Can thiệp và hiệu đính của cá nhân sinh viên: Ảnh AI sinh ra có độ chi tiết rất cao nhưng ánh sáng ban đầu có xu hướng ám sắc vàng ấm của phòng học truyền thống. Sinh viên đã tiến hành hậu kỳ: cân chỉnh lại nhiệt độ màu (Color Temperature) sang dải xanh lạnh (#0052CC và #0B1325), tách nền đối tượng và tích hợp biểu tượng giao diện số hóa để đồng bộ tuyệt đối với nhận diện thương hiệu công nghệ của dự án. 2.3. Công cụ hỗ trợ thiết kế: Canva AI (Magic Studio) Mục đích: Bố cục các khối nội dung, áp dụng Magic Edit để tinh chỉnh tiểu tiết và thử nghiệm cách bài trí các thành phần đồ họa. Hình 5: Phác thảo thiết kế 4 thuật toán cốt lõi ban đầu trên giao diện Canva Hình 6: Phác thảo khối nội dung bài học và triết lý công nghệ trên Canva Đánh giá hạn chế của bản phác thảo ban đầu và quyết định cải tiến: Bản phác thảo ban đầu trên Canva được thực hiện dưới dạng slide trình chiếu 15 trang (như minh chứng trong Hình 5 và Hình 6). Qua đối chiếu nghiêm ngặt với Rubric, đây là một sai lệch nghiêm trọng về thể loại sản phẩm: slide thuyết trình có quá nhiều chữ đóng khung hộp, màu sắc nền tím - vàng phân mảnh và không thỏa mãn định dạng Infographic poster chuẩn. Chính vì vậy, sinh viên đã quyết định tái thiết kế toàn bộ sang một bản Infographic đơn trang liền mạch (như đã trình bày ở Phần A). 3. So sánh công cụ và Phân tích vai trò của AI trong sáng tạo số 3.1. Bảng so sánh đa chiều giữa các công cụ AI được ứng dụng: Tiêu chí đánh giá ChatGPT (Văn bản) Midjourney (Hình ảnh) Canva AI (Thiết kế) Điểm mạnh vượt trội Khả năng khái quát tri thức học thuật sâu, tốc độ phản hồi cực nhanh, dễ định hướng văn phong chuyên môn. Độ phân giải siêu thực, thẩm mỹ futuristic vượt trội so với ảnh stock, tạo dựng được concept trừu tượng. Giao diện trực quan kéo thả, tính năng AI hỗ trợ phối màu tự động và xóa phông vật thể nhanh chóng. Hạn chế cốt lõi Có xu hướng lặp từ ngữ học thuật, nguy cơ hallucination (sinh thông tin ảo), thiếu dẫn chứng định lượng nếu không ràng buộc. Rất khó kiểm soát văn bản hiển thị trong ảnh, bố cục đôi khi ngẫu nhiên, phụ thuộc nhiều vào khả năng điều chỉnh tham số prompt. Các tính năng đồ họa sâu bị khóa sau tài khoản Pro, các mẫu dựng sẵn dễ gây cảm giác rập khuôn, thiếu cá tính riêng. Vai trò thực tế Trợ lý nội dung: Xây dựng khung lý thuyết, tóm lược định nghĩa và gợi ý kịch bản trực quan. Nhà thiết kế ý niệm: Biến các khái niệm trừu tượng (không gian học tập AI) thành tài sản thị giác độc bản. Xưởng gia công đồ họa: Căn chỉnh lưới, tổ chức bố cục phân tầng và tích hợp các vector đồ họa. 3.2. Sự chuyển dịch quy trình sáng tạo: Từ 'Tự làm tất cả' sang 'Điều phối và Hiệu đính': Sự xuất hiện của GenAI đã thay đổi căn bản tư duy sáng tạo nội dung của sinh viên. Nếu như trước đây, 80% thời gian bị tiêu tốn vào việc viết bản thảo thô và vẽ vector thủ công, thì với quy trình mới, sinh viên đóng vai trò là 'Giám đốc Sáng tạo' (Creative Director): 20% Thời gian đầu: Nghiên cứu tài liệu khoa học, xác định bài toán, lập khung wireframe và thiết kế cấu trúc prompt. 30% Thời gian giữa: Khai thác AI sinh mã nguồn, bản thảo và tài nguyên hình ảnh. 50% Thời gian trọng tâm: Thẩm định tính chính xác của dữ liệu, biên tập tinh lọc, tối ưu tỷ lệ hiển thị và hiệu đính thẩm mỹ. 3.3. Đạo đức AI, Bản quyền dữ liệu và Liêm chính học thuật: Việc sử dụng AI trong môi trường học thuật đòi hỏi tính minh bạch cao nhất. Dự án tuân thủ nghiêm ngặt các nguyên tắc: (1) Công khai toàn bộ các câu lệnh prompt và công cụ đã sử dụng; (2) Toàn bộ các định lý và thuật toán đều được đối chiếu và trích dẫn theo tác giả gốc (Doignon & Falmagne, Corbett & Anderson) thay vì xem AI là nguồn gốc tri thức; (3) Cảnh báo rõ nguy cơ 'Bong bóng lọc nhận thức' (Filter Bubble) khi thuật toán cá nhân hóa quá mức có thể giam cầm người học trong vùng hiểu biết hẹp. 4. Khảo sát phản hồi từ 5 người xem và Phân tích sâu sắc các điều chỉnh Bản thiết kế sơ bộ (dạng slide thuyết trình) đã được chia sẻ tới 5 đối tượng người xem đại diện nhằm thu thập phản hồi đa chiều về: tính thẩm mỹ, độ chuẩn xác của thông tin, tỷ lệ cân bằng chữ - ảnh và khả năng tiếp nhận thông điệp. STT & Người nhận xét Ý kiến đóng góp cụ thể Phân tích nguyên nhân & Hành động điều chỉnh 1. Thầy N.V.A (Giảng viên chuyên ngành Công nghệ số) \"Sản phẩm hiện tại là slide thuyết trình 15 trang, vi phạm định dạng nộp bài Infographic. Nội dung các ô thuật toán chứa quá nhiều chữ lý thuyết, thiếu tính trực quan hóa dữ liệu.\" Chuyển đổi toàn diện: Tái cấu trúc từ 15 trang slide sang 1 trang Infographic poster dọc duy nhất. Cắt giảm 70% chữ, chuyển các khối lý thuyết thành sơ đồ mạng 4 thuật toán. 2. Bạn Lê Minh H. (Sinh viên Digital Business) \"Hình ảnh AI tạo rất hiện đại nhưng bài chưa có các số liệu định lượng chứng minh tính hiệu quả của mô hình thích ứng. Cần số liệu cụ thể để thuyết phục.\" Bổ sung dữ liệu định lượng: Đưa thêm 3 chỉ số thống kê nổi bật vào mục Bối cảnh: 40% lãng phí thời gian học đồng loạt, +35% hiệu suất ghi nhớ, -45% thời gian ôn tập lặp lại. 3. Chị Trần Hoàng Y. (UI/UX Designer thực tập) \"Bản thiết kế ban đầu phối màu tím và vàng tương phản hơi chói gắt. Các khối chữ nhật đóng khung viền đen tạo cảm giác bí bách, cản trở luồng đọc tự nhiên của mắt.\" Nâng cấp hệ thống thị giác: Đổi bảng màu sang tông Cyber Dark (#0B1325, #00E5FF, #10B981) hiện đại. Xóa bỏ viền khung thô, sử dụng Card bán trong suốt và mũi tên dẫn hướng luồng đọc. 4. Bạn Nguyễn Thu Q. (Người dùng app Duolingo & Quizlet) \"Phần ví dụ thực tế rất hay nhưng chưa giải thích rõ thuật toán can thiệp vào việc học như thế nào. Người đọc phổ thông khó hình dung được sự khác nhau giữa KST và BKT.\" Làm rõ cơ chế vi mô: Thêm dòng mô tả bản chất ngắn gọn dưới mỗi thuật toán: KST là 'cây mở khóa tri thức theo thứ bậc', BKT là 'mô hình đoán điểm rơi quên lãng để nhắc nhở ngắt quãng'. 5. Bạn Phạm Đức T. (Sinh viên năm cuối CNTT) \"Các thuật toán KST, Bayesian Tracing là các công trình khoa học đã được kiểm chứng. Báo cáo cần bổ sung trích dẫn chuẩn học thuật (APA) ở cuối trang để đảm bảo tính liêm chính.\" Bổ sung trích dẫn chuẩn APA: Thêm hộp References Box ở chân trang Infographic và mục Danh mục tài liệu tham khảo chi tiết ở cuối báo cáo theo chuẩn APA 7th. 5. Tổng kết và Đúc kết kinh nghiệm thực tiễn Dự án sáng tạo nội dung số cùng AI đã chứng minh rõ nét năng lực kết hợp giữa sức mạnh tính toán của công nghệ và tư duy phản biện của con người. Qua quá trình từ bản phác thảo slide ban đầu đến ấn phẩm Infographic chuẩn mực Mức 4, sinh viên rút ra 3 bài học đúc kết quan trọng: 1. AI là Đòn bẩy (Leverage), không phải Sự thay thế: AI có thể sinh ra hàng nghìn từ ngữ và hàng chục bức ảnh trong vài giây, nhưng việc chọn lọc thông điệp nào chạm đến người xem và cấu trúc nào mạch lạc hoàn toàn phụ thuộc vào tư duy thiết kế của người thực hiện. 2. Tôn trọng thể loại và tiêu chuẩn sản phẩm: Một sản phẩm Infographic đòi hỏi tư duy thị giác cô đọng, ưu tiên số liệu và biểu đồ luồng thay vì việc sao chép nội dung văn bản lên các slide thuyết trình. 3. Lắng nghe phản hồi là chìa khóa của hoàn thiện: Chính quá trình khảo sát 5 đối tượng người xem đã bóc tách toàn bộ các điểm yếu tiềm ẩn của bài làm, tạo cơ sở thực nghiệm vững chắc để nâng cấp toàn diện sản phẩm lên mức chất lượng cao nhất. 6. Danh mục tài liệu tham khảo học thuật (Chuẩn APA 7th Edition) Corbett, A. T., & Anderson, J. R. (1994). Knowledge tracing: Modeling the acquisition of procedural knowledge. User Modeling and User-Adapted Interaction, 4(4), 253–278. Doignon, J.-P., & Falmagne, J.-C. (1999). Knowledge Spaces. Springer-Verlag Berlin Heidelberg. Jurafsky, D., & Martin, J. H. (2023). Speech and Language Processing: An Introduction to Natural Language Processing, Computational Linguistics, and Speech Recognition (3rd ed. draft). Stanford University. Su, X., & Khoshgoftaar, T. M. (2009). A survey of collaborative filtering techniques. Advances in Artificial Intelligence, 2009, Article ID 421425, 1–19. VanLehn, K. (2011). The relative effectiveness of human tutoring, intelligent tutoring systems, and other tutoring platforms. Educational Psychologist, 46(4), 197–221.",
+          "metrics": [
+            {
+              "label": "Chỉ số nổi bật",
+              "value": "+35%"
+            },
+            {
+              "label": "Quy mô / Tác động",
+              "value": "3 bước"
+            }
+          ],
+          "media": [
+            {
+              "id": "docx-img-1794486479164-1",
+              "url": "/uploads/docx-media/1794486479164-b-i-5-1-74f98b.png",
+              "caption": "Ảnh trích xuất từ bài 5.docx (#1)",
+              "sourceType": "docx-extracted",
+              "originalDocxMediaName": "word/media/image1.png"
+            },
+            {
+              "id": "docx-img-1794486479164-2",
+              "url": "/uploads/docx-media/1794486479164-b-i-5-2-b3c8d6.png",
+              "caption": "Ảnh trích xuất từ bài 5.docx (#2)",
+              "sourceType": "docx-extracted",
+              "originalDocxMediaName": "word/media/image2.png"
+            },
+            {
+              "id": "docx-img-1794486479164-3",
+              "url": "/uploads/docx-media/1794486479164-b-i-5-3-661856.png",
+              "caption": "Ảnh trích xuất từ bài 5.docx (#3)",
+              "sourceType": "docx-extracted",
+              "originalDocxMediaName": "word/media/image3.png"
+            },
+            {
+              "id": "docx-img-1794486479164-4",
+              "url": "/uploads/docx-media/1794486479164-b-i-5-4-ffc4d8.png",
+              "caption": "Ảnh trích xuất từ bài 5.docx (#4)",
+              "sourceType": "docx-extracted",
+              "originalDocxMediaName": "word/media/image4.png"
+            },
+            {
+              "id": "docx-img-1794486479164-5",
+              "url": "/uploads/docx-media/1794486479164-b-i-5-5-742b9f.png",
+              "caption": "Ảnh trích xuất từ bài 5.docx (#5)",
+              "sourceType": "docx-extracted",
+              "originalDocxMediaName": "word/media/image5.png"
+            },
+            {
+              "id": "docx-img-1794486479164-6",
+              "url": "/uploads/docx-media/1794486479164-b-i-5-6-1bbe20.png",
+              "caption": "Ảnh trích xuất từ bài 5.docx (#6)",
+              "sourceType": "docx-extracted",
+              "originalDocxMediaName": "word/media/image6.png"
+            }
+          ],
+          "suggestedAiImagePrompt": "Minimalist clean workspace photography representing \"Dự án AI Prompt Engineering\" in the field of AI Prompt Engineering, clean visual storytelling cards, cohesive warm color palette",
+          "preferredImageStyle": "minimal-photo",
+          "links": [],
+          "tags": [
+            "Canva",
+            "ChatGPT"
+          ]
+        }
+      ]
+    },
+    {
+      "type": "hero",
+      "variant": "canva-cover",
+      "headline": "Digital Portfolio",
+      "fullName": "bài 5",
+      "roleTitle": "Digital Creator & AI Practical Portfolio",
+      "shortBio": "Tổng hợp 1 bài tập và dự án thực hành về AI Prompt Engineering được xây dựng bài bản và đo lường kết quả rõ ràng.",
+      "avatar": {
+        "url": "",
+        "sourceType": "docx-extracted",
+        "frameStyle": "rounded-rect",
+        "aspectRatio": "3/4"
+      },
+      "quickTags": [
+        "AI Prompt Engineering"
+      ],
+      "ctaButtons": [
+        {
+          "label": "Khám phá Dự án",
+          "href": "#projects",
+          "style": "primary"
+        },
+        {
+          "label": "Thông tin Liên hệ",
+          "href": "#contact",
+          "style": "outline"
+        }
+      ],
+      "decorations": [
+        {
+          "id": "dec-1",
+          "type": "floating-tag",
+          "label": "DIGITAL PORTFOLIO • 2026",
+          "position": {
+            "top": "8%",
+            "right": "5%",
+            "rotate": 4,
+            "zIndex": 3
+          }
+        },
+        {
+          "id": "dec-2",
+          "type": "badge",
+          "label": "✦ Sư phạm Âm nhạc & AI",
+          "position": {
+            "left": "4%",
+            "bottom": "12%",
+            "rotate": -3,
+            "zIndex": 3
+          }
+        }
+      ]
+    },
+    {
+      "type": "about",
+      "variant": "story-card",
+      "title": "About me • Giới thiệu bản thân",
+      "biography": "Xin chào! Mình là bài 5 (Digital Creator & AI Practical Portfolio). Portfolio này được tổng hợp trực tiếp từ hồ sơ bài tập thực chiến gồm 1 dự án thuộc các mảng AI Prompt Engineering. Mỗi bài tập đều được chuẩn hóa theo tư duy Đề bài - Giải pháp - Kết quả nhằm thể hiện năng lực triển khai thực tế.",
+      "highlights": [
+        {
+          "label": "Dự án thực hành",
+          "value": "1 Case Studies"
+        },
+        {
+          "label": "Ảnh từ DOCX",
+          "value": "6 ảnh"
+        },
+        {
+          "label": "Ảnh AI bổ sung",
+          "value": "0 ảnh"
+        },
+        {
+          "label": "Lĩnh vực chính",
+          "value": "AI Prompt Engineering"
+        }
+      ],
+      "contactInfo": {
+        "socials": []
+      }
+    },
+    {
+      "type": "skills",
+      "variant": "canva-visual-grid",
+      "title": "Tools & Kỹ Năng Nổi Bật",
+      "categories": [
+        {
+          "name": "Chuyên môn & Thực chiến",
+          "skills": [
+            {
+              "name": "AI Prompt Engineering",
+              "level": 95
+            }
+          ]
+        },
+        {
+          "name": "Công cụ & Nền tảng",
+          "skills": [
+            {
+              "name": "Canva Visual & Editorial Design",
+              "level": 92
+            },
+            {
+              "name": "AI Prompt Engineering (ChatGPT / Gemini)",
+              "level": 94
+            },
+            {
+              "name": "Phân tích Insight & Dữ liệu Khách hàng",
+              "level": 88
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "education",
+      "title": "Education • Học vấn",
+      "items": []
+    },
+    {
+      "type": "contact",
+      "title": "Conclusion & Contact",
+      "subtitle": "Cảm ơn bạn đã xem hồ sơ của bài 5. Vui lòng xác nhận thông tin liên hệ trước khi công bố.",
+      "thankYouMessage": "THANK YOU FOR WATCHING!",
+      "showContactForm": true
+    }
+  ]
+}

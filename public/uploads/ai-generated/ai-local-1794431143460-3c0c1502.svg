@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 900" fill="none">
+  <rect width="1200" height="900" fill="#FFF3E6"/>
+  <circle cx="497" cy="371" r="230" fill="#735340" opacity="0.16"/>
+  <circle cx="960" cy="700" r="240" fill="#304254" opacity="0.12"/>
+  <rect x="96" y="104" width="1008" height="692" rx="36" fill="#FFFFFF" stroke="#735340" stroke-opacity="0.25" stroke-width="3"/>
+  <rect x="96" y="104" width="1008" height="84" rx="36" fill="#304254"/>
+  <rect x="96" y="156" width="1008" height="32" fill="#304254"/>
+  <circle cx="152" cy="146" r="10" fill="#FAF5EE"/>
+  <circle cx="186" cy="146" r="10" fill="#FAF5EE" opacity="0.7"/>
+  <circle cx="220" cy="146" r="10" fill="#FAF5EE" opacity="0.45"/>
+  <rect x="148" y="236" width="440" height="480" rx="28" fill="#FFF3E6"/>
+  <path d="M210 560C210 420 278 330 368 330C458 330 526 420 526 560H210Z" fill="#735340" opacity="0.88"/>
+  <circle cx="368" cy="390" r="64" fill="#FFFFFF" opacity="0.92"/>
+  <path d="M368 346L380 378L412 390L380 402L368 434L356 402L324 390L356 378L368 346Z" fill="#304254"/>
+  <rect x="634" y="236" width="416" height="52" rx="26" fill="#735340" opacity="0.16"/>
+  <text x="664" y="270" fill="#735340" font-family="system-ui, sans-serif" font-size="22" font-weight="700">AI TOPIC ILLUSTRATION</text>
+  <text x="634" y="352" fill="#24201E" font-family="Georgia, serif" font-size="34" font-weight="700">Ứng dụng AI Prompt Enginee</text>
+  <text x="634" y="398" fill="#24201E" font-family="Georgia, serif" font-size="34" font-weight="700">ring Tự động hóa Quy trình N</text>
+  <rect x="634" y="454" width="380" height="18" rx="9" fill="#E5DCD2"/>
+  <rect x="634" y="488" width="320" height="18" rx="9" fill="#E5DCD2"/>
+  <rect x="634" y="556" width="180" height="140" rx="22" fill="#735340" opacity="0.22"/>
+  <rect x="836" y="556" width="180" height="140" rx="22" fill="#304254" opacity="0.15"/>
+  <rect x="662" y="640" width="28" height="36" rx="6" fill="#735340"/>
+  <rect x="704" y="616" width="28" height="60" rx="6" fill="#735340"/>
+  <rect x="746" y="592" width="28" height="84" rx="6" fill="#304254"/>
+  <circle cx="926" cy="626" r="36" fill="#304254" opacity="0.75"/>
+</svg>

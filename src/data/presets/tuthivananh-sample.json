@@ -1,0 +1,363 @@
+{
+  "id": "portfolio-tuthivananh",
+  "slug": "tuthivananhportfolio",
+  "templateId": "canva-editorial",
+  "imageGenerationConfig": {
+    "mode": "hybrid-auto",
+    "visualStyle": "canva-pastel-graphic"
+  },
+  "seo": {
+    "title": "Từ Thị Vân Anh | Digital Portfolio 2026",
+    "description": "Portfolio cá nhân của Từ Thị Vân Anh - Sinh viên ngành Sư phạm Âm nhạc, lưu giữ các dự án học tập và ứng dụng AI thực chiến.",
+    "ogImage": "/presets/avatar-vananh.svg"
+  },
+  "theme": {
+    "primaryColor": "#735340",
+    "secondaryColor": "#5D4037",
+    "backgroundColor": "#FFF3E6",
+    "surfaceColor": "#FFF8F0",
+    "textColor": "#3E2723",
+    "headingFont": "Playfair Display",
+    "bodyFont": "Be Vietnam Pro",
+    "borderRadius": "lg",
+    "pageTransition": "slide-deck"
+  },
+  "sections": [
+    {
+      "type": "hero",
+      "variant": "canva-cover",
+      "headline": "Digital Portfolio",
+      "fullName": "Từ Thị Vân Anh",
+      "roleTitle": "Sinh viên Ngành Sư phạm Âm nhạc • ĐH Sư phạm Nghệ thuật Trung ương",
+      "shortBio": "Xin chào! Mình là Từ Thị Vân Anh. Mình yêu thích âm nhạc và luôn mong muốn học hỏi, sáng tạo, lan tỏa những giá trị tích cực thông qua nghệ thuật và công nghệ AI.",
+      "avatar": {
+        "url": "/presets/avatar-vananh.svg",
+        "sourceType": "user-uploaded",
+        "frameStyle": "rounded-rect",
+        "aspectRatio": "3/4"
+      },
+      "quickTags": [
+        "Đi bộ",
+        "Nghe nhạc",
+        "Đánh bóng",
+        "Đọc truyện"
+      ],
+      "ctaButtons": [
+        {
+          "label": "Khám phá Dự án",
+          "href": "#projects",
+          "style": "primary"
+        },
+        {
+          "label": "Thông tin Liên hệ",
+          "href": "#contact",
+          "style": "outline"
+        }
+      ],
+      "decorations": [
+        {
+          "id": "dec-1",
+          "type": "floating-tag",
+          "label": "DIGITAL PORTFOLIO • 2026",
+          "position": {
+            "top": "8%",
+            "right": "5%",
+            "rotate": 4,
+            "zIndex": 3
+          }
+        },
+        {
+          "id": "dec-2",
+          "type": "badge",
+          "label": "✦ Sư phạm Âm nhạc & AI",
+          "position": {
+            "bottom": "12%",
+            "left": "4%",
+            "rotate": -3,
+            "zIndex": 3
+          }
+        }
+      ]
+    },
+    {
+      "type": "about",
+      "variant": "story-card",
+      "title": "About me • Giới thiệu bản thân",
+      "biography": "Xin chào! Mình là Từ Thị Vân Anh, hiện đang là sinh viên ngành Sư phạm Âm nhạc tại Trường ĐH Sư phạm Nghệ thuật Trung ương. Mục tiêu học tập của mình là trau dồi kiến thức chuyên môn, nâng cao kỹ năng biểu diễn và giảng dạy, đồng thời kết hợp tư duy số và AI tạo sinh để thiết kế học liệu sáng tạo, truyền cảm hứng cho học sinh.",
+      "highlights": [
+        {
+          "label": "Dự án hoàn thành",
+          "value": "06 Bài tập lớn"
+        },
+        {
+          "label": "Chuyên ngành",
+          "value": "Sư phạm Âm nhạc"
+        },
+        {
+          "label": "Niên khóa",
+          "value": "2026 Edition"
+        },
+        {
+          "label": "Định hướng",
+          "value": "Nghệ thuật & AI"
+        }
+      ],
+      "contactInfo": {
+        "email": "tuthivananh865@gmail.com",
+        "location": "Hà Nội, Việt Nam",
+        "website": "https://tntlab.my.canva.site/tuthivananhportfolio/",
+        "socials": [
+          {
+            "platform": "Canva Portfolio",
+            "url": "https://tntlab.my.canva.site/tuthivananhportfolio/"
+          }
+        ]
+      }
+    },
+    {
+      "type": "skills",
+      "variant": "canva-visual-grid",
+      "title": "Tools & Kỹ Năng Nổi Bật",
+      "categories": [
+        {
+          "name": "Kỹ năng Số & Quản trị Dữ liệu",
+          "skills": [
+            { "name": "Quản lý tệp tin & cấu trúc thư mục khoa học", "level": 92 },
+            { "name": "Tìm kiếm & đánh giá thông tin học thuật", "level": 90 },
+            { "name": "Cộng tác trực tuyến cho dự án nhóm", "level": 88 }
+          ]
+        },
+        {
+          "name": "Ứng dụng AI Tạo sinh & Prompt",
+          "skills": [
+            { "name": "Viết Prompt hiệu quả cho tác vụ học tập", "level": 94 },
+            { "name": "Sử dụng AI tạo sinh hỗ trợ sáng tạo nội dung", "level": 90 },
+            { "name": "Sử dụng AI có trách nhiệm trong nghiên cứu", "level": 95 }
+          ]
+        },
+        {
+          "name": "Công cụ AI & Sáng tạo (Tools)",
+          "skills": [
+            { "name": "Google Gemini & NotebookLM", "level": 93 },
+            { "name": "Claude AI & ChatGPT", "level": 92 },
+            { "name": "Canva Editorial & CapCut", "level": 91 }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "education",
+      "title": "Education • Học vấn",
+      "items": [
+        {
+          "school": "Trường Đại học Sư phạm Nghệ thuật Trung ương (NUAE)",
+          "degree": "Ngành Sư phạm Âm nhạc",
+          "period": "2023 - 2027",
+          "gpaOrHonors": "Mã SV: 2552210005 • Lớp Tín chỉ 03 (Nhập môn Công nghệ số & Ứng dụng AI)",
+          "details": "Tập trung nâng cao năng lực sư phạm, phương pháp giảng dạy âm nhạc hiện đại (Orff Schulwerk, Kodály, Gordon) và ứng dụng công nghệ AI trong soạn giảng."
+        }
+      ]
+    },
+    {
+      "type": "projects",
+      "variant": "canva-slide-showcase",
+      "title": "Project • 06 Bài Tập Thực Hành",
+      "subtitle": "Tổng hợp kết quả các bài thực hành kỹ năng số, hợp tác trực tuyến và ứng dụng AI trong học tập & sáng tạo nội dung.",
+      "projects": [
+        {
+          "id": "proj-1",
+          "title": "01. Thao tác cơ bản với tệp tin và thư mục",
+          "category": "Quản trị Dữ liệu Số",
+          "sourceDocxFileName": "Bai_01_File_Explorer.docx",
+          "assignmentBrief": "Chuẩn hóa tư duy quản trị không gian làm việc số qua 12 bước thực hành trên Microsoft Windows File Explorer và Recycle Bin.",
+          "summary": "Thiết lập cây thư mục ThucHanh có phân cấp (TaiLieu), thực hiện đầy đủ vòng đời dữ liệu: tạo tệp, đổi tên, sao chép, di chuyển, xóa tạm thời và khôi phục từ Recycle Bin.",
+          "keyTakeaways": [
+            "Làm chủ kiến trúc phân cấp dữ liệu trên File Explorer",
+            "Chuẩn hóa 12 bước xử lý & điều phối tệp tin an toàn",
+            "Triệt tiêu thời gian tìm kiếm tài liệu học tập"
+          ],
+          "fullRawExcerpt": "Dự án hướng tới việc chuẩn hóa tư duy quản trị không gian làm việc số qua 3 mục tiêu chiến lược: Làm chủ kiến trúc dữ liệu (File Explorer), chuẩn hóa quy trình xử lý tệp tin (12 bước thực hành từ tạo thư mục ThucHanh_hotensinhvien đến sao chép, di chuyển, xóa vĩnh viễn Shift+Delete và khôi phục từ Recycle Bin), và tối ưu hóa hiệu suất vận hành.",
+          "metrics": [
+            { "label": "Quy trình", "value": "12 bước chuẩn" },
+            { "label": "Công cụ", "value": "File Explorer" }
+          ],
+          "media": [
+            {
+              "id": "m-1",
+              "url": "/presets/project-content.svg",
+              "caption": "Sơ đồ cấu trúc thư mục và quy trình 12 bước thực hành",
+              "sourceType": "docx-extracted",
+              "originalDocxMediaName": "word/media/image1.png"
+            }
+          ],
+          "suggestedAiImagePrompt": "Canva editorial illustration of organized digital folders and workspace architecture, warm cream #FFF3E6 and cocoa brown #A96B54 pastel style",
+          "preferredImageStyle": "canva-pastel-graphic",
+          "links": [],
+          "tags": ["File Explorer", "Quy trình 12 bước", "Lưu trữ số"]
+        },
+        {
+          "id": "proj-2",
+          "title": "02. Tìm kiếm và đánh giá thông tin học thuật",
+          "category": "Nghiên cứu Học thuật",
+          "sourceDocxFileName": "Bai_02_Tim_Kiem_Hoc_Thuat.docx",
+          "assignmentBrief": "Hiện thực hóa quy trình nghiên cứu chuẩn mực: khai thác dữ liệu đa chiều bằng toán tử Boolean và thẩm định độ tin cậy nguồn học thuật theo bộ tiêu chí CRAAP.",
+          "summary": "Kết hợp từ khóa gốc/mở rộng với toán tử Boolean (AND, OR, site:edu.vn, filetype:pdf) trên Google Scholar và Tạp chí Giáo dục, loại bỏ nguồn phi học thuật và xếp hạng tài liệu theo tiêu chí CRAAP.",
+          "keyTakeaways": [
+            "Khóa định dạng báo cáo khoa học với filetype:pdf và site:edu.vn",
+            "Giới hạn năm xuất bản trong 5 năm gần nhất để đảm bảo tính cập nhật",
+            "Thẩm định khắt khe độ tin cậy tài liệu theo bộ tiêu chí CRAAP"
+          ],
+          "fullRawExcerpt": "Quy trình 4 bước (Mục 2.4): Xác định từ khóa cốt lõi -> Thu thập & mở rộng bằng toán tử Boolean (AND, OR, site:edu.vn, filetype:pdf) trên Google Scholar và Tạp chí Giáo dục -> Đánh giá độ tin cậy theo CRAAP -> Tổng hợp, xếp hạng và lập danh mục tham khảo Sư phạm Âm nhạc.",
+          "metrics": [
+            { "label": "Tiêu chí thẩm định", "value": "CRAAP Matrix" },
+            { "label": "Nguồn tham khảo", "value": "Google Scholar" }
+          ],
+          "media": [
+            {
+              "id": "m-2",
+              "url": "/presets/project-design.svg",
+              "caption": "Bảng phân loại và đánh giá nguồn tài liệu học thuật",
+              "sourceType": "docx-extracted",
+              "originalDocxMediaName": "word/media/image2.png"
+            }
+          ],
+          "suggestedAiImagePrompt": "Editorial flat illustration of academic research, magnifying glass over sheet music and digital library books, warm cream and slate navy palette",
+          "preferredImageStyle": "editorial-illustration",
+          "links": [],
+          "tags": ["Google Scholar", "Boolean Operators", "CRAAP"]
+        },
+        {
+          "id": "proj-3",
+          "title": "03. Viết Prompt hiệu quả cho tác vụ học tập",
+          "category": "AI Prompt Engineering",
+          "sourceDocxFileName": "Bai_03_Prompt_Hieu_Qua.docx",
+          "assignmentBrief": "Làm chủ kỹ thuật thiết kế câu lệnh đa tầng trên Google Gemini theo khung Role – Context – Task – Constraints – Format kết hợp Few-shot và Chain-of-Thought.",
+          "summary": "Thực hiện quy trình 6 bước: chạy Zero-shot ban đầu trên Gemini, cải tiến theo cấu trúc 5 tầng kèm ràng buộc độ dài/định dạng, đối chiếu theo 4 tiêu chí và kiểm chứng độ chính xác với giáo trình gốc.",
+          "keyTakeaways": [
+            "Chuẩn hóa cấu trúc Role – Context – Task – Constraints – Format",
+            "Ứng dụng linh hoạt Few-shot và Chain-of-Thought cho 3 tác vụ học tập",
+            "Luôn kiểm chứng đầu ra của AI đối chiếu trực tiếp với giáo trình"
+          ],
+          "fullRawExcerpt": "Bài thực hành Mục 3.4 sử dụng Google Gemini qua 6 bước: chọn 3 tác vụ học tập, viết Prompt Zero-shot ban đầu, tái cấu trúc theo Role-Context-Task-Constraints-Format với Few-shot & Chain-of-Thought, đối chiếu 4 tiêu chí (chính xác, đầy đủ, phù hợp ngữ cảnh, đúng định dạng) và kiểm chứng sai lệch thông tin.",
+          "metrics": [
+            { "label": "Cấu trúc Prompt", "value": "5 thành phần" },
+            { "label": "Công cụ chính", "value": "Google Gemini" }
+          ],
+          "media": [
+            {
+              "id": "m-3",
+              "url": "/presets/project-ai-prompt.svg",
+              "caption": "Minh họa AI: Quy trình tinh chỉnh câu lệnh Prompt học tập",
+              "sourceType": "ai-generated",
+              "aiPromptUsed": "Warm editorial pastel illustration of AI prompt engineering cards and music education notes on cream background"
+            }
+          ],
+          "suggestedAiImagePrompt": "Warm editorial pastel illustration of structured AI prompt blocks, sparkles, notebook and musical motif on #FFF3E6 cream paper",
+          "preferredImageStyle": "canva-pastel-graphic",
+          "links": [],
+          "tags": ["Gemini", "Few-shot & CoT", "Prompt Engineering"]
+        },
+        {
+          "id": "proj-4",
+          "title": "04. Công cụ hợp tác trực tuyến cho dự án nhóm",
+          "category": "Cộng tác & Làm việc nhóm",
+          "sourceDocxFileName": "Bai_04_Hop_Tac_Truc_Tuyen.docx",
+          "assignmentBrief": "Làm chủ hệ sinh thái công cụ số (Trello, Google Docs, Zalo, Google Drive) để chuẩn hóa luồng làm việc nhóm theo hướng Agile Collaboration.",
+          "summary": "Tích hợp 4 nhóm giải pháp chuyên biệt: quản lý nhiệm vụ cá nhân trên Trello, đồng soạn thảo tài liệu trên Google Docs, tương tác thời gian thực qua Zalo và lưu trữ phân quyền tập trung trên Google Drive.",
+          "keyTakeaways": [
+            "Làm chủ Tech Stack Mastery: quản trị tác vụ (Trello) & lưu trữ (Drive)",
+            "Đồng biên tập tài liệu minh bạch phiên bản trên Google Docs",
+            "Tăng tốc phản hồi real-time và tối ưu hiệu suất Lean Workflow"
+          ],
+          "fullRawExcerpt": "Báo cáo cá nhân Mục 4.4 về ứng dụng hệ sinh thái công cụ hợp tác số qua 4 nhóm hoạt động: Trello (quản lý nhiệm vụ), Google Docs (đóng góp nội dung), Zalo (phối hợp nhóm real-time), Google Drive (tổ chức dữ liệu), giúp đạt mục tiêu Tech Stack Mastery, Lean Workflow và Agile Collaboration.",
+          "metrics": [
+            { "label": "Hệ sinh thái", "value": "Trello & Drive" },
+            { "label": "Quy trình nhóm", "value": "Agile & Lean" }
+          ],
+          "media": [
+            {
+              "id": "m-4",
+              "url": "/presets/project-content.svg",
+              "caption": "Hệ sinh thái cộng tác nhóm trực tuyến (Trello, Docs, Zalo, Drive)",
+              "sourceType": "ai-generated",
+              "aiPromptUsed": "Pastel editorial illustration of remote team collaboration boards and shared cloud documents"
+            }
+          ],
+          "suggestedAiImagePrompt": "Canva pastel graphic of collaborative online workspace, Trello kanban board and shared Google Docs cards, warm cream and slate blue aesthetic",
+          "preferredImageStyle": "canva-pastel-graphic",
+          "links": [],
+          "tags": ["Trello", "Google Docs & Drive", "Zalo Collaboration"]
+        },
+        {
+          "id": "proj-5",
+          "title": "05. Sử dụng AI tạo sinh hỗ trợ sáng tạo nội dung",
+          "category": "AI Creative Content",
+          "sourceDocxFileName": "Bai_05_AI_Sang_Tao_Noi_Dung.docx",
+          "assignmentBrief": "Chuyển hóa dữ liệu học thuật về Hệ thống Học tập Thích ứng (ALS) thành ấn phẩm Infographic dọc đơn trang (1500 x 3600 px) theo tỷ lệ 25% text : 75% visual.",
+          "summary": "Phối hợp quy trình 4 bước cùng ChatGPT (trích xuất 4 thuật toán KST, BKT, CF, NLP), Midjourney (tạo Hero Asset 3D lớp học số) và Canva AI (dàn lưới đồ họa Cyber Dark), khảo sát hoàn thiện qua 5 người xem đại diện.",
+          "keyTakeaways": [
+            "Tái cấu trúc từ slide 15 trang thành 01 Infographic đơn trang cô đọng",
+            "Phối hợp 3 công cụ AI: ChatGPT + Midjourney + Canva AI (Magic Edit)",
+            "Tuân thủ tỷ lệ 25% văn bản : 75% đồ họa và trích dẫn chuẩn APA 7th"
+          ],
+          "fullRawExcerpt": "Dự án Mục 5.4 thiết kế Infographic dọc (1500 x 3600 px) về Hệ thống Học tập Thích ứng (ALS) với ví dụ Duolingo, Quizlet, Coursera. Quy trình gồm: Nghiên cứu & Wireframe 4 tầng (70% người học, 30% chuyên gia) -> Tạo tài nguyên với ChatGPT & Midjourney -> Tái cấu trúc sang Infographic -> Khảo sát 5 người xem & hoàn thiện trên Canva AI.",
+          "metrics": [
+            { "label": "Quy cách ấn phẩm", "value": "1500 x 3600 px" },
+            { "label": "Tỷ lệ bố cục", "value": "25% Text : 75% Visual" }
+          ],
+          "media": [
+            {
+              "id": "m-5",
+              "url": "/presets/project-design.svg",
+              "caption": "Ấn phẩm Infographic ALS kết hợp ChatGPT, Midjourney & Canva AI",
+              "sourceType": "ai-generated",
+              "aiPromptUsed": "Editorial illustration of creative content studio combining generative AI sparkles and Canva infographic layouts"
+            }
+          ],
+          "suggestedAiImagePrompt": "Editorial flat illustration of generative AI creative studio designing a vertical infographic with ChatGPT, Midjourney 3D art and Canva AI, warm pastel aesthetic",
+          "preferredImageStyle": "editorial-illustration",
+          "links": [],
+          "tags": ["ChatGPT & Midjourney", "Canva AI", "Infographic ALS"]
+        },
+        {
+          "id": "proj-6",
+          "title": "06. Sử dụng AI có trách nhiệm trong học tập & nghiên cứu",
+          "category": "Đạo đức AI & Sư phạm Âm nhạc",
+          "sourceDocxFileName": "Bai_06_AI_Co_Trach_Nhiem.docx",
+          "assignmentBrief": "Đối chiếu quy chế AI giữa NUAE và Berklee; soạn Kế hoạch bài dạy GDPT 2018 (Công văn 5512) bài 'Lý Kéo Chài' kết hợp Body Percussion và đúc kết Bộ nguyên tắc đạo đức HARMONY.",
+          "summary": "Phản biện lỗi phương pháp thụ động và hòa thanh phương Tây phá vỡ điệu thức ngũ cung từ AI vòng 1; tái cấu trúc Prompt vòng 2 theo Orff Schulwerk, Kodály, Edwin Gordon và thẩm âm trực tiếp trên đàn phím để hoàn thiện giáo án độc bản.",
+          "keyTakeaways": [
+            "Phân định ranh giới giữa hỗ trợ nhận thức và ủy thác tư duy (NUAE & Berklee)",
+            "Tích hợp Orff Schulwerk (Body Percussion 2 bè), Kodály & Gordon vào bài 'Lý Kéo Chài'",
+            "Đúc kết Bộ nguyên tắc HARMONY, chu trình CADENCE & trích dẫn chuẩn APA 7th"
+          ],
+          "fullRawExcerpt": "Báo cáo học thuật Mục 6.4 qua 6 bước: Đối chiếu quy chế AI của NUAE và Berklee -> Thiết kế Kế hoạch bài dạy chuẩn 5512 bài 'Lý Kéo Chài' -> Phản biện lỗi hòa thanh ngũ cung của ChatGPT -> Tái cấu trúc Prompt theo Orff Schulwerk & Body Percussion 2 bè -> Thẩm âm trực tiếp trên đàn Piano theo Kodály & Gordon (Audiation) -> Đúc kết Bộ nguyên tắc HARMONY, chu trình CADENCE & Infographic 'The Symphony of Integrity'.",
+          "metrics": [
+            { "label": "Chuẩn giáo án", "value": "GDPT 2018 (CV 5512)" },
+            { "label": "Khung đạo đức", "value": "HARMONY & APA 7th" }
+          ],
+          "media": [
+            {
+              "id": "m-6",
+              "url": "/presets/project-ai-prompt.svg",
+              "caption": "Infographic 'The Symphony of Integrity' & Bộ nguyên tắc HARMONY",
+              "sourceType": "ai-generated",
+              "aiPromptUsed": "Minimalist editorial illustration of ethical AI balance scales, musical pentatonic motif and verification badge, warm cream and slate tones"
+            }
+          ],
+          "suggestedAiImagePrompt": "Minimalist editorial illustration of responsible AI ethics in music education, musical notes with academic verification checkmark, warm parchment cream background",
+          "preferredImageStyle": "editorial-illustration",
+          "links": [],
+          "tags": ["HARMONY Principles", "Sư phạm Âm nhạc", "APA 7th"]
+        }
+      ]
+    },
+    {
+      "type": "contact",
+      "title": "Conclusion & Contact",
+      "subtitle": "Công nghệ và AI có thể mở rộng khả năng sáng tạo, nhưng tư duy sư phạm của con người mới định hướng giá trị của sản phẩm giáo dục. Rất vui được kết nối và trao đổi cùng bạn!",
+      "thankYouMessage": "THANK YOU FOR WATCHING!",
+      "showContactForm": true
+    }
+  ]
+}

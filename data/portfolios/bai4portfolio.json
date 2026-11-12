@@ -1,0 +1,456 @@
+{
+  "id": "batch-bai4portfolio-1794486480347-2",
+  "slug": "bai4portfolio",
+  "templateId": "academic-presentation",
+  "imageGenerationConfig": {
+    "mode": "hybrid-auto",
+    "visualStyle": "minimal-photo"
+  },
+  "seo": {
+    "title": "bài 4 | Digital Portfolio 2026",
+    "description": "Tổng hợp 6 bài tập và dự án thực hành về Phân tích & Nghiên cứu, Thiết kế Truyền thông, AI Prompt Engineering được xây dựng bài bản và đo lường kết quả rõ ràng."
+  },
+  "theme": {
+    "primaryColor": "#9B302D",
+    "secondaryColor": "#6A1C1B",
+    "backgroundColor": "#EDEAE2",
+    "surfaceColor": "#FFFFFF",
+    "textColor": "#9B302D",
+    "headingFont": "Merriweather",
+    "bodyFont": "Be Vietnam Pro",
+    "borderRadius": "md",
+    "pageTransition": "slide-deck",
+    "effects": {
+      "enableFloat": false,
+      "enableGlow": false,
+      "enableTilt": false,
+      "enableSparkles": true,
+      "revealVariant": "fade-up",
+      "enableParallax": false
+    },
+    "backgroundIllustration": {
+      "mode": "preset",
+      "presetId": "vintage-parchment",
+      "opacity": 0.2,
+      "blur": 0,
+      "position": "cover"
+    }
+  },
+  "sections": [
+    {
+      "type": "projects",
+      "variant": "canva-slide-showcase",
+      "title": "Project • 06 Bài Tập Thực Hành",
+      "subtitle": "Nội dung được tổng hợp từ tài liệu DOCX đã nạp; vui lòng kiểm tra tính chính xác trước khi công bố.",
+      "projects": [
+        {
+          "id": "proj-docx-1-1794486479620",
+          "title": "THIẾT LẬP VÀ TỐI ƯU HÓA HỆ SINH THÁI CÔNG CỤ HỢP TÁC SỐ",
+          "category": "Phân tích & Nghiên cứu",
+          "sourceDocxFileName": "bài 4.docx",
+          "assignmentBrief": "PHẦN I. THIẾT LẬP VÀ TỐI ƯU HÓA HỆ SINH THÁI CÔNG CỤ HỢP TÁC SỐ Trong bối cảnh kỷ nguyên số và sự bùng nổ của các mô hình ngôn ngữ lớn (LLM), việc ứng dụng công cụ cộng tác trực tuyến không chỉ dừng lại ở các tác vụ chia",
+          "summary": "PHẦN I. THIẾT LẬP VÀ TỐI ƯU HÓA HỆ SINH THÁI CÔNG CỤ HỢP TÁC SỐ\nTrong bối cảnh kỷ nguyên số và sự bùng nổ của các mô hình ngôn ngữ lớn (LLM), việc ứng dụng công cụ cộng tác trực tuyến không chỉ dừng lại ở các tác vụ chia sẻ tài liệu đơn lẻ mà đã phát triển thành việc kiến tạo một",
+          "keyTakeaways": [
+            "THIẾT LẬP VÀ TỐI ƯU HÓA HỆ SINH THÁI CÔNG CỤ HỢP TÁC SỐ",
+            "Trong bối cảnh kỷ nguyên số và sự bùng nổ của các mô hình ngôn ngữ lớn (LLM), việc ứng dụng công cụ cộng tác trực tuyến không chỉ dừng lại ở các tác vụ chia sẻ tài liệu đơn lẻ mà đã phát triển thành việc kiến tạo một",
+            "Hoàn thiện case study \"THIẾT LẬP VÀ TỐI ƯU HÓA HỆ SINH THÁI CÔNG CỤ HỢP TÁC SỐ\" theo quy trình Đề bài – Giải pháp – Kết quả"
+          ],
+          "fullRawExcerpt": "PHẦN I. THIẾT LẬP VÀ TỐI ƯU HÓA HỆ SINH THÁI CÔNG CỤ HỢP TÁC SỐ\nTrong bối cảnh kỷ nguyên số và sự bùng nổ của các mô hình ngôn ngữ lớn (LLM), việc ứng dụng công cụ cộng tác trực tuyến không chỉ dừng lại ở các tác vụ chia sẻ tài liệu đơn lẻ mà đã phát triển thành việc kiến tạo một 'Hệ sinh thái làm việc số' đồng bộ và linh hoạt. Đối với dự án nghiên cứu của Nhóm với chủ đề EdTech, cá nhân đã trực tiếp khảo sát, lựa chọn và thiết lập môi trường cộng tác khép kín kết hợp chặt chẽ 4 công cụ thuộc 4 phân nhóm chức năng riêng biệt:\nNhóm chức năng Công cụ áp dụng Vai trò và Phương thức tích hợp trong dự án 1. Quản lý dự án Trello Mô hình Agile / Kanban trực quan hóa tiến trình qua 4 cột trạng thái; gán nhãn ưu tiên và liên kết task. 2. Soạn thảo cộng tác Google Docs Đồng tác giả thời gian thực (Real-time co-authoring), lịch sử phiên bản và điều phối nội dung. 3. Lưu trữ đám mây Google Drive Hệ thống kho lưu trữ đa cấp, tập trung hóa tài nguyên số và phân quyền bảo mật chặt chẽ. 4. Giao tiếp tức thời Zalo Kênh hội thoại linh hoạt, cập nhật nhanh, phản hồi khẩn cấp và kết nối trực tiếp 5 thành viên.\n1.1. Thiết lập hồ sơ định danh chuẩn hóa (Identity Standardization) Để đảm bảo tính xác thực học thuật và phân quyền minh bạch trong không gian chung, cá nhân đã hoàn tất chuẩn hóa hồ sơ trên mọi nền tảng: • Trên Trello: Thiết lập đầy đủ tên hiển thị Từ Thị Vân Anh' • Trên Google Workspace: Đăng nhập và xác thực qua tài khoản Từ Thị Vân Anh với địa chỉ email định danh “ tuthivananh865@gmail.com ” , đảm bảo 100% lịch sử chỉnh sửa trên Google Docs và Google Drive gắn liền với mã sinh viên. • Trên Zalo: Sử dụng tài khoản cá nhân chính danh tham gia nhóm làm việc.\nHình 1: Tổng quan bảng điều khiển Trello theo mô hình Kanban gồm 4 cột trạng thái chuẩn hóa.\nHình 2: Minh chứng thiết lập hồ sơ định danh cá nhân hoàn chỉnh trên Trello\n1.2. Tối ưu hóa không gian làm việc số và Tự động hóa liên nền tảng (Cross-Tool Integration) Nhằm đạt chuẩn Mức 4 về mức độ tối ưu hóa không gian làm việc, cá nhân đã triển khai các cơ chế vận hành nâng cao: • Hệ thống phân loại nhãn màu sắc (Label Taxonomy): Trên bảng Trello, thiết lập nhãn màu xanh lá 'Nội dung' cho các tác vụ nghiên cứu học thuật, và nhãn màu đỏ 'Quan trọng' cho các hạng mục trọng điểm trên đường găng tiến độ. Việc phân loại nhãn giúp toàn bộ thành viên nhận biết ngay mức độ khẩn cấp mà không cần mở chi tiết thẻ. • Kết nối liên thông dữ liệu (Cross-linking): Mọi thẻ nhiệm vụ trên Trello đều được đính kèm siêu liên kết trỏ thẳng về tệp bản thảo Google Docs tương ứng hoặc thư mục tài nguyên trên Google Drive. Đồng thời, cá nhân thiết lập cơ chế thông báo chéo: khi một tác vụ soạn thảo hoàn tất trên Google Docs, cá nhân để lại bình luận điều phối gắn thẻ nhằm đồng bộ trạng thái thẻ Kanban ngay lập tức.\nHình 3: Cận cảnh tối ưu hóa thẻ tác vụ Trello – Tích hợp hệ thống nhãn màu sắc phân loại ('Nội dung' và 'Quan trọng').",
+          "metrics": [
+            {
+              "label": "Chỉ số nổi bật",
+              "value": "100%"
+            }
+          ],
+          "media": [
+            {
+              "id": "docx-img-1794486479395-1",
+              "url": "/uploads/docx-media/1794486479395-b-i-4-1-65390e.jpg",
+              "caption": "Ảnh trích xuất từ bài 4.docx (#1)",
+              "sourceType": "docx-extracted",
+              "originalDocxMediaName": "word/media/image1.png"
+            },
+            {
+              "id": "docx-img-1794486479395-2",
+              "url": "/uploads/docx-media/1794486479395-b-i-4-2-5e34d7.png",
+              "caption": "Ảnh trích xuất từ bài 4.docx (#2)",
+              "sourceType": "docx-extracted",
+              "originalDocxMediaName": "word/media/image2.png"
+            },
+            {
+              "id": "docx-img-1794486479395-3",
+              "url": "/uploads/docx-media/1794486479395-b-i-4-3-294227.png",
+              "caption": "Ảnh trích xuất từ bài 4.docx (#3)",
+              "sourceType": "docx-extracted",
+              "originalDocxMediaName": "word/media/image3.png"
+            }
+          ],
+          "suggestedAiImagePrompt": "Minimalist clean workspace photography representing \"THIẾT LẬP VÀ TỐI ƯU HÓA HỆ SINH THÁI CÔNG CỤ HỢP TÁC SỐ\" in the field of Phân tích & Nghiên cứu, clean visual storytelling cards, cohesive warm color palette",
+          "preferredImageStyle": "minimal-photo",
+          "links": [],
+          "tags": [
+            "Phân tích & Nghiên cứu",
+            "Case Study",
+            "Thực hành"
+          ]
+        },
+        {
+          "id": "proj-docx-2-1794486479620",
+          "title": "QUẢN LÝ TÁC VỤ CÁ NHÂN & MINH CHỨNG CẬP NHẬT TIẾN ĐỘ THƯỜNG XUYÊN",
+          "category": "Thiết kế Truyền thông",
+          "sourceDocxFileName": "bài 4.docx",
+          "assignmentBrief": "PHẦN II. QUẢN LÝ TÁC VỤ CÁ NHÂN & MINH CHỨNG CẬP NHẬT TIẾN ĐỘ THƯỜNG XUYÊN 2.1. Ma trận 100% nhiệm vụ cá nhân kèm mô tả chi tiết và Thời hạn (Deadlines) Toàn bộ các tác vụ do cá nhân phụ trách trong tuần dự án đều được đ",
+          "summary": "PHẦN II. QUẢN LÝ TÁC VỤ CÁ NHÂN & MINH CHỨNG CẬP NHẬT TIẾN ĐỘ THƯỜNG XUYÊN\n2.1. Ma trận 100% nhiệm vụ cá nhân kèm mô tả chi tiết và Thời hạn (Deadlines) Toàn bộ các tác vụ do cá nhân phụ trách trong tuần dự án đều được định nghĩa rõ ràng về phạm vi công việc, sản phẩm đầu ra kỳ v",
+          "keyTakeaways": [
+            "QUẢN LÝ TÁC VỤ CÁ NHÂN & MINH CHỨNG CẬP NHẬT TIẾN ĐỘ THƯỜNG XUYÊN",
+            "2.1. Ma trận 100% nhiệm vụ cá nhân kèm mô tả chi tiết và Thời hạn (Deadlines) Toàn bộ các tác vụ do cá nhân phụ trách trong tuần dự án đều được định nghĩa rõ ràng về phạm vi công việc, sản phẩm đầu ra kỳ v",
+            "Hoàn thiện case study \"QUẢN LÝ TÁC VỤ CÁ NHÂN & MINH CHỨNG CẬP NHẬT TIẾN ĐỘ THƯỜNG XUYÊN\" theo quy trình Đề bài – Giải pháp – Kết quả"
+          ],
+          "fullRawExcerpt": "PHẦN II. QUẢN LÝ TÁC VỤ CÁ NHÂN & MINH CHỨNG CẬP NHẬT TIẾN ĐỘ THƯỜNG XUYÊN\n2.1. Ma trận 100% nhiệm vụ cá nhân kèm mô tả chi tiết và Thời hạn (Deadlines) Toàn bộ các tác vụ do cá nhân phụ trách trong tuần dự án đều được định nghĩa rõ ràng về phạm vi công việc, sản phẩm đầu ra kỳ vọng và thời hạn hoàn thành (Due Date) chính xác. Việc số hóa này giúp cá nhân chủ động điều phối thời gian, không để xảy ra tình trạng chậm trễ ảnh hưởng đến công việc chung của Nhóm :\nMã thẻ Tên nhiệm vụ Mô tả công việc & Tiêu chí nghiệm thu Thời hạn Trạng thái Tiến độ TASK-01 Lập đề cương chi tiết Xây dựng khung dàn ý 4 mục lớn về ứng dụng EdTech và hệ sinh thái cộng tác trực tuyến. 12/04/2026 Đã hoàn thành 100% TASK-02 Tìm tài liệu tham khảo Tổng hợp tối thiểu 5 bài báo học thuật và báo cáo thị trường EdTech Việt Nam 2024-2026. 14/04/2026 Đã hoàn thành 100% TASK-03 Tham gia buổi học nhóm Họp định kỳ thảo luận tiến độ, thống nhất phân công soạn thảo và kịch bản video. 16/04/2026 Đã hoàn thành 100% TASK-04 Soạn thảo nội dung Phần 1, 2 Viết mục Tổng quan EdTech và phân tích công cụ Kanban Trello, Docs; gắn nhãn Quan trọng. 19/04/2026 Đang làm 85% TASK-05 Soạn thảo nội dung Phần 3, 4 Biên soạn mục Google Drive và kênh giao tiếp Zalo; tổng hợp số liệu thực tế. 22/04/2026 Đang làm 50% TASK-06 Thiết kế slide thuyết trình Chuyển hóa các luận điểm chính thành slide thuyết trình hiện đại, thẩm mỹ trên Canva. 25/04/2026 Cần thực hiện 0% TASK-07 Kiểm tra lỗi chính tả & Format Rà soát toàn diện ngữ pháp, định dạng văn bản học thuật và kiểm tra liên kết. 27/04/2026 Cần thực hiện 0%\nHình 4: Minh chứng hoàn thành đúng hạn các nhiệm vụ nền tảng tại cột 'Đã hoàn thành' trên bảng Trello.\n2.2. Minh chứng cập nhật tiến độ thường xuyên (Tần suất: 4 lần/tuần) Cá nhân không chỉ thiết lập tác vụ mà liên tục theo dõi và cập nhật trạng thái thực tế của các thẻ công việc trên Trello và văn bản Google Docs. Cụ thể, trong tuần làm việc cao điểm, cá nhân đã thực hiện 4 lần cập nhật tiến độ chính thức:\nLần cập nhật Thời gian ghi nhận Công cụ cập nhật Chi tiết thao tác và Kết quả đồng bộ Lần 1 12/04/2026 - 21:15 Trello & Docs Nghiệm thu dàn ý chi tiết; chuyển thẻ TASK-01 sang cột 'Đã hoàn thành'; tạo bản thảo ban đầu trên Google Docs. Lần 2 14/04/2026 - 19:40 Trello & Drive Thu thập đủ 6 tài liệu học thuật EdTech; chuyển thẻ TASK-02 sang 'Đã hoàn thành'; tải dữ liệu lên Drive. Lần 3 16/04/2026 - 20:30 Trello & Zalo Kết thúc buổi họp nhóm ngày 16/4; đánh dấu tích xanh hoàn tất thẻ TASK-03; gửi tóm tắt biên bản vào nhóm Zalo. Lần 4 18/04/2026 - 19:10 Trello & Docs Khởi động thẻ TASK-04 tại cột 'Đang làm'; kích hoạt nhãn 'Quan trọng'; comment trên Docs thông báo đồng bộ thẻ.\nHình 5: Không gian soạn thảo cộng tác thời gian thực trên Google Docs – Văn bản học thuật nhóm EdTech.\nHình 6: Minh chứng tích hợp liên công cụ – Bình luận điều phối trên Docs: 'mình cập nhật các thẻ trello theo đúng mục rồi nhé'.\nHình 7: Minh chứng danh tính tài khoản học thuật trực tiếp chủ trì soạn thảo.",
+          "metrics": [
+            {
+              "label": "Chỉ số nổi bật",
+              "value": "100%"
+            }
+          ],
+          "media": [
+            {
+              "id": "docx-img-1794486479395-4",
+              "url": "/uploads/docx-media/1794486479395-b-i-4-4-6a666f.png",
+              "caption": "Ảnh trích xuất từ bài 4.docx (#1)",
+              "sourceType": "docx-extracted",
+              "originalDocxMediaName": "word/media/image4.jpg"
+            },
+            {
+              "id": "docx-img-1794486479395-5",
+              "url": "/uploads/docx-media/1794486479395-b-i-4-5-c702a7.png",
+              "caption": "Ảnh trích xuất từ bài 4.docx (#2)",
+              "sourceType": "docx-extracted",
+              "originalDocxMediaName": "word/media/image5.jpg"
+            },
+            {
+              "id": "docx-img-1794486479395-6",
+              "url": "/uploads/docx-media/1794486479395-b-i-4-6-d2be95.jpg",
+              "caption": "Ảnh trích xuất từ bài 4.docx (#3)",
+              "sourceType": "docx-extracted",
+              "originalDocxMediaName": "word/media/image6.png"
+            },
+            {
+              "id": "docx-img-1794486479395-7",
+              "url": "/uploads/docx-media/1794486479395-b-i-4-7-545996.jpg",
+              "caption": "Ảnh trích xuất từ bài 4.docx (#4)",
+              "sourceType": "docx-extracted",
+              "originalDocxMediaName": "word/media/image7.png"
+            }
+          ],
+          "suggestedAiImagePrompt": "Minimalist clean workspace photography representing \"QUẢN LÝ TÁC VỤ CÁ NHÂN & MINH CHỨNG CẬP NHẬT TIẾN ĐỘ THƯỜNG XUYÊN\" in the field of Thiết kế Truyền thông, clean visual storytelling cards, cohesive warm color palette",
+          "preferredImageStyle": "minimal-photo",
+          "links": [],
+          "tags": [
+            "Canva"
+          ]
+        },
+        {
+          "id": "proj-docx-3-1794486479620",
+          "title": "NHẬT KÝ TƯƠNG TÁC, PHẢN BIỆN & HỖ TRỢ NHÓM ĐỊNH LƯỢNG (>= 10 LƯỢT/TUẦN)",
+          "category": "AI Prompt Engineering",
+          "sourceDocxFileName": "bài 4.docx",
+          "assignmentBrief": "PHẦN III. NHẬT KÝ TƯƠNG TÁC, PHẢN BIỆN & HỖ TRỢ NHÓM ĐỊNH LƯỢNG (>= 10 LƯỢT/TUẦN) Nhằm chứng minh năng lực điều phối và vai trò tích cực của cá nhân trong dự án nhóm (đáp ứng tiêu chí Mức 4: chủ động tương tác, thảo luận",
+          "summary": "PHẦN III. NHẬT KÝ TƯƠNG TÁC, PHẢN BIỆN & HỖ TRỢ NHÓM ĐỊNH LƯỢNG (>= 10 LƯỢT/TUẦN)\nNhằm chứng minh năng lực điều phối và vai trò tích cực của cá nhân trong dự án nhóm (đáp ứng tiêu chí Mức 4: chủ động tương tác, thảo luận và hỗ trợ thành viên khác từ 10 lượt/tuần trở lên), cá nhân",
+          "keyTakeaways": [
+            "NHẬT KÝ TƯƠNG TÁC, PHẢN BIỆN & HỖ TRỢ NHÓM ĐỊNH LƯỢNG (>= 10 LƯỢT/TUẦN)",
+            "Nhằm chứng minh năng lực điều phối và vai trò tích cực của cá nhân trong dự án nhóm (đáp ứng tiêu chí Mức 4: chủ động tương tác, thảo luận và hỗ trợ thành viên khác từ 10 lượt/tuần trở lên), cá nhân",
+            "Hoàn thiện case study \"NHẬT KÝ TƯƠNG TÁC, PHẢN BIỆN & HỖ TRỢ NHÓM ĐỊNH LƯỢNG (>= 10 LƯỢT/TUẦN)\" theo quy trình Đề bài – Giải pháp – Kết quả"
+          ],
+          "fullRawExcerpt": "PHẦN III. NHẬT KÝ TƯƠNG TÁC, PHẢN BIỆN & HỖ TRỢ NHÓM ĐỊNH LƯỢNG (>= 10 LƯỢT/TUẦN)\nNhằm chứng minh năng lực điều phối và vai trò tích cực của cá nhân trong dự án nhóm (đáp ứng tiêu chí Mức 4: chủ động tương tác, thảo luận và hỗ trợ thành viên khác từ 10 lượt/tuần trở lên), cá nhân đã duy trì tương tác thường xuyên qua Zalo và Google Docs. Dưới đây là nhật ký chi tiết 12 lượt tương tác chuyên môn, hỗ trợ đồng đội trong tuần:\nLượt Thời gian Nền tảng Nội dung tương tác, Thảo luận & Hỗ trợ kỹ thuật chuyên môn 01 10/04 - 20:25 Zalo Khởi xướng quy trình làm việc: 'theo như t hiểu thì bọn mình viết nghiên cứu rồi làm video thuyết trình'. 02 10/04 - 20:30 Zalo Định hướng bắt đầu: 'vậy mình bắt đầu viết từ bài nghiên cứu nhé', thống nhất trình tự triển khai bài tập. 03 10/04 - 20:35 Zalo Kêu gọi động não (Brainstorming): '@All mọi người cùng nghĩ chủ đề rồi lên nội dung nhé'. 04 10/04 - 20:37 Zalo Chủ động đề xuất chủ đề cốt lõi: 't nghĩ nên viết chủ đề liên quan đến giáo dục + công nghệ' (chốt EdTech). 05 12/04 - 14:15 Google Docs Hỗ trợ thành viên phụ trách phần dẫn nhập: Gợi ý các mốc dữ liệu phát triển mô hình EdTech 2024-2026. 06 13/04 - 10:20 Zalo Giải đáp thắc mắc thành viên về cách sử dụng nhãn dán Trello để không bị nhầm lẫn giữa các đầu việc. 07 14/04 - 16:30 Google Drive Hướng dẫn thành viên nhóm thiết lập quyền truy cập 'Commenter' khi chia sẻ link tài liệu tham khảo. 08 16/04 - 21:00 Google Docs Đóng góp ý kiến học thuật: Chỉnh sửa và làm mượt đoạn phân tích về mô hình ngôn ngữ lớn (LLM). 09 17/04 - 09:15 Zalo Đôn đốc tiến độ: Nhắc nhở thành viên hoàn thiện bản nháp phần 3 để cá nhân tiến hành tổng hợp. 10 18/04 - 19:10 Google Docs Phản hồi điều phối: Để lại bình luận xác nhận đã cập nhật thẻ Trello đồng bộ theo tiến độ bài viết. 11 19/04 - 15:40 Google Docs Rà soát lỗi chính tả và chuẩn hóa các thuật ngữ công nghệ tiếng Anh trong toàn bộ văn bản. 12 20/04 - 21:00 Zalo Hỗ trợ định dạng: Hướng dẫn thành viên nhóm cách trích dẫn tài liệu theo chuẩn APA trên Google Docs.\nHình 8: Không gian giao tiếp thời gian thực của Nhóm trên nền tảng Zalo điều phối kế hoạch chung.\nHình 9: Minh chứng tương tác chủ động – Cá nhân đề xuất quy trình viết bài, kêu gọi brainstorming (@All) và chốt đề tài EdTech.",
+          "metrics": [
+            {
+              "label": "Quy mô / Tác động",
+              "value": "10 LƯỢT"
+            },
+            {
+              "label": "Quy mô / Tác động",
+              "value": "10 lượt"
+            },
+            {
+              "label": "Quy mô / Tác động",
+              "value": "12 lượt"
+            }
+          ],
+          "media": [
+            {
+              "id": "docx-img-1794486479395-8",
+              "url": "/uploads/docx-media/1794486479395-b-i-4-8-6a520e.jpg",
+              "caption": "Ảnh trích xuất từ bài 4.docx (#1)",
+              "sourceType": "docx-extracted",
+              "originalDocxMediaName": "word/media/image8.jpg"
+            },
+            {
+              "id": "docx-img-1794486479395-9",
+              "url": "/uploads/docx-media/1794486479395-b-i-4-9-4fa252.png",
+              "caption": "Ảnh trích xuất từ bài 4.docx (#2)",
+              "sourceType": "docx-extracted",
+              "originalDocxMediaName": "word/media/image9.jpg"
+            }
+          ],
+          "suggestedAiImagePrompt": "Minimalist clean workspace photography representing \"NHẬT KÝ TƯƠNG TÁC, PHẢN BIỆN & HỖ TRỢ NHÓM ĐỊNH LƯỢNG (>= 10 LƯỢT/TUẦN)\" in the field of AI Prompt Engineering, clean visual storytelling cards, cohesive warm color palette",
+          "preferredImageStyle": "minimal-photo",
+          "links": [],
+          "tags": [
+            "AI Prompt Engineering",
+            "Case Study",
+            "Thực hành"
+          ]
+        },
+        {
+          "id": "proj-docx-4-1794486479620",
+          "title": "QUẢN TRỊ TÀI NGUYÊN SỐ, CẤU TRÚC ĐA CẤP & MA TRẬN PHÂN QUYỀN",
+          "category": "AI Prompt Engineering",
+          "sourceDocxFileName": "bài 4.docx",
+          "assignmentBrief": "PHẦN IV. QUẢN TRỊ TÀI NGUYÊN SỐ, CẤU TRÚC ĐA CẤP & MA TRẬN PHÂN QUYỀN 4.1. Kiến trúc cây thư mục lưu trữ đa cấp trên Google Drive (Hierarchical Architecture) Để quản lý tài nguyên khoa học và đạt chuẩn Mức 4 về cấu trúc ",
+          "summary": "PHẦN IV. QUẢN TRỊ TÀI NGUYÊN SỐ, CẤU TRÚC ĐA CẤP & MA TRẬN PHÂN QUYỀN\n4.1. Kiến trúc cây thư mục lưu trữ đa cấp trên Google Drive (Hierarchical Architecture) Để quản lý tài nguyên khoa học và đạt chuẩn Mức 4 về cấu trúc đa cấp (nhiều nếp/cấp thư mục lồng nhau), cá nhân đã thiết l",
+          "keyTakeaways": [
+            "QUẢN TRỊ TÀI NGUYÊN SỐ, CẤU TRÚC ĐA CẤP & MA TRẬN PHÂN QUYỀN",
+            "4.1. Kiến trúc cây thư mục lưu trữ đa cấp trên Google Drive (Hierarchical Architecture) Để quản lý tài nguyên khoa học và đạt chuẩn Mức 4 về cấu trúc đa cấp (nhiều nếp/cấp thư mục lồng nhau), cá nhân đã thiết l",
+            "Hoàn thiện case study \"QUẢN TRỊ TÀI NGUYÊN SỐ, CẤU TRÚC ĐA CẤP & MA TRẬN PHÂN QUYỀN\" theo quy trình Đề bài – Giải pháp – Kết quả"
+          ],
+          "fullRawExcerpt": "PHẦN IV. QUẢN TRỊ TÀI NGUYÊN SỐ, CẤU TRÚC ĐA CẤP & MA TRẬN PHÂN QUYỀN\n4.1. Kiến trúc cây thư mục lưu trữ đa cấp trên Google Drive (Hierarchical Architecture) Để quản lý tài nguyên khoa học và đạt chuẩn Mức 4 về cấu trúc đa cấp (nhiều nếp/cấp thư mục lồng nhau), cá nhân đã thiết lập hệ thống thư mục 3 tầng phân cấp rõ ràng trên Google Drive nhóm:\n📁 My Drive / DỰ ÁN NHÓM CNS&AI (Root Directory) ├── 📁 01. Tài liệu tham khảo/ │ ├── 📁 01.1_BaoCaoThiTruong_EdTech/ │ └── 📁 01.2_TaiLieuKhoaHoc_AI_in_Education/ ├── 📁 02. Biên bản họp nhóm/ │ ├── 📁 02.1_BienBanKhoiDong_HopDinhHuong/ │ └── 📁 02.2_BienBanKiemDuyetTienDoTuan/ ├── 📁 03. bản thảo nội dung/ │ ├── 📁 03.1_Phan1_TongQuanEdTech/ │ ├── 📁 03.2_Phan2_CongCuKanban_Trello/ │ └── 📁 03.3_BanThaoTongHop_MasterDoc/ └── 📁 04. Sản phẩm hoàn thiện/ ├── 📁 04.1_BaoCaoTieuLuanChinhThuc_PDF_DOCX/ └── 📁 04.2_SlideVaKichBanVideo_ThuyetTrinh/\nHình 10: Không gian lưu trữ Google Drive của dự án với 4 thư mục phân vùng chức năng.\nHình 11: Cận cảnh danh sách thư mục và minh chứng quyền sở hữu trực tiếp (Owner: me)\n4.2. Quy chuẩn đặt tên tệp thống nhất 100% (File Naming Conventions) Nhằm loại bỏ hoàn toàn tình trạng đặt tên tệp tùy tiện, cá nhân đã ban hành và kiểm soát quy chuẩn đặt tên file 100% theo công thức chuẩn hóa: [MãNhóm]_[TênDựÁn]_[HạngMục]_[PhiênBản]_[NgàyCậpNhật].[ĐịnhDạng] Danh mục các tệp tin thực tế tuân thủ 100% quy chuẩn trên hệ thống: • Nhom_EdTech_DeCuongChiTiet_v1.0_20260412.docx • Nhom_EdTech_BaoCaoTongQuan_v1.2_20260418.docx • Nhom_EdTech_SlideThuyetTrinh_v2.0_20260425.pptx • Nhom_EdTech_BaoCaoHoanThien_Final_20260428.pdf\n4.3. Ma trận phân quyền truy cập và kiểm soát dữ liệu (Access Control Matrix) Tuân thủ tiêu chí Mức 4 về thiết lập quyền truy cập phù hợp cho từng đối tượng:\nĐối tượng người dùng Phạm vi thư mục / Tệp tin Quyền cấp phát Cơ chế kiểm soát an toàn Cá nhân (Quản trị viên) Toàn bộ hệ thống thư mục Google Drive Owner Toàn quyền kiểm soát, sao lưu định kỳ, quản lý lịch sử phiên bản. Thành viên Nhóm Thư mục 02. Biên bản & 03. bản thảo Editor Trực tiếp đóng góp nội dung, thêm nhận xét, chỉnh sửa theo phân công. Thành viên Nhóm Thư mục 04. Sản phẩm hoàn thiện Viewer Chế độ chỉ đọc, ngăn chặn rủi ro vô tình xóa hoặc sửa đổi tệp đã chốt. Giảng viên chấm bài Tệp Báo cáo & Thư mục sản phẩm cuối Viewer / Commenter Xem toàn văn sản phẩm hoàn thiện và để lại phản hồi đánh giá trực tiếp.",
+          "metrics": [
+            {
+              "label": "Chỉ số nổi bật",
+              "value": "100%"
+            }
+          ],
+          "media": [
+            {
+              "id": "docx-img-1794486479395-10",
+              "url": "/uploads/docx-media/1794486479395-b-i-4-10-697548.png",
+              "caption": "Ảnh trích xuất từ bài 4.docx (#1)",
+              "sourceType": "docx-extracted",
+              "originalDocxMediaName": "word/media/image10.png"
+            },
+            {
+              "id": "docx-img-1794486479395-11",
+              "url": "/uploads/docx-media/1794486479395-b-i-4-11-284e29.jpg",
+              "caption": "Ảnh trích xuất từ bài 4.docx (#2)",
+              "sourceType": "docx-extracted",
+              "originalDocxMediaName": "word/media/image11.jpg"
+            }
+          ],
+          "suggestedAiImagePrompt": "Minimalist clean workspace photography representing \"QUẢN TRỊ TÀI NGUYÊN SỐ, CẤU TRÚC ĐA CẤP & MA TRẬN PHÂN QUYỀN\" in the field of AI Prompt Engineering, clean visual storytelling cards, cohesive warm color palette",
+          "preferredImageStyle": "minimal-photo",
+          "links": [],
+          "tags": [
+            "AI Prompt Engineering",
+            "Case Study",
+            "Thực hành"
+          ]
+        },
+        {
+          "id": "proj-docx-5-1794486479992",
+          "title": "PHÂN TÍCH SÂU 3 THÁCH THỨC VÀ 3 GIẢI PHÁP THỰC TIỄN KHI LÀM VIỆC NHÓM",
+          "category": "Thiết kế Truyền thông",
+          "sourceDocxFileName": "bài 4.docx",
+          "assignmentBrief": "PHẦN V. PHÂN TÍCH SÂU 3 THÁCH THỨC VÀ 3 GIẢI PHÁP THỰC TIỄN KHI LÀM VIỆC NHÓM 5.1. Thách thức 1: Lệch pha nhịp độ làm việc và nguy cơ đứt gãy tiến độ dây chuyền • Bản chất thách thức & Bối cảnh thực tế: Các thành viên tr",
+          "summary": "PHẦN V. PHÂN TÍCH SÂU 3 THÁCH THỨC VÀ 3 GIẢI PHÁP THỰC TIỄN KHI LÀM VIỆC NHÓM\n5.1. Thách thức 1: Lệch pha nhịp độ làm việc và nguy cơ đứt gãy tiến độ dây chuyền • Bản chất thách thức & Bối cảnh thực tế: Các thành viên trong Nhóm có lịch trình học tập trên lớp và ca làm thêm cá nh",
+          "keyTakeaways": [
+            "PHÂN TÍCH SÂU 3 THÁCH THỨC VÀ 3 GIẢI PHÁP THỰC TIỄN KHI LÀM VIỆC NHÓM",
+            "5.1. Thách thức 1: Lệch pha nhịp độ làm việc và nguy cơ đứt gãy tiến độ dây chuyền • Bản chất thách thức & Bối cảnh thực tế: Các thành viên trong Nhóm có lịch trình học tập trên lớp và ca làm thêm cá nh",
+            "Hoàn thiện case study \"PHÂN TÍCH SÂU 3 THÁCH THỨC VÀ 3 GIẢI PHÁP THỰC TIỄN KHI LÀM VIỆC NHÓM\" theo quy trình Đề bài – Giải pháp – Kết quả"
+          ],
+          "fullRawExcerpt": "PHẦN V. PHÂN TÍCH SÂU 3 THÁCH THỨC VÀ 3 GIẢI PHÁP THỰC TIỄN KHI LÀM VIỆC NHÓM\n5.1. Thách thức 1: Lệch pha nhịp độ làm việc và nguy cơ đứt gãy tiến độ dây chuyền • Bản chất thách thức & Bối cảnh thực tế: Các thành viên trong Nhóm có lịch trình học tập trên lớp và ca làm thêm cá nhân khác nhau. Trong giai đoạn đầu, việc bàn giao công việc diễn ra theo chuỗi liên tiếp (người sau phải chờ kết quả của người trước: người thiết kế slide phải chờ người viết đề cương và bài tiểu luận). Khi một thành viên bị chậm nộp phần tài liệu tham khảo 1 ngày, toàn bộ chuỗi công việc phía sau bị tắc nghẽn (bottleneck), tạo áp lực rất lớn lên giai đoạn cuối. • Giải pháp khắc phục chuyên sâu của cá nhân: 1. Thiết lập bước đệm thời gian dự phòng (Buffer Time Rule): Cá nhân đề xuất nhóm đẩy lùi toàn bộ hạn nộp nội bộ (Internal Deadline) trên Trello sớm hơn hạn nộp chính thức của giảng viên từ 48 đến 72 giờ. 2. Kích hoạt trạm kiểm soát trực quan trên Kanban: Di chuyển các thẻ công việc vào cột 'Đang làm' kèm danh sách checklist nhiệm vụ nhỏ. Thiết lập quy tắc: nếu một thẻ bị 'đóng băng' quá 24 giờ mà không có cập nhật mới, cá nhân sẽ chủ động kích hoạt nhãn đỏ 'Quan trọng' để toàn nhóm cùng tham gia hỗ trợ tháo gỡ khó khăn kỹ thuật.\n5.2. Thách thức 2: Xung đột nội dung, lệch phong cách học thuật và rủi ro ghi đè văn bản • Bản chất thách thức & Bối cảnh thực tế: Google Docs cho phép nhiều người cùng soạn thảo đồng thời, nhưng điều này dẫn đến việc văn bản bị chắp vá, lệch tone giọng học thuật: có bạn viết theo lối hành văn báo chí, có bạn lại viết theo lối nói giao tiếp đời thường. Đáng ngại hơn, trong tuần đầu từng xảy ra tình trạng một thành viên khi sửa phần 2 đã vô tình xóa nhầm đoạn phân tích của người khác mà không hay biết, gây hoang mang trong nhóm. • Giải pháp khắc phục chuyên sâu của cá nhân: 1. Quy trình 3 pha biên soạn (Drafting – Suggesting – Final Approval): Cá nhân ban hành quy ước phân tách tài liệu thành các module độc lập. Mọi thành viên khi muốn sửa đổi nội dung của người khác bắt buộc phải chuyển sang chế độ 'Suggesting' (Đề xuất) kèm bình luận giải thích lý do thay vì sửa đè trực tiếp. 2. Cơ chế Master Editor qua Version History: Cá nhân đảm nhận vai trò chủ trì tổng duyệt, định kỳ vào 22:00 mỗi ngày kiểm tra lịch sử phiên bản (Version History) trên Google Docs, đặt tên cho các phiên bản ổn định (Named Versions) và chuẩn hóa văn phong học thuật đồng nhất cho toàn bài.\n5.3. Thách thức 3: Phân mảnh kênh thông tin và hiện tượng 'Im lặng số' (Digital Silence) • Bản chất thách thức & Bối cảnh thực tế: Việc triển khai đồng thời 4 công cụ khiến thông tin bị phân tán mạnh: một số ý kiến thảo luận quan trọng được bàn trên Zalo nhưng lại không được ghi nhận vào thẻ Trello; ngược lại, các comment điều phối trên Docs thường bị trôi do thành viên không có thói quen kiểm tra email thường xuyên. Điều này tạo ra độ trễ thông tin lớn và hiện tượng các câu hỏi chuyên môn bị bỏ quên. • Giải pháp khắc phục chuyên sâu của cá nhân: 1. Quy ước nguồn chân lý duy nhất (Single Source of Truth): Nhóm thống nhất quy định: Zalo chỉ đóng vai trò kênh phát tín hiệu và nhắc việc khẩn cấp; toàn bộ sản phẩm hoàn thiện, tệp tin và quyết định chính thức bắt buộc phải được lưu tại Trello và Drive. Mọi tin nhắn Zalo liên quan đến công việc đều phải dẫn đường link cụ thể tới tài liệu hoặc thẻ Trello. 2. Cam kết phản hồi trong 4 giờ (4-Hour SLA Protocol): Đưa ra cam kết văn hóa nhóm: khi có tin nhắn tag danh tính hoặc thông báo @All trên Zalo, mỗi thành viên phải thả biểu tượng cảm xúc (Reaction) để xác nhận đã tiếp nhận và phản hồi giải pháp trong tối đa 4 giờ làm việc.",
+          "metrics": [],
+          "media": [
+            {
+              "id": "ai-auto-1794486479992-4",
+              "url": "/uploads/ai-generated/ai-local-1794486479991-58b3609d.svg",
+              "caption": "Ảnh AI tự động bù theo chủ đề: PHÂN TÍCH SÂU 3 THÁCH THỨC VÀ 3 GIẢI PHÁP THỰC TIỄN KHI LÀM VIỆC NHÓM",
+              "sourceType": "ai-generated",
+              "aiPromptUsed": "Minimalist clean workspace photography representing \"PHÂN TÍCH SÂU 3 THÁCH THỨC VÀ 3 GIẢI PHÁP THỰC TIỄN KHI LÀM VIỆC NHÓM\" in the field of Thiết kế Truyền thông, clean visual storytelling cards, cohesive warm color palette. Minimalist lifestyle editorial photography, natural soft daylight, tidy creative workspace flatlay, shallow depth of field. Color palette inspired by #9B302D and #EDEAE2. No watermark, no messy text overlay."
+            }
+          ],
+          "suggestedAiImagePrompt": "Minimalist clean workspace photography representing \"PHÂN TÍCH SÂU 3 THÁCH THỨC VÀ 3 GIẢI PHÁP THỰC TIỄN KHI LÀM VIỆC NHÓM\" in the field of Thiết kế Truyền thông, clean visual storytelling cards, cohesive warm color palette",
+          "preferredImageStyle": "minimal-photo",
+          "links": [],
+          "tags": [
+            "React"
+          ]
+        },
+        {
+          "id": "proj-docx-6-1794486480347",
+          "title": "ĐÁNH GIÁ HIỆU QUẢ CÔNG CỤ VÀ BÀI HỌC KINH NGHIỆM",
+          "category": "Phân tích & Nghiên cứu",
+          "sourceDocxFileName": "bài 4.docx",
+          "assignmentBrief": "PHẦN VI. ĐÁNH GIÁ HIỆU QUẢ CÔNG CỤ VÀ BÀI HỌC KINH NGHIỆM Nền tảng Ưu điểm vượt trội trong thực tế dự án Hạn chế còn tồn tại Điểm đánh giá Trello Giao diện Kanban trực quan, dễ quản lý trạng thái nhiệm vụ, giảm 40% thời ",
+          "summary": "PHẦN VI. ĐÁNH GIÁ HIỆU QUẢ CÔNG CỤ VÀ BÀI HỌC KINH NGHIỆM\nNền tảng Ưu điểm vượt trội trong thực tế dự án Hạn chế còn tồn tại Điểm đánh giá Trello Giao diện Kanban trực quan, dễ quản lý trạng thái nhiệm vụ, giảm 40% thời gian họp nhóm không cần thiết. Thiếu biểu đồ Gantt phụ thuộc",
+          "keyTakeaways": [
+            "ĐÁNH GIÁ HIỆU QUẢ CÔNG CỤ VÀ BÀI HỌC KINH NGHIỆM",
+            "Nền tảng Ưu điểm vượt trội trong thực tế dự án Hạn chế còn tồn tại Điểm đánh giá Trello Giao diện Kanban trực quan, dễ quản lý trạng thái nhiệm vụ, giảm 40% thời gian họp nhóm không cần thiết",
+            "Thiếu biểu đồ Gantt phụ thuộc"
+          ],
+          "fullRawExcerpt": "PHẦN VI. ĐÁNH GIÁ HIỆU QUẢ CÔNG CỤ VÀ BÀI HỌC KINH NGHIỆM\nNền tảng Ưu điểm vượt trội trong thực tế dự án Hạn chế còn tồn tại Điểm đánh giá Trello Giao diện Kanban trực quan, dễ quản lý trạng thái nhiệm vụ, giảm 40% thời gian họp nhóm không cần thiết. Thiếu biểu đồ Gantt phụ thuộc ở phiên bản miễn phí. 9.0 / 10 Google Docs Soạn thảo đồng thời mượt mà, tính năng Version History và Comment điều phối cực kỳ an toàn. Dễ lỗi định dạng font chữ khi copy-paste dữ liệu từ nguồn ngoài. 9.5 / 10 Google Drive Phân quyền linh hoạt, bảo mật tốt, phân cấp thư mục khoa học, lưu trữ tập trung. Tốc độ đồng bộ tệp dung lượng lớn phụ thuộc vào đường truyền mạng. 9.0 / 10 Zalo Giao tiếp tức thời, tính năng tag @All và ghim tin nhắn hiệu quả với thói quen sinh viên. Dễ trôi thông tin học thuật dài nếu không có quy ước lưu trữ chéo. 8.5 / 10\nBài học kinh nghiệm cá nhân rút ra từ quá trình làm việc số: 1. Công nghệ chỉ là bệ phóng, quy ước làm việc mới là chìa khóa thành công: Các nền tảng số dù hiện đại đến đâu cũng không thể phát huy hiệu quả nếu nhóm thiếu đi sự kỷ luật về thời hạn (deadline), quy tắc phân quyền và tiêu chuẩn đặt tên tệp thống nhất. 2. Kỹ năng điều phối và chủ động giao tiếp minh bạch: Trong môi trường làm việc trực tuyến, việc chủ động lên tiếng, xác nhận tiến độ và để lại các bình luận điều phối mang tính xây dựng giúp duy trì động lực chung và ngăn chặn mọi hiểu lầm nội bộ. 3. Hình thành tư duy số hóa quy trình (Digital Workflow Mindset): Khả năng kết nối linh hoạt giữa bảng quản lý tiến độ, kho tài nguyên đám mây và công cụ cộng tác văn bản thời gian thực là năng lực số nền tảng, tạo tiền đề vững chắc cho các dự án nghiên cứu học thuật phức tạp hơn trong tương lai.",
+          "metrics": [
+            {
+              "label": "Điểm đánh giá",
+              "value": "9.0/10"
+            },
+            {
+              "label": "Chỉ số nổi bật",
+              "value": "40%"
+            }
+          ],
+          "media": [
+            {
+              "id": "ai-auto-1794486480347-5",
+              "url": "/uploads/ai-generated/ai-local-1794486480346-ccc26132.svg",
+              "caption": "Ảnh AI tự động bù theo chủ đề: ĐÁNH GIÁ HIỆU QUẢ CÔNG CỤ VÀ BÀI HỌC KINH NGHIỆM",
+              "sourceType": "ai-generated",
+              "aiPromptUsed": "Minimalist clean workspace photography representing \"ĐÁNH GIÁ HIỆU QUẢ CÔNG CỤ VÀ BÀI HỌC KINH NGHIỆM\" in the field of Phân tích & Nghiên cứu, clean visual storytelling cards, cohesive warm color palette. Minimalist lifestyle editorial photography, natural soft daylight, tidy creative workspace flatlay, shallow depth of field. Color palette inspired by #9B302D and #EDEAE2. No watermark, no messy text overlay."
+            }
+          ],
+          "suggestedAiImagePrompt": "Minimalist clean workspace photography representing \"ĐÁNH GIÁ HIỆU QUẢ CÔNG CỤ VÀ BÀI HỌC KINH NGHIỆM\" in the field of Phân tích & Nghiên cứu, clean visual storytelling cards, cohesive warm color palette",
+          "preferredImageStyle": "minimal-photo",
+          "links": [],
+          "tags": [
+            "PAS"
+          ]
+        }
+      ]
+    },
+    {
+      "type": "hero",
+      "variant": "canva-cover",
+      "headline": "Digital Portfolio",
+      "fullName": "bài 4",
+      "roleTitle": "Digital Creator & AI Practical Portfolio",
+      "shortBio": "Tổng hợp 6 bài tập và dự án thực hành về Phân tích & Nghiên cứu, Thiết kế Truyền thông, AI Prompt Engineering được xây dựng bài bản và đo lường kết quả rõ ràng.",
+      "avatar": {
+        "url": "",
+        "sourceType": "docx-extracted",
+        "frameStyle": "rounded-rect",
+        "aspectRatio": "3/4"
+      },
+      "quickTags": [
+        "Phân tích & Nghiên cứu",
+        "Thiết kế Truyền thông",
+        "AI Prompt Engineering"
+      ],
+      "ctaButtons": [
+        {
+          "label": "Khám phá Dự án",
+          "href": "#projects",
+          "style": "primary"
+        },
+        {
+          "label": "Thông tin Liên hệ",
+          "href": "#contact",
+          "style": "outline"
+        }
+      ],
+      "decorations": [
+        {
+          "id": "dec-1",
+          "type": "floating-tag",
+          "label": "DIGITAL PORTFOLIO • 2026",
+          "position": {
+            "top": "8%",
+            "right": "5%",
+            "rotate": 4,
+            "zIndex": 3
+          }
+        },
+        {
+          "id": "dec-2",
+          "type": "badge",
+          "label": "✦ Sư phạm Âm nhạc & AI",
+          "position": {
+            "left": "4%",
+            "bottom": "12%",
+            "rotate": -3,
+            "zIndex": 3
+          }
+        }
+      ]
+    },
+    {
+      "type": "about",
+      "variant": "story-card",
+      "title": "About me • Giới thiệu bản thân",
+      "biography": "Xin chào! Mình là bài 4 (Digital Creator & AI Practical Portfolio). Portfolio này được tổng hợp trực tiếp từ hồ sơ bài tập thực chiến gồm 6 dự án thuộc các mảng Phân tích & Nghiên cứu, Thiết kế Truyền thông, AI Prompt Engineering. Mỗi bài tập đều được chuẩn hóa theo tư duy Đề bài - Giải pháp - Kết quả nhằm thể hiện năng lực triển khai thực tế.",
+      "highlights": [
+        {
+          "label": "Dự án thực hành",
+          "value": "6 Case Studies"
+        },
+        {
+          "label": "Ảnh từ DOCX",
+          "value": "11 ảnh"
+        },
+        {
+          "label": "Ảnh AI bổ sung",
+          "value": "2 ảnh"
+        },
+        {
+          "label": "Lĩnh vực chính",
+          "value": "Phân tích & Nghiên cứu"
+        }
+      ],
+      "contactInfo": {
+        "socials": []
+      }
+    },
+    {
+      "type": "skills",
+      "variant": "canva-visual-grid",
+      "title": "Tools & Kỹ Năng Nổi Bật",
+      "categories": [
+        {
+          "name": "Chuyên môn & Thực chiến",
+          "skills": [
+            {
+              "name": "Phân tích & Nghiên cứu",
+              "level": 95
+            },
+            {
+              "name": "Thiết kế Truyền thông",
+              "level": 92
+            },
+            {
+              "name": "AI Prompt Engineering",
+              "level": 89
+            }
+          ]
+        },
+        {
+          "name": "Công cụ & Nền tảng",
+          "skills": [
+            {
+              "name": "Canva Visual & Editorial Design",
+              "level": 92
+            },
+            {
+              "name": "AI Prompt Engineering (ChatGPT / Gemini)",
+              "level": 94
+            },
+            {
+              "name": "Phân tích Insight & Dữ liệu Khách hàng",
+              "level": 88
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "education",
+      "title": "Education • Học vấn",
+      "items": []
+    },
+    {
+      "type": "contact",
+      "title": "Conclusion & Contact",
+      "subtitle": "Cảm ơn bạn đã xem hồ sơ của bài 4. Vui lòng xác nhận thông tin liên hệ trước khi công bố.",
+      "thankYouMessage": "THANK YOU FOR WATCHING!",
+      "showContactForm": true
+    }
+  ]
+}
