@@ -1358,7 +1358,7 @@ export function ProjectsShowcaseBlock({
           >
             {formatSectionEyebrow(
               archetypeId,
-              "05",
+              "04",
               "Case Studies & Assignments",
             )}
           </span>
