@@ -13,7 +13,7 @@ import {
 
 export default function HomePage() {
   if (process.env.NODE_ENV === 'production') {
-    redirect('/nguyenngocdiepportfolio#projects');
+    redirect('/nguyenngocdiepportfolio');
   }
 
   return (

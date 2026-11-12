@@ -243,7 +243,6 @@ export function PublicPortfolioClient({
           <nav
             aria-label="Điều hướng nhanh Portfolio"
             className={`fixed bottom-4 left-4 z-40 hidden items-center gap-1 rounded-full border p-1.5 shadow-xl backdrop-blur-md lg:flex no-print ${dockContainerClass}`}
-        style={{ display: 'none' }}
           >
             {navItems.map((item) => {
               const isActive = activeSection === item.id;
@@ -317,7 +316,7 @@ export function PublicPortfolioClient({
       </div>
 
       {/* Compact mobile dock combines navigation and actions to avoid overlap. */}
-      <div className="fixed inset-x-3 bottom-[calc(env(safe-area-inset-bottom)+1rem)] z-40 flex items-center justify-between gap-2 lg:hidden no-print" style={{ display: 'none' }}>
+      <div className="fixed inset-x-3 bottom-[calc(env(safe-area-inset-bottom)+1rem)] z-40 flex items-center justify-start gap-2 lg:hidden no-print">
         {navItems.length > 0 ? (
           <div className="relative shrink-0">
             {mobileNavOpen && (
@@ -364,32 +363,6 @@ export function PublicPortfolioClient({
           <span />
         )}
 
-        <div
-          className={`flex items-center gap-1.5 rounded-full border p-1.5 shadow-xl backdrop-blur-md ${dockContainerClass}`}
-        >
-          <button
-            type="button"
-            onClick={() => window.print()}
-            className={`inline-flex items-center gap-1.5 rounded-full px-2.5 py-1.5 text-xs font-semibold transition ${actionButtonClass}`}
-          >
-            <Printer className="h-3.5 w-3.5" />
-            <span>Xuất PDF</span>
-          </button>
-          <button
-            type="button"
-            disabled={downloading}
-            onClick={handleDownloadZip}
-            style={primaryActionStyle}
-            className="inline-flex items-center gap-1.5 rounded-full px-3 py-1.5 text-xs font-semibold transition hover:opacity-90 disabled:opacity-60"
-          >
-            {downloading ? (
-              <Loader2 className="h-3.5 w-3.5 animate-spin" />
-            ) : (
-              <Download className="h-3.5 w-3.5" />
-            )}
-            <span>Tải ZIP</span>
-          </button>
-        </div>
       </div>
     </div>
   );
