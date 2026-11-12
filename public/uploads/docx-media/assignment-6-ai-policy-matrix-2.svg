@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="760" height="310" viewBox="0 0 760 310">
+  <rect width="760" height="310" fill="#fff"/>
+  <text x="20" y="22" font-family="Georgia,serif" font-size="13" font-weight="bold" fill="#173452">Bảng 1: Ma trận đối chiếu khung chính sách sử dụng AI (tiếp)</text>
+  <g stroke="#aec1d5" stroke-width="1"><rect x="14" y="32" width="732" height="260" fill="#fff"/><rect x="14" y="32" width="732" height="48" fill="#112d4b" stroke="#112d4b"/><rect x="14" y="80" width="732" height="106" fill="#f1f5f8" stroke="none"/><path d="M14 32H746M14 80H746M14 186H746M14 292H746M14 32V292M146 32V292M337 32V292M536 32V292M746 32V292" fill="none"/></g>
+  <g font-family="Georgia,'Times New Roman',serif" font-size="11.5" fill="#142234">
+    <g fill="#fff" font-weight="bold"><text x="24" y="52"><tspan x="24">Tiêu chí so</tspan><tspan x="24" dy="15">sánh</tspan></text><text x="156" y="50"><tspan x="156">Học viện Âm nhạc Quốc gia</tspan><tspan x="156" dy="15">Việt Nam (VNAM)</tspan></text><text x="347" y="50"><tspan x="347">Nhạc viện Hoàng gia Anh</tspan><tspan x="347" dy="15">(RAM, London)</tspan></text><text x="546" y="50"><tspan x="546">Ý nghĩa chuyên môn đối với</tspan><tspan x="546" dy="15">Sư phạm Âm nhạc</tspan></text></g>
+    <text x="24" y="124"><tspan x="24">Chuẩn mực trích</tspan><tspan x="24" dy="15">dẫn &amp; lưu vết</tspan></text>
+    <text x="156" y="96"><tspan x="156">Kê khai công cụ AI trong phụ</tspan><tspan x="156" dy="15">lục bài nộp; trích dẫn nguồn</tspan><tspan x="156" dy="15">theo chuẩn APA 7th Edition.</tspan></text>
+    <text x="347" y="96"><tspan x="347">Tuân thủ Harvard/APA; lưu</tspan><tspan x="347" dy="15">Prompt Logs, tệp dự án DAW</tspan><tspan x="347" dy="15">(Logic Pro/Cubase) và nhật ký</tspan><tspan x="347" dy="15">chỉnh sửa.</tspan></text>
+    <text x="546" y="96"><tspan x="546">Lưu dấu quá trình giúp minh</tspan><tspan x="546" dy="15">bạch đóng góp của con người</tspan><tspan x="546" dy="15">và máy tính trong sản phẩm.</tspan></text>
+    <text x="24" y="230"><tspan x="24">Bảo vệ bản quyền</tspan><tspan x="24" dy="15">tác phẩm phái sinh</tspan></text>
+    <text x="156" y="202"><tspan x="156">Tuân thủ Luật Sở hữu trí tuệ</tspan><tspan x="156" dy="15">Việt Nam, nhất là quyền tác</tspan><tspan x="156" dy="15">giả khi phổ nhạc cho thơ và</tspan><tspan x="156" dy="15">cải biên dân ca.</tspan></text>
+    <text x="347" y="202"><tspan x="347">Tuân thủ UK Copyright Act và</tspan><tspan x="347" dy="15">đạo đức khi sử dụng dữ liệu</tspan><tspan x="347" dy="15">âm thanh huấn luyện.</tspan></text>
+    <text x="546" y="202"><tspan x="546">Giáo viên cần nắm vững luật</tspan><tspan x="546" dy="15">bản quyền để hướng dẫn học</tspan><tspan x="546" dy="15">sinh sáng tạo hợp pháp.</tspan></text>
+  </g>
+</svg>

@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="760" height="700" viewBox="0 0 760 700">
+  <rect width="760" height="700" fill="#fff"/>
+  <rect x="24" y="24" width="712" height="148" rx="3" fill="#eef3f8"/>
+  <rect x="24" y="24" width="5" height="148" fill="#173452"/>
+  <text x="46" y="58" font-family="Georgia,'Times New Roman',serif" font-size="14" font-style="italic" fill="#17212e">
+    <tspan x="46">Bạn là một giáo viên Âm nhạc trường THPT. Hãy soạn một kế hoạch bài dạy</tspan>
+    <tspan x="46" dy="22">(giáo án) cho học sinh lớp 10 với chủ đề: Hướng dẫn học sinh phổ nhạc</tspan>
+    <tspan x="46" dy="22">cho bài thơ “Đây mùa thu tới” của nhà thơ Xuân Diệu. Yêu cầu có phần</tspan>
+    <tspan x="46" dy="22">hướng dẫn viết giai điệu và gợi ý hòa âm đệm đàn cho hai câu thơ đầu.</tspan>
+  </text>
+  <rect x="24" y="198" width="712" height="478" rx="3" fill="#eef3f8"/>
+  <rect x="24" y="198" width="5" height="478" fill="#173452"/>
+  <g font-family="Georgia,'Times New Roman',serif" fill="#17212e">
+    <text x="46" y="232" font-size="15" font-weight="bold">ĐẦU RA NGUYÊN BẢN CỦA AI 1 (AI RAW OUTPUT 1)</text>
+    <text x="46" y="268" font-size="13" font-style="italic"><tspan font-weight="bold">Kế hoạch bài dạy:</tspan> Phổ nhạc cho thơ “Đây mùa thu tới” (Âm nhạc lớp 10)</text>
+    <text x="46" y="302" font-size="12.5" font-style="italic">
+      <tspan x="46">1. Mục tiêu: Học sinh biết cách phổ nhạc cho một đoạn thơ ngắn, nắm được</tspan><tspan x="46" dy="17">nhịp 4/4 và hát được giai điệu tự sáng tác.</tspan>
+      <tspan x="46" dy="23">2. Chuẩn bị: Đàn organ, bảng kẻ khuông nhạc, sách giáo khoa Ngữ văn 11.</tspan>
+      <tspan x="46" dy="23">3. Tiến trình dạy học:</tspan>
+      <tspan x="58" dy="18">- Khởi động: Giáo viên cho học sinh đọc thuộc lòng bài thơ.</tspan>
+      <tspan x="58" dy="18">- Hướng dẫn viết giai điệu: Chia câu thơ thành các ô nhịp 4/4; chọn cao độ</tspan><tspan x="58" dy="18">phù hợp với ngữ điệu và cảm xúc của bài thơ.</tspan>
+      <tspan x="58" dy="18">- Thực hành: Học sinh làm việc cá nhân, điền nốt nhạc vào khuông.</tspan>
+      <tspan x="58" dy="18">- Trình bày: Một số em hát thử; cả lớp nhận xét và hoàn thiện giai điệu.</tspan>
+      <tspan x="46" dy="24">4. Gợi ý hòa âm: Có thể dùng hợp âm Am, F, C, G cho đoạn thơ; giáo viên</tspan><tspan x="46" dy="18">đệm đàn và điều chỉnh tiết tấu để hỗ trợ phần trình bày.</tspan>
+      <tspan x="46" dy="24">5. Đánh giá: Dựa trên sự phù hợp giữa giai điệu, nhịp điệu và nội dung thơ;</tspan><tspan x="46" dy="18">khuyến khích học sinh giải thích lựa chọn sáng tạo của mình.</tspan>
+    </text>
+  </g>
+</svg>

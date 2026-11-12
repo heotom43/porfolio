@@ -415,7 +415,32 @@
             "Xây dựng khung nội dung Infographic \"The Tuning Fork of Integrity\" tích hợp bộ lọc 3 giây kiểm định tần số liêm chính và chu trình T-U-N-E."
           ],
           "metrics": [],
-          "media": [],
+          "media": [
+            {
+              "id": "project-6-ai-policy-matrix-1",
+              "url": "/uploads/docx-media/assignment-6-ai-policy-matrix-1.svg",
+              "caption": "AI policy matrix - page 1",
+              "sourceType": "user-uploaded"
+            },
+            {
+              "id": "project-6-ai-policy-matrix-2",
+              "url": "/uploads/docx-media/assignment-6-ai-policy-matrix-2.svg",
+              "caption": "AI policy matrix - page 2",
+              "sourceType": "user-uploaded"
+            },
+            {
+              "id": "project-6-ai-prompt-output",
+              "url": "/uploads/docx-media/assignment-6-ai-prompt-output.svg",
+              "caption": "AI lesson-plan prompt and output",
+              "sourceType": "user-uploaded"
+            },
+            {
+              "id": "project-6-music-lesson-plan",
+              "url": "/uploads/docx-media/assignment-6-music-lesson-plan.svg",
+              "caption": "Music lesson plan - page 5",
+              "sourceType": "user-uploaded"
+            }
+          ],
           "suggestedAiImagePrompt": "BÁO CÁO HỌC THUẬT\nNGHIÊN CỨU VÀ ỨNG DỤNG TRÍ TUỆ NHÂN TẠO CÓ TRÁCH NHIỆM TRONG HỌC THUẬT VÀ NGHIÊN CỨU\n",
           "preferredImageStyle": "minimal-photo",
           "links": [],
