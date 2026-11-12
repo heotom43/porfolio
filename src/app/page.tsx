@@ -1,5 +1,6 @@
 import React from 'react';
 import Link from 'next/link';
+import { redirect } from 'next/navigation';
 import {
   FileText,
   Sparkles,
@@ -11,6 +12,10 @@ import {
 } from 'lucide-react';
 
 export default function HomePage() {
+  if (process.env.NODE_ENV === 'production') {
+    redirect('/nguyenngocdiepportfolio#projects');
+  }
+
   return (
     <div className="min-h-screen bg-[#FFF3E6] text-[#3E2723]">
       <header className="border-b border-[#3E2723]/10 bg-white/75 backdrop-blur-md">
